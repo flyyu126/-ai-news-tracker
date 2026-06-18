@@ -1,0 +1,1013 @@
+{
+  "items": [
+    {
+      "id": "2606.19341",
+      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "title_cn": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their...",
+      "summary_cn": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their...",
+      "authors": [
+        "Zhenghao Xing",
+        "Ruiyang Xu",
+        "Yuxuan Wang",
+        "Jinzheng He",
+        "Ziyang Ma"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.CL",
+        "cs.SD"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T17:59:56Z",
+      "updated": "2026-06-17T17:59:56Z",
+      "link": "http://arxiv.org/abs/2606.19341v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19341v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP/大模型",
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "video",
+        "understanding",
+        "native",
+        "omni",
+        "modal"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19338",
+      "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+      "title_cn": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+      "summary": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the full state, conflate hidden-state reconstruction with other agent skills, or test recall only after an ...",
+      "summary_cn": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the full state, conflate hidden-state reconstruction with other agent skills, or test recall only after an ...",
+      "authors": [
+        "Shengyuan Ding",
+        "Xilin Wei",
+        "Xinyu Fang",
+        "Haodong Duan",
+        "Dahua Lin"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T17:59:34Z",
+      "updated": "2026-06-17T17:59:34Z",
+      "link": "http://arxiv.org/abs/2606.19338v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19338v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "强化学习",
+        "多模态",
+        "数据集/评估",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "multimodal",
+        "models",
+        "non",
+        "markov",
+        "games"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19336",
+      "title": "Learning User Simulators with Turing Rewards",
+      "title_cn": "Learning User Simulators with Turing Rewards",
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth respo...",
+      "summary_cn": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth respo...",
+      "authors": [
+        "Yingshan Susan Wang",
+        "Cedegao E. Zhang",
+        "Linlu Qiu",
+        "Zexue He",
+        "Pengyuan Li"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-06-17T17:58:48Z",
+      "updated": "2026-06-17T17:58:48Z",
+      "link": "http://arxiv.org/abs/2606.19336v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19336v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "大模型/LLM",
+        "NLP",
+        "强化学习",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "learning",
+        "turing",
+        "training",
+        "user",
+        "simulators"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19334",
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "title_cn": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, n...",
+      "summary_cn": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, n...",
+      "authors": [
+        "Denis Peskoff",
+        "Joe Barrow",
+        "Christopher Vu",
+        "Diag Davenport"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.CY",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-06-17T17:58:22Z",
+      "updated": "2026-06-17T17:58:22Z",
+      "link": "http://arxiv.org/abs/2606.19334v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19334v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "机器学习",
+        "强化学习",
+        "AI应用"
+      ],
+      "keywords": [
+        "local",
+        "law",
+        "locus",
+        "legal",
+        "access"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19333",
+      "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+      "title_cn": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+      "summary": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answer to this question. However, difficulties in estimating hand-object interaction and crossing the hum...",
+      "summary_cn": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answer to this question. However, difficulties in estimating hand-object interaction and crossing the hum...",
+      "authors": [
+        "Bhawna Paliwal",
+        "Haritheja Etukuru",
+        "William Liang",
+        "Pieter Abbeel",
+        "Nur Muhammad Mahi Shafiullah"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2026-06-17T17:57:34Z",
+      "updated": "2026-06-17T17:57:34Z",
+      "link": "http://arxiv.org/abs/2606.19333v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19333v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器人",
+        "CV",
+        "NLP"
+      ],
+      "keywords": [
+        "human",
+        "manipulation",
+        "videos",
+        "dexterous",
+        "robot"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19328",
+      "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+      "title_cn": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+      "summary": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of ...",
+      "summary_cn": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of ...",
+      "authors": [
+        "Mohamed Nabail",
+        "Leo Cheng",
+        "Jingmin Wang",
+        "Nicholas Rhinehart"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.RO"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:54:32Z",
+      "updated": "2026-06-17T17:54:32Z",
+      "link": "http://arxiv.org/abs/2606.19328v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19328v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "机器人",
+        "强化学习",
+        "模型压缩/部署"
+      ],
+      "keywords": [
+        "preference",
+        "learning",
+        "reward",
+        "uncertainty",
+        "balanced"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19327",
+      "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+      "title_cn": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+      "summary": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations that are expensive to obtain and may themselves be noisy, incomplete, or partially incorrect; even wh...",
+      "summary_cn": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations that are expensive to obtain and may themselves be noisy, incomplete, or partially incorrect; even wh...",
+      "authors": [
+        "Siyi Gu",
+        "Jialin Chen",
+        "Sophia Zhou",
+        "Arman Cohan",
+        "Rex Ying"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-06-17T17:54:04Z",
+      "updated": "2026-06-17T17:54:04Z",
+      "link": "http://arxiv.org/abs/2606.19327v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19327v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP/大模型",
+        "大模型/LLM",
+        "强化学习",
+        "模型压缩/部署",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "distillation",
+        "learning",
+        "reinforcement",
+        "rewards",
+        "rethinking"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19317",
+      "title": "Explaining Attention with Program Synthesis",
+      "title_cn": "Explaining Attention with Program Synthesis",
+      "summary": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approximating the behavior of components of deep networks with executable programs. We focus on attention hea...",
+      "summary_cn": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approximating the behavior of components of deep networks with executable programs. We focus on attention hea...",
+      "authors": [
+        "Amiri Hayes",
+        "Belinda Li",
+        "Jacob Andreas"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:40:55Z",
+      "updated": "2026-06-17T17:40:55Z",
+      "link": "http://arxiv.org/abs/2606.19317v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19317v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "AI应用",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "attention",
+        "deep",
+        "language",
+        "explaining",
+        "program"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19316",
+      "title": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field",
+      "title_cn": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field",
+      "summary": "Recently neural implicit rendering techniques have evolved rapidly and demonstrated significant advantages in novel view synthesis and 3D scene reconstruction. However, existing neural rendering methods for editing purposes offer limited functionalities, e.g., rigid transformation and category-speci...",
+      "summary_cn": "Recently neural implicit rendering techniques have evolved rapidly and demonstrated significant advantages in novel view synthesis and 3D scene reconstruction. However, existing neural rendering methods for editing purposes offer limited functionalities, e.g., rigid transformation and category-speci...",
+      "authors": [
+        "Chong Bao",
+        "Yuan Li",
+        "Bangbang Yang",
+        "Yujun Shen",
+        "Hujun Bao"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T17:39:21Z",
+      "updated": "2026-06-17T17:39:21Z",
+      "link": "http://arxiv.org/abs/2606.19316v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19316v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "模型压缩/部署",
+        "AI应用"
+      ],
+      "keywords": [
+        "neural",
+        "editing",
+        "mesh",
+        "disentangled",
+        "implicit"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19315",
+      "title": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+      "title_cn": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+      "summary": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progress has been made in using state-of-the-art Auto-Regressive (AR) LLMs for formal theorem proving, thes...",
+      "summary_cn": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progress has been made in using state-of-the-art Auto-Regressive (AR) LLMs for formal theorem proving, thes...",
+      "authors": [
+        "Ruida Wang",
+        "Rui Pan",
+        "Pengcheng Wang",
+        "Shizhe Diao",
+        "Tong Zhang"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:38:32Z",
+      "updated": "2026-06-17T17:38:32Z",
+      "link": "http://arxiv.org/abs/2606.19315v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19315v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "大模型/LLM",
+        "NLP",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "formal",
+        "theorem",
+        "proving",
+        "auto",
+        "regressive"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19308",
+      "title": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+      "title_cn": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+      "summary": "Large language model (LLM)-based multi-agent systems (MAS) have demonstrated great potential in solving tasks with execution complexity, by distributing subtasks across cooperative agents. However, this divide-and-conquer paradigm falls short on decision-making tasks that are also prevalent in the r...",
+      "summary_cn": "Large language model (LLM)-based multi-agent systems (MAS) have demonstrated great potential in solving tasks with execution complexity, by distributing subtasks across cooperative agents. However, this divide-and-conquer paradigm falls short on decision-making tasks that are also prevalent in the r...",
+      "authors": [
+        "Leyang Shen",
+        "Yang Zhang",
+        "Xiaoyan Zhao",
+        "Chun Kai Ling",
+        "Tat-Seng Chua"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.MA"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-06-17T17:31:06Z",
+      "updated": "2026-06-17T17:31:06Z",
+      "link": "http://arxiv.org/abs/2606.19308v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19308v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "大模型/LLM",
+        "强化学习"
+      ],
+      "keywords": [
+        "tasks",
+        "decision",
+        "making",
+        "language",
+        "multi"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19303",
+      "title": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution",
+      "title_cn": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution",
+      "summary": "High-fidelity simulation of spatiotemporal dynamics is computationally prohibitive, necessitating efficient super-resolution techniques to reconstruct high-resolution data from coarse-grained inputs. Traditional data-driven methods often lack physical constraints, and simple physics-informed learnin...",
+      "summary_cn": "High-fidelity simulation of spatiotemporal dynamics is computationally prohibitive, necessitating efficient super-resolution techniques to reconstruct high-resolution data from coarse-grained inputs. Traditional data-driven methods often lack physical constraints, and simple physics-informed learnin...",
+      "authors": [
+        "Xizhuo",
+        "Zhang",
+        "Zekai Wang",
+        "Fei Liu",
+        "Bing Yao"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:26:51Z",
+      "updated": "2026-06-17T17:26:51Z",
+      "link": "http://arxiv.org/abs/2606.19303v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19303v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "CV/计算机视觉",
+        "模型压缩/部署"
+      ],
+      "keywords": [
+        "physics",
+        "resolution",
+        "augmented",
+        "koopman",
+        "enhanced"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19300",
+      "title": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation",
+      "title_cn": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation",
+      "summary": "Glioma segmentation in multiparametric MRI is a critical component of treatment planning. A segmentation model that fails silently on treatment-critical sub-regions represents a patient safety risk that overlap-based metrics such as Dice scores cannot expose. We ask whether voxel-level uncertainty e...",
+      "summary_cn": "Glioma segmentation in multiparametric MRI is a critical component of treatment planning. A segmentation model that fails silently on treatment-critical sub-regions represents a patient safety risk that overlap-based metrics such as Dice scores cannot expose. We ask whether voxel-level uncertainty e...",
+      "authors": [
+        "Xin Ci Wong",
+        "Duygu Sarikaya",
+        "Kieran Zucker",
+        "Marc De Kamps",
+        "Nishant Ravikumar"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T17:24:41Z",
+      "updated": "2026-06-17T17:24:41Z",
+      "link": "http://arxiv.org/abs/2606.19300v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19300v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "机器学习",
+        "CV/计算机视觉",
+        "强化学习"
+      ],
+      "keywords": [
+        "segmentation",
+        "critical",
+        "dropout",
+        "treatment",
+        "sub"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19297",
+      "title": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+      "title_cn": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+      "summary": "Embodied Vision-Language-Action (VLA) models are typically obtained by fine-tuning powerful pretrained VLMs on robotics data, yet it is unclear how much commonsense and factual knowledge they retain after adaptation. Failures on knowledge-sensitive tasks are ambiguous, conflating missing knowledge w...",
+      "summary_cn": "Embodied Vision-Language-Action (VLA) models are typically obtained by fine-tuning powerful pretrained VLMs on robotics data, yet it is unclear how much commonsense and factual knowledge they retain after adaptation. Failures on knowledge-sensitive tasks are ambiguous, conflating missing knowledge w...",
+      "authors": [
+        "Nikita Kachaev",
+        "Andrey Moskalenko",
+        "Matvey Skripkin",
+        "Nikita Kurlaev",
+        "Daria Pugacheva"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:20:46Z",
+      "updated": "2026-06-17T17:20:46Z",
+      "link": "http://arxiv.org/abs/2606.19297v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19297v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "机器人",
+        "NLP",
+        "强化学习",
+        "多模态",
+        "模型压缩/部署",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "knowledge",
+        "vla",
+        "action",
+        "commonsense",
+        "vision"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19292",
+      "title": "Risk Stratification for ICU Delirium using Pervasive Ambient Sensing Information",
+      "title_cn": "Risk Stratification for ICU Delirium using Pervasive Ambient Sensing Information",
+      "summary": "Delirium is a common and serious complication in the Intensive Care Unit (ICU), associated with increased morbidity, prolonged hospital stays, and higher healthcare costs. Despite its prevalence, early prediction and prevention remain challenging. Environmental factors such as ambient sound and ligh...",
+      "summary_cn": "Delirium is a common and serious complication in the Intensive Care Unit (ICU), associated with increased morbidity, prolonged hospital stays, and higher healthcare costs. Despite its prevalence, early prediction and prevention remain challenging. Environmental factors such as ambient sound and ligh...",
+      "authors": [
+        "Jiaqing Zhang",
+        "Sabyasachi Bandyopadhyay",
+        "Miguel Contreras",
+        "Jessica Sena",
+        "Yuanfang Ren"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T17:13:27Z",
+      "updated": "2026-06-17T17:13:27Z",
+      "link": "http://arxiv.org/abs/2606.19292v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19292v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "强化学习",
+        "AI应用"
+      ],
+      "keywords": [
+        "delirium",
+        "risk",
+        "icu",
+        "ambient",
+        "sound"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19279",
+      "title": "NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning",
+      "title_cn": "NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning",
+      "summary": "Neurosymbolic semantics is fragmented: classical, fuzzy, probabilistic and neural systems each define truth by their own inductive rules. NeSyCat, extending ULLER, subsumes them under a single inductive definition of truth, parametric in a strong monad and an aggregation structure on truth-values. N...",
+      "summary_cn": "Neurosymbolic semantics is fragmented: classical, fuzzy, probabilistic and neural systems each define truth by their own inductive rules. NeSyCat, extending ULLER, subsumes them under a single inductive definition of truth, parametric in a strong monad and an aggregation structure on truth-values. N...",
+      "authors": [
+        "Daniel Romero Schellhorn",
+        "Till Mossakowski",
+        "Björn Gehrke"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.LO",
+        "math.CT",
+        "math.LO",
+        "math.PR"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-06-17T16:56:31Z",
+      "updated": "2026-06-17T16:56:31Z",
+      "link": "http://arxiv.org/abs/2606.19279v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19279v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "机器学习"
+      ],
+      "keywords": [
+        "nesycat",
+        "neural",
+        "truth",
+        "torch",
+        "semantics"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19277",
+      "title": "A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures",
+      "title_cn": "A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures",
+      "summary": "Visual Question Answering (VQA) in the Remote Sensing (RS) domain presents unique challenges due to the high resolution, multi scale object distribution, and semantic complexity of aerial imagery. While general domain Foundation Models have achieved remarkable success, their direct application to RS...",
+      "summary_cn": "Visual Question Answering (VQA) in the Remote Sensing (RS) domain presents unique challenges due to the high resolution, multi scale object distribution, and semantic complexity of aerial imagery. While general domain Foundation Models have achieved remarkable success, their direct application to RS...",
+      "authors": [
+        "Timothy Agboada",
+        "Shikha Chandel",
+        "Yadav Raj Ghimire",
+        "Leila Hashemi-Beni"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T16:52:26Z",
+      "updated": "2026-06-17T16:52:26Z",
+      "link": "http://arxiv.org/abs/2606.19277v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19277v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP",
+        "CV/计算机视觉",
+        "模型压缩/部署"
+      ],
+      "keywords": [
+        "efficient",
+        "remote",
+        "sensing",
+        "visual",
+        "question"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19266",
+      "title": "Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA",
+      "title_cn": "Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA",
+      "summary": "The development of large language models (LLMs) has led to an increased focus on their adaptation to specialized domains and languages, yet the effectiveness of domain adaptation strategies remains unclear. We present a study of medical domain adaptation using French medical question-answering (QA) ...",
+      "summary_cn": "The development of large language models (LLMs) has led to an increased focus on their adaptation to specialized domains and languages, yet the effectiveness of domain adaptation strategies remains unclear. We present a study of medical domain adaptation using French medical question-answering (QA) ...",
+      "authors": [
+        "Ikram Belmadani",
+        "Oumaima El Khettari",
+        "Carlos Ramisch",
+        "Frederic Bechet",
+        "Richard Dufour"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-06-17T16:42:22Z",
+      "updated": "2026-06-17T16:42:22Z",
+      "link": "http://arxiv.org/abs/2606.19266v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19266v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "AI",
+        "大模型/LLM",
+        "AI应用",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "adaptation",
+        "medical",
+        "study",
+        "french",
+        "trade"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19264",
+      "title": "Structured Inference with Large Language Gibbs",
+      "title_cn": "Structured Inference with Large Language Gibbs",
+      "summary": "The knowledge encoded in large language models (LLMs) can serve as a substrate for structured reasoning over variables describing a complex world, but accessing this knowledge in a probabilistically coherent manner poses a difficult inference problem. We propose Large Language Gibbs, a scheme for st...",
+      "summary_cn": "The knowledge encoded in large language models (LLMs) can serve as a substrate for structured reasoning over variables describing a complex world, but accessing this knowledge in a probabilistically coherent manner poses a difficult inference problem. We propose Large Language Gibbs, a scheme for st...",
+      "authors": [
+        "Sanghyeok Choi",
+        "Henry Gouk",
+        "Esmeralda S. Whitammer"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-06-17T16:40:32Z",
+      "updated": "2026-06-17T16:40:32Z",
+      "link": "http://arxiv.org/abs/2606.19264v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19264v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "NLP/大模型",
+        "大模型/LLM",
+        "NLP",
+        "强化学习"
+      ],
+      "keywords": [
+        "structured",
+        "inference",
+        "language",
+        "gibbs",
+        "knowledge"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "2606.19259",
+      "title": "A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2",
+      "title_cn": "A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2",
+      "summary": "Text-rich images often contain privacy-sensitive, transactional, or decision-relevant information. As recent multimodal image generation models become increasingly capable of synthesizing realistic textual content and structured visual designs, detecting AI-generated text-rich images has become an i...",
+      "summary_cn": "Text-rich images often contain privacy-sensitive, transactional, or decision-relevant information. As recent multimodal image generation models become increasingly capable of synthesizing realistic textual content and structured visual designs, detecting AI-generated text-rich images has become an i...",
+      "authors": [
+        "Yijin Wang",
+        "Shuyi Wang",
+        "Wenhan Zhang",
+        "Yuqi Ouyang"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-06-17T16:37:16Z",
+      "updated": "2026-06-17T16:37:16Z",
+      "link": "http://arxiv.org/abs/2606.19259v1",
+      "pdf_link": "https://arxiv.org/pdf/2606.19259v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "多模态",
+        "AI安全/对齐",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "images",
+        "text",
+        "rich",
+        "detecting",
+        "generated"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "ith_2639449229",
+      "title": "英国监管机构要求谷歌整改：限期 6 个月提高搜索算法透明度",
+      "title_cn": "英国监管机构要求谷歌整改：限期 6 个月提高搜索算法透明度",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/858.htm",
+      "published": "2026-06-18T11:39:27",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "英国监管机构",
+        "要求谷歌整改",
+        "限期",
+        "个月提高搜索",
+        "算法透明度"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2613393985",
+      "title": "支持粤语：Claude 语音模式酝酿升级，新图标暗示通话式 AI 交互",
+      "title_cn": "支持粤语：Claude 语音模式酝酿升级，新图标暗示通话式 AI 交互",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/847.htm",
+      "published": "2026-06-18T11:25:20",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "语音技术",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "claude",
+        "支持粤语",
+        "语音模式酝酿",
+        "升级",
+        "新图标暗示通"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2141999991",
+      "title": "微软 Copilot AI 高危漏洞曝光：可泄露验证码、邮件等敏感数据",
+      "title_cn": "微软 Copilot AI 高危漏洞曝光：可泄露验证码、邮件等敏感数据",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/747.htm",
+      "published": "2026-06-18T09:11:39",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "copilot",
+        "微软",
+        "高危漏洞曝光",
+        "可泄露验证码",
+        "邮件等敏感数"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2520171131",
+      "title": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
+      "title_cn": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/734.htm",
+      "published": "2026-06-18T08:43:26",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "NLP",
+        "强化学习"
+      ],
+      "keywords": [
+        "xcode",
+        "bug",
+        "苹果",
+        "核心首次深度",
+        "集成"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "qbt_1735543750",
+      "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+      "title_cn": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436477.html",
+      "published": "2026-06-18 13:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "狂烧",
+        "财报泄露全网",
+        "炸锅"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1530456654",
+      "title": "国产算力正在进入Token标准化时代",
+      "title_cn": "国产算力正在进入Token标准化时代",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436468.html",
+      "published": "2026-06-18 10:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "国产算力正在",
+        "进入",
+        "标准化时代"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_401319417",
+      "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "title_cn": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436223.html",
+      "published": "2026-06-17 19:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "机器人"
+      ],
+      "keywords": [
+        "星海图创始人",
+        "高继扬",
+        "具身智能三层",
+        "技术路线",
+        "没有捷径可走"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1307013564",
+      "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+      "title_cn": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436224.html",
+      "published": "2026-06-17 19:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "九章云极发布",
+        "战略",
+        "定义智能规模",
+        "化新基建"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1087812726",
+      "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+      "title_cn": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436213.html",
+      "published": "2026-06-17 18:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "算苗",
+        "正式流片",
+        "引领国产",
+        "云端大算力芯",
+        "片再升级"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1513973953",
+      "title": "为什么最有价值的AI讨论总发生在知乎？",
+      "title_cn": "为什么最有价值的AI讨论总发生在知乎？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436211.html",
+      "published": "2026-06-17 18:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "为什么最有价",
+        "值的",
+        "讨论总发生在",
+        "知乎"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "update_time": "2026-06-18 14:25:28"
+}

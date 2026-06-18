@@ -1,0 +1,518 @@
+{
+  "items": [
+    {
+      "id": 1136590548,
+      "name": "affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "title_cn": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 217431,
+      "forks": 33375,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools"
+      ],
+      "primary_category": "ai-agents",
+      "owner": "affaan-m",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "created_at": "2026-01-18T00:51:51Z",
+      "updated_at": "2026-06-18T06:25:18Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "affaan",
+        "ecc"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1024554267,
+      "name": "NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "title_cn": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_cn": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 196394,
+      "forks": 34594,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "primary_category": "ai",
+      "owner": "NousResearch",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "created_at": "2025-07-22T22:22:28Z",
+      "updated_at": "2026-06-18T06:24:16Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "nousresearch",
+        "hermes",
+        "agent"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 614765452,
+      "name": "Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "title_cn": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "description_cn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 185008,
+      "forks": 46133,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents"
+      ],
+      "primary_category": "agentic-ai",
+      "owner": "Significant-Gravitas",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/130738209?v=4",
+      "created_at": "2023-03-16T09:21:07Z",
+      "updated_at": "2026-06-18T06:16:19Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM",
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "significant",
+        "gravitas",
+        "autogpt"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 658928958,
+      "name": "ollama/ollama",
+      "title": "ollama/ollama",
+      "title_cn": "ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "description_cn": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "stars": 174431,
+      "forks": 16669,
+      "language": "Go",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "gemma3",
+        "glm",
+        "go"
+      ],
+      "primary_category": "deepseek",
+      "owner": "ollama",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
+      "created_at": "2023-06-26T19:39:32Z",
+      "updated_at": "2026-06-18T06:23:21Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "ollama"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 574523116,
+      "name": "f/prompts.chat",
+      "title": "f/prompts.chat",
+      "title_cn": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "description_cn": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "stars": 163872,
+      "forks": 21249,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts"
+      ],
+      "primary_category": "ai",
+      "owner": "f",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
+      "created_at": "2022-12-05T13:54:13Z",
+      "updated_at": "2026-06-18T05:56:11Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "prompts",
+        "chat"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 155220641,
+      "name": "huggingface/transformers",
+      "title": "huggingface/transformers",
+      "title_cn": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "description_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "url": "https://github.com/huggingface/transformers",
+      "stars": 161684,
+      "forks": 33538,
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "primary_category": "audio",
+      "owner": "huggingface",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
+      "created_at": "2018-10-29T13:56:00Z",
+      "updated_at": "2026-06-18T06:19:19Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "NLP"
+      ],
+      "keywords": [
+        "huggingface",
+        "transformers"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 626805178,
+      "name": "langgenius/dify",
+      "title": "langgenius/dify",
+      "title_cn": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "description_cn": "Production-ready platform for agentic workflow development.",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 145667,
+      "forks": 22906,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "primary_category": "agent",
+      "owner": "langgenius",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
+      "created_at": "2023-04-12T07:40:24Z",
+      "updated_at": "2026-06-18T06:22:06Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "langgenius",
+        "dify"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 701547123,
+      "name": "open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "title_cn": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "description_cn": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "url": "https://github.com/open-webui/open-webui",
+      "stars": 142084,
+      "forks": 20420,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms"
+      ],
+      "primary_category": "ai",
+      "owner": "open-webui",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/158137808?v=4",
+      "created_at": "2023-10-06T22:08:27Z",
+      "updated_at": "2026-06-18T06:24:01Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "open",
+        "webui"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 552661142,
+      "name": "langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "title_cn": "langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "description_cn": "The agent engineering platform.",
+      "url": "https://github.com/langchain-ai/langchain",
+      "stars": 139603,
+      "forks": 23133,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "primary_category": "agents",
+      "owner": "langchain-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
+      "created_at": "2022-10-17T02:58:36Z",
+      "updated_at": "2026-06-18T06:12:49Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "langchain"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 787076358,
+      "name": "firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "title_cn": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "description_cn": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 134270,
+      "forks": 7846,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search"
+      ],
+      "primary_category": "ai",
+      "owner": "firecrawl",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "created_at": "2024-04-15T21:02:29Z",
+      "updated_at": "2026-06-18T06:19:39Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "firecrawl"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 881458615,
+      "name": "browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "title_cn": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description_cn": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 99375,
+      "forks": 11093,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "primary_category": "ai-agents",
+      "owner": "browser-use",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "created_at": "2024-10-31T16:00:56Z",
+      "updated_at": "2026-06-18T06:21:21Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "browser",
+        "use"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 669879380,
+      "name": "rasbt/LLMs-from-scratch",
+      "title": "rasbt/LLMs-from-scratch",
+      "title_cn": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "description_cn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "stars": 97327,
+      "forks": 14897,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning",
+        "finetuning"
+      ],
+      "primary_category": "ai",
+      "owner": "rasbt",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
+      "created_at": "2023-07-23T18:15:57Z",
+      "updated_at": "2026-06-18T06:23:41Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "rasbt",
+        "llms",
+        "scratch"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 909213664,
+      "name": "TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "title_cn": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_cn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 87032,
+      "forks": 16814,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "primary_category": "agent",
+      "owner": "TauricResearch",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
+      "created_at": "2024-12-28T03:31:08Z",
+      "updated_at": "2026-06-18T06:24:37Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "tauricresearch",
+        "tradingagents"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 599547518,
+      "name": "vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "title_cn": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "description_cn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "url": "https://github.com/vllm-project/vllm",
+      "stars": 83217,
+      "forks": 18174,
+      "language": "Python",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3"
+      ],
+      "primary_category": "amd",
+      "owner": "vllm-project",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
+      "created_at": "2023-02-09T11:23:20Z",
+      "updated_at": "2026-06-18T06:21:22Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "vllm",
+        "project"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 655099582,
+      "name": "mlabonne/llm-course",
+      "title": "mlabonne/llm-course",
+      "title_cn": "mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "description_cn": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "url": "https://github.com/mlabonne/llm-course",
+      "stars": 80217,
+      "forks": 9347,
+      "language": "Unknown",
+      "topics": [
+        "course",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "roadmap"
+      ],
+      "primary_category": "course",
+      "owner": "mlabonne",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/81252890?v=4",
+      "created_at": "2023-06-17T22:16:25Z",
+      "updated_at": "2026-06-18T05:30:29Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "mlabonne",
+        "llm",
+        "course"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "update_time": "2026-06-18 14:25:28"
+}

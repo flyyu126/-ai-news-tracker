@@ -1,0 +1,239 @@
+{
+  "tags": [
+    {
+      "name": "AI综合",
+      "count": 23,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "机器学习",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP",
+      "count": 11,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "机器人",
+      "count": 8,
+      "weight": 80,
+      "type": "tag"
+    },
+    {
+      "name": "AI",
+      "count": 8,
+      "weight": 80,
+      "type": "tag"
+    },
+    {
+      "name": "CV",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "learning",
+      "count": 5,
+      "weight": 25,
+      "type": "keyword"
+    },
+    {
+      "name": "language",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "AI应用",
+      "count": 1,
+      "weight": 10,
+      "type": "tag"
+    },
+    {
+      "name": "语音技术",
+      "count": 1,
+      "weight": 10,
+      "type": "tag"
+    },
+    {
+      "name": "强化学习",
+      "count": 1,
+      "weight": 10,
+      "type": "tag"
+    },
+    {
+      "name": "multi",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "training",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "manipulation",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "data",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "based",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "autonomous",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "attention",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "neural",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "using",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "large",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "visual",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "domain",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "sensing",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "medical",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "刚刚",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "工厂",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "发布",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "美元融资",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "grok",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "view",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "vlm",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "zero",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "shot",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "video",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "understanding",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "native",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "omni",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "modal",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    }
+  ],
+  "update_time": "2026-06-18 11:22:45"
+}

@@ -1,0 +1,2264 @@
+{
+  "items": [
+    {
+      "id": "ith_2639449229",
+      "title": "英国监管机构要求谷歌整改：限期 6 个月提高搜索算法透明度",
+      "title_cn": "英国监管机构要求谷歌整改：限期 6 个月提高搜索算法透明度",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/858.htm",
+      "published": "2026-06-18T11:39:27",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "英国监管机构",
+        "要求谷歌整改",
+        "限期",
+        "个月提高搜索",
+        "算法透明度"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2613393985",
+      "title": "支持粤语：Claude 语音模式酝酿升级，新图标暗示通话式 AI 交互",
+      "title_cn": "支持粤语：Claude 语音模式酝酿升级，新图标暗示通话式 AI 交互",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/847.htm",
+      "published": "2026-06-18T11:25:20",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "语音技术",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "claude",
+        "支持粤语",
+        "语音模式酝酿",
+        "升级",
+        "新图标暗示通"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2141999991",
+      "title": "微软 Copilot AI 高危漏洞曝光：可泄露验证码、邮件等敏感数据",
+      "title_cn": "微软 Copilot AI 高危漏洞曝光：可泄露验证码、邮件等敏感数据",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/747.htm",
+      "published": "2026-06-18T09:11:39",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "copilot",
+        "微软",
+        "高危漏洞曝光",
+        "可泄露验证码",
+        "邮件等敏感数"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_2520171131",
+      "title": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
+      "title_cn": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/734.htm",
+      "published": "2026-06-18T08:43:26",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "NLP",
+        "强化学习"
+      ],
+      "keywords": [
+        "xcode",
+        "bug",
+        "苹果",
+        "核心首次深度",
+        "集成"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_723109436",
+      "title": "Meta CTO 博斯沃思坦言：员工士气已接近公司史上最低水平",
+      "title_cn": "Meta CTO 博斯沃思坦言：员工士气已接近公司史上最低水平",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/429.htm",
+      "published": "2026-06-17T15:16:35",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "meta",
+        "cto",
+        "博斯沃思坦言",
+        "员工士气已接",
+        "近公司史上最"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_599279495",
+      "title": "Claude Code 用户画像：平均每周使用 20 小时，AI 代码修改占 26%",
+      "title_cn": "Claude Code 用户画像：平均每周使用 20 小时，AI 代码修改占 26%",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/428.htm",
+      "published": "2026-06-17T15:16:18",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "claude",
+        "code",
+        "用户画像",
+        "平均每周使用",
+        "小时"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_2495014373",
+      "title": "ChatGPT 语音最大规模升级：OpenAI 正筹备推出 GPT-Bidi-1 AI 模型",
+      "title_cn": "ChatGPT 语音最大规模升级：OpenAI 正筹备推出 GPT-Bidi-1 AI 模型",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/407.htm",
+      "published": "2026-06-17T14:59:02",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "语音技术",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "chatgpt",
+        "openai",
+        "gpt",
+        "bidi",
+        "语音最大规模"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_3384179875",
+      "title": "Anthropic 安抚 AI 开发者，搁置 Claude Agent SDK 基于 Token 计费变更计划",
+      "title_cn": "Anthropic 安抚 AI 开发者，搁置 Claude Agent SDK 基于 Token 计费变更计划",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/372.htm",
+      "published": "2026-06-17T14:16:14",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "anthropic",
+        "claude",
+        "agent",
+        "sdk",
+        "token"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_663681091",
+      "title": "Grok Imagine Video 1.5 模型正式上线：生成 6 秒 720P 视频仅需 25 秒",
+      "title_cn": "Grok Imagine Video 1.5 模型正式上线：生成 6 秒 720P 视频仅需 25 秒",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/330.htm",
+      "published": "2026-06-17T12:41:10",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "grok",
+        "imagine",
+        "video",
+        "模型正式上线",
+        "生成"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_2110282264",
+      "title": "软银携手 OpenAI 推出“补丁即服务”AI 驱动网络安全解决方案",
+      "title_cn": "软银携手 OpenAI 推出“补丁即服务”AI 驱动网络安全解决方案",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/290.htm",
+      "published": "2026-06-17T11:37:00",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI安全/对齐",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "openai",
+        "软银携手",
+        "推出",
+        "补丁即服务",
+        "驱动网络安全"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_2649813024",
+      "title": "成本平均便宜 30~40%，微软上线 Copilot Cowork 智能体 AI",
+      "title_cn": "成本平均便宜 30~40%，微软上线 Copilot Cowork 智能体 AI",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/289.htm",
+      "published": "2026-06-17T11:29:05",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "copilot",
+        "cowork",
+        "成本平均便宜",
+        "微软上线",
+        "智能体"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_1794117630",
+      "title": "不再卡文凭，SK 海力士应届生招聘全面取消学历要求",
+      "title_cn": "不再卡文凭，SK 海力士应届生招聘全面取消学历要求",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/213.htm",
+      "published": "2026-06-17T10:15:52",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "不再卡文凭",
+        "海力士应届生",
+        "招聘全面取消",
+        "学历要求"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_271710484",
+      "title": "消息称字节调整 AI 资源分配，重心从豆包这类大众产品转向企业服务",
+      "title_cn": "消息称字节调整 AI 资源分配，重心从豆包这类大众产品转向企业服务",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/167.htm",
+      "published": "2026-06-17T08:30:11",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "消息称字节调",
+        "资源分配",
+        "重心从豆包这",
+        "类大众产品转",
+        "向企业服务"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_3670275566",
+      "title": "1.6 万创作者洞察：Adobe 报告称 87% 受访者认为 AI 加快业务和粉丝增长",
+      "title_cn": "1.6 万创作者洞察：Adobe 报告称 87% 受访者认为 AI 加快业务和粉丝增长",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/160.htm",
+      "published": "2026-06-17T08:12:04",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "adobe",
+        "万创作者洞察",
+        "报告称",
+        "受访者认为",
+        "加快业务和粉"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_3025114352",
+      "title": "调查：六成美国消费者反感品牌营销中出现 AI",
+      "title_cn": "调查：六成美国消费者反感品牌营销中出现 AI",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/147.htm",
+      "published": "2026-06-17T07:22:12",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "调查",
+        "六成美国消费",
+        "者反感品牌营",
+        "销中出现"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_1848483400",
+      "title": "英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术",
+      "title_cn": "英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/135.htm",
+      "published": "2026-06-17T06:46:48",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "coherent",
+        "英伟达携手",
+        "扩产",
+        "光互联",
+        "黄仁勋称"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_452187473",
+      "title": "腾讯张军：智能体 WorkBuddy 将入职政务系统，全国首个省级政务智能中枢平台「湾擎」上线试运行",
+      "title_cn": "腾讯张军：智能体 WorkBuddy 将入职政务系统，全国首个省级政务智能中枢平台「湾擎」上线试运行",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/103.htm",
+      "published": "2026-06-16T21:33:48",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "workbuddy",
+        "腾讯张军",
+        "智能体",
+        "将入职政务系",
+        "全国首个省级"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_869219921",
+      "title": "腾讯网盘官宣“COMING SOON”：多应用数据互通、支持 Agent 调用",
+      "title_cn": "腾讯网盘官宣“COMING SOON”：多应用数据互通、支持 Agent 调用",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/094.htm",
+      "published": "2026-06-16T20:35:39",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "coming",
+        "soon",
+        "agent",
+        "腾讯网盘官宣",
+        "多应用数据互"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_1079153273",
+      "title": "全球最大 AI 聚合平台上线“拼好模”：Deepseek+Kimi+Gemini 以一半成本实现 Claude Fable 5 级智能",
+      "title_cn": "全球最大 AI 聚合平台上线“拼好模”：Deepseek+Kimi+Gemini 以一半成本实现 Claude Fable 5 级智能",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/964/920.htm",
+      "published": "2026-06-16T15:47:12",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "deepseek",
+        "kimi",
+        "gemini",
+        "claude",
+        "fable"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_1039682190",
+      "title": "微软称保守假设下，典型 AI 查询耗水量少于 1 滴水",
+      "title_cn": "微软称保守假设下，典型 AI 查询耗水量少于 1 滴水",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/964/881.htm",
+      "published": "2026-06-16T15:28:43",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "微软称保守假",
+        "设下",
+        "典型",
+        "查询耗水量少",
+        "滴水"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "qbt_1735543750",
+      "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+      "title_cn": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436477.html",
+      "published": "2026-06-18 13:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "狂烧",
+        "财报泄露全网",
+        "炸锅"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1530456654",
+      "title": "国产算力正在进入Token标准化时代",
+      "title_cn": "国产算力正在进入Token标准化时代",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436468.html",
+      "published": "2026-06-18 10:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "国产算力正在",
+        "进入",
+        "标准化时代"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_401319417",
+      "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "title_cn": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436223.html",
+      "published": "2026-06-17 19:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "机器人"
+      ],
+      "keywords": [
+        "星海图创始人",
+        "高继扬",
+        "具身智能三层",
+        "技术路线",
+        "没有捷径可走"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1307013564",
+      "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+      "title_cn": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436224.html",
+      "published": "2026-06-17 19:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "九章云极发布",
+        "战略",
+        "定义智能规模",
+        "化新基建"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1087812726",
+      "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+      "title_cn": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436213.html",
+      "published": "2026-06-17 18:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "算苗",
+        "正式流片",
+        "引领国产",
+        "云端大算力芯",
+        "片再升级"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1513973953",
+      "title": "为什么最有价值的AI讨论总发生在知乎？",
+      "title_cn": "为什么最有价值的AI讨论总发生在知乎？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436211.html",
+      "published": "2026-06-17 18:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "为什么最有价",
+        "值的",
+        "讨论总发生在",
+        "知乎"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1495377329",
+      "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
+      "title_cn": "微信支付发布AI专属卡 WorkBuddy率先接入",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436160.html",
+      "published": "2026-06-17 15:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "微信支付发布",
+        "专属卡",
+        "率先接入"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_749829126",
+      "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+      "title_cn": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436148.html",
+      "published": "2026-06-17 15:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "头部具身大脑",
+        "公司再获数亿",
+        "世界模型路线",
+        "抢着投"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1251771469",
+      "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
+      "title_cn": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436138.html",
+      "published": "2026-06-04 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "林俊旸新公司",
+        "卜拉格亮相",
+        "首轮估值",
+        "腾讯高榕红杉",
+        "全投了"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_3581532107",
+      "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
+      "title_cn": "Grok 4.3现已在Amazon Bedrock上正式可用",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436134.html",
+      "published": "2026-06-05 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "grok",
+        "现已在",
+        "上正式可用"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_2369584351",
+      "title": "六连冠！文远知行再度刷新中国智驾大赛连胜纪录",
+      "title_cn": "六连冠！文远知行再度刷新中国智驾大赛连胜纪录",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436130.html",
+      "published": "2026-06-06 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "六连冠",
+        "文远知行再度",
+        "刷新中国智驾",
+        "大赛连胜纪录"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_2660759291",
+      "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+      "title_cn": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436110.html",
+      "published": "2026-06-06 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "skywork",
+        "design",
+        "dynamic",
+        "workflows",
+        "天工"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_1607363044",
+      "title": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
+      "title_cn": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436082.html",
+      "published": "2026-06-08 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "cfet",
+        "英特尔晒出未",
+        "来芯片",
+        "三张底牌",
+        "氮化镓"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_4139374228",
+      "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "title_cn": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436077.html",
+      "published": "2026-06-08 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "许锦波率分子",
+        "之心完成逾亿",
+        "定义全球",
+        "蛋白质产业新",
+        "基建"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_2825151336",
+      "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+      "title_cn": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/436073.html",
+      "published": "2026-05-28 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "机器人"
+      ],
+      "keywords": [
+        "一个模型控制",
+        "手脚腰身",
+        "机器人终于学",
+        "会全身协同干",
+        "精细活了"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_3087854809",
+      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "title_cn": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/435950.html",
+      "published": "2026-05-31 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "网易有道首席",
+        "科学家段亦涛",
+        "技术扎根业务",
+        "场景"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_4105592065",
+      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+      "title_cn": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/435931.html",
+      "published": "2026-06-01 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "不儿",
+        "罗永浩",
+        "胡彦斌都来参",
+        "加这场",
+        "大赛了啊"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_1428564741",
+      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "title_cn": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/435882.html",
+      "published": "2026-06-04 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "华人女孩刷屏",
+        "没有硕博学位",
+        "年从火箭小白",
+        "猛禽",
+        "飞行操作员"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_1442648308",
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "title_cn": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/435873.html",
+      "published": "2026-06-06 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "机器人",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "三连发",
+        "阿里发布首个",
+        "具身大模型",
+        "系列"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_3533018064",
+      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "title_cn": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/06/435859.html",
+      "published": "2026-06-06 14:25:26",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "从技术向运营",
+        "生产力",
+        "质变",
+        "神州数码以",
+        "构建"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "rss_4250691403",
+      "title": "NFC 版 299 → 146 元：华为手环 10 双重补贴后半价清仓",
+      "title_cn": "NFC 版 299 → 146 元：华为手环 10 双重补贴后半价清仓",
+      "summary": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"4ba9\">华为手环 10 NFC 版国行版开售于 2025 年 3 月 20 日，发售价为 299 元。</p><p data-vmark=\"c81d\">京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅</p><ul class=\" list-paddingl",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/952.htm",
+      "published": "Thu, 18 Jun 2026 06:08:12 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "nfc",
+        "华为手环",
+        "双重补贴后半",
+        "价清仓",
+        "list"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_432684763",
+      "title": "微软承认 6 月 Win11 更新存在兼容性问题，部分第三方软件无法打开 Office 应用",
+      "title_cn": "微软承认 6 月 Win11 更新存在兼容性问题，部分第三方软件无法打开 Office 应用",
+      "summary": "<p data-vmark=\"04a6\">IT之家 6 月 18 日消息，微软更新支持文档，承认 6 月 Windows 111 累积更新（KB5094126/KB5093998）存在兼容性问题，<strong>导致部分第三方软件无法通过 OLE 自动化启动 Office 程序。</strong></p><p data-vmark=\"cb85\">IT之家注：OLE 是微软开发的技术，支持不同应用程",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/950.htm",
+      "published": "Thu, 18 Jun 2026 06:04:20 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "office",
+        "ole",
+        "微软承认",
+        "更新存在兼容",
+        "性问题"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3888597848",
+      "title": "盛色推出“OF27UTA”27 英寸显示器：4K 60Hz + 65W USB-C，1099 元",
+      "title_cn": "盛色推出“OF27UTA”27 英寸显示器：4K 60Hz + 65W USB-C，1099 元",
+      "summary": "<p data-vmark=\"f7b9\">IT之家 6 月 18 日消息，盛色现已在京东上架一款型号为“OF27UTA”的 27 英寸显示器，该机主打 4K 60Hz，<strong>定价为 1099 元</strong>，部分地区国补后低至 930.05 元。</p><p data-vmark=\"e1ee\" style=\"text-align: center;\"><img src=\"https:",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/949.htm",
+      "published": "Thu, 18 Jun 2026 06:01:35 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "英寸显示器",
+        "usb",
+        "盛色推出",
+        "text",
+        "align"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3853191386",
+      "title": "11999 元，微星 Claw 8 EX AI+ 掌机上架预售",
+      "title_cn": "11999 元，微星 Claw 8 EX AI+ 掌机上架预售",
+      "summary": "<p data-vmark=\"2b79\">IT之家 6 月 18 日消息，微星 (MSI) 现已在电商平台上架搭载英特尔锐炫 G3 Extreme 处理器的 Claw 8 EX AI+ 掌机。该产品现正进行预售，标价 11999 元。</p><p data-vmark=\"d32c\" style=\"text-align: center;\"><img src=\"https://img.ithome.c",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/948.htm",
+      "published": "Thu, 18 Jun 2026 05:58:58 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "claw",
+        "微星",
+        "掌机上架预售",
+        "msi",
+        "extreme"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3683994255",
+      "title": "漫威 & 索尼超英电影《蜘蛛侠：崭新之日》全新预告发布，7 月 29 日上映",
+      "title_cn": "漫威 & 索尼超英电影《蜘蛛侠：崭新之日》全新预告发布，7 月 29 日上映",
+      "summary": "<p data-vmark=\"9a8c\">IT之家 6 月 18 日消息，漫威 &amp; 索尼超英电影《蜘蛛侠：崭新之日》今日发布全新预告，7 月 29 日全球上映。</p><p data-vmark=\"e424\" style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" target=\"",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/946.htm",
+      "published": "Thu, 18 Jun 2026 05:53:10 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "漫威",
+        "索尼超英电影",
+        "蜘蛛侠",
+        "崭新之日",
+        "全新预告发布"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4178010917",
+      "title": "英伟达机器人自学“装显卡”：把 AI 带到现实世界直接放养，还要开源",
+      "title_cn": "英伟达机器人自学“装显卡”：把 AI 带到现实世界直接放养，还要开源",
+      "summary": "<p data-vmark=\"8728\">IT之家 6 月 18 日消息，英伟达 GEAR 实验室联合负责人 Jim Fan 昨日（6 月 17 日）晒出一段视频，宣布首次在物理世界中启用了 AutoResearch。</p><p data-vmark=\"988a\">ENPIRE 是英伟达 GEAR 实验室提出的一个编码智能体框架，<strong>可将现实世界的机器人学习转化为可控的优化过程，从而",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/945.htm",
+      "published": "Thu, 18 Jun 2026 05:52:40 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉",
+        "强化学习",
+        "机器人"
+      ],
+      "keywords": [
+        "gear",
+        "英伟达机器人",
+        "自学",
+        "装显卡",
+        "带到现实世界"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_857063899",
+      "title": "数据同步不绕路：微软 Edge 浏览器下月可直连谷歌账号，同步书签等",
+      "title_cn": "数据同步不绕路：微软 Edge 浏览器下月可直连谷歌账号，同步书签等",
+      "summary": "<p data-vmark=\"cd0e\">IT之家 6 月 18 日消息，科技媒体 NeoWin 昨日（6 月 17 日）发布博文，报道称微软松绑 Microsoft Edge 浏览器账号限制，<strong>计划 7 月支持谷歌账户，用户无需微软账户（MSA）即可同步浏览器数据。</strong></p><p data-vmark=\"316a\">IT之家注：Microsoft Edge 浏览器目",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/944.htm",
+      "published": "Thu, 18 Jun 2026 05:49:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "edge",
+        "microsoft",
+        "数据同步不绕",
+        "微软",
+        "浏览器下月可"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1530845850",
+      "title": "森海塞尔旗下首款耳夹式耳机 ACCENTUM Clip 开启预售：12mm 动圈、36 小时续航，1499 元",
+      "title_cn": "森海塞尔旗下首款耳夹式耳机 ACCENTUM Clip 开启预售：12mm 动圈、36 小时续航，1499 元",
+      "summary": "<p data-vmark=\"3641\">IT之家 6 月 18 日消息，森海塞尔宣布旗下首款耳夹式耳机 ACCENTUM Clip 现已经开启预售，首发价 1499 元，6 月 30 日开启首销。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/Vgp8iZR\" target=\"_blank\" data-wapurl=\"http",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/943.htm",
+      "published": "Thu, 18 Jun 2026 05:36:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "多模态"
+      ],
+      "keywords": [
+        "accentum",
+        "clip",
+        "森海塞尔旗下",
+        "首款耳夹式耳",
+        "开启预售"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4036196101",
+      "title": "奔驰轴向磁通电机量产落地，首搭跑车 AMG GT 零百加速 2.1 秒",
+      "title_cn": "奔驰轴向磁通电机量产落地，首搭跑车 AMG GT 零百加速 2.1 秒",
+      "summary": "<p data-vmark=\"da28\">IT之家 6 月 18 日消息，“奔驰星闻”官方公众号今天（6 月 18 日）发布博文，<strong>宣布梅赛德斯-奔驰正式启动轴向磁通电机大规模量产。</strong></p><p data-vmark=\"5cf0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupl",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/941.htm",
+      "published": "Thu, 18 Jun 2026 05:28:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "amg",
+        "奔驰轴向磁通",
+        "电机量产落地",
+        "首搭跑车",
+        "零百加速"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2698123398",
+      "title": "小米澎湃 OS 3 上线 2026 父亲节限定水印，Xiaomi 17T 首发「Live Moment」水印同步向徕卡合作机型下发",
+      "title_cn": "小米澎湃 OS 3 上线 2026 父亲节限定水印，Xiaomi 17T 首发「Live Moment」水印同步向徕卡合作机型下发",
+      "summary": "<p data-vmark=\"ce30\">IT之家 6 月 18 日消息，小米相机部的产品经理 @Bao_小李 宣布为澎湃 OS 3 系统全量上线「父亲节限定水印」，即日起至 6 月 24 日可以使用。</p><blockquote><p data-vmark=\"82ba\">成长路上的每一步，都有爸爸默默托举</p><p data-vmark=\"26d4\">父亲节专属定制水印上线，延续母亲节治愈画",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/940.htm",
+      "published": "Thu, 18 Jun 2026 05:23:12 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "父亲节限定水",
+        "live",
+        "moment",
+        "小米澎湃",
+        "上线"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3831097023",
+      "title": "2026 Nature 指数发布：浙大首次登顶，打破哈佛 10 年垄断，前 10 中国占 9 席",
+      "title_cn": "2026 Nature 指数发布：浙大首次登顶，打破哈佛 10 年垄断，前 10 中国占 9 席",
+      "summary": "<p data-vmark=\"8158\">2026 年度自然（Nature）指数榜单重磅发布！</p><p data-vmark=\"c06a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/5582a166-81da-48db-9e45-9c94c04c24f7.png?x-b",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/939.htm",
+      "published": "Thu, 18 Jun 2026 05:23:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "nature",
+        "指数发布",
+        "浙大首次登顶",
+        "打破哈佛",
+        "年垄断"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2269298704",
+      "title": "任天堂向初代 Switch 游戏机推送 22.5.0 固件更新，eShop 商店从网页封装升级为原生应用",
+      "title_cn": "任天堂向初代 Switch 游戏机推送 22.5.0 固件更新，eShop 商店从网页封装升级为原生应用",
+      "summary": "<p data-vmark=\"7c00\">IT之家 6 月 18 日消息，任天堂现已向旗下初代 Switch 游戏机推送 22.5.0 固件版本更新，本次更新主要将 eShop 商店从网页封装应用升级为原生应用，从而改进了备受玩家诟病的加载缓慢问题。</p><p style=\"text-align: center;\" data-vmark=\"ebfb\"><img src=\"https://img.",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/938.htm",
+      "published": "Thu, 18 Jun 2026 05:16:57 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "eshop",
+        "游戏机推送",
+        "商店从网页封",
+        "任天堂向初代",
+        "固件更新"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2887384133",
+      "title": "Transformer 核心作者 Noam Shazeer 加入 OpenAI，谷歌 27 亿美元也没留住",
+      "title_cn": "Transformer 核心作者 Noam Shazeer 加入 OpenAI，谷歌 27 亿美元也没留住",
+      "summary": "<p data-vmark=\"2392\" style=\"text-align: left;\">谷歌花 27 亿美元请回来的传奇研究员，第二次出走。</p><p data-vmark=\"9a26\" style=\"text-align: left;\">刚刚，Transformer 核心作者 <strong>Noam Shazeer</strong> 宣布加入 OpenAI。</p><p data-vm",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/937.htm",
+      "published": "Thu, 18 Jun 2026 05:07:40 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "NLP",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "transformer",
+        "noam",
+        "shazeer",
+        "openai",
+        "核心作者"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1589205874",
+      "title": "国家网络安全通报中心示警：防范假冒公安机关恶意应用程序攻击",
+      "title_cn": "国家网络安全通报中心示警：防范假冒公安机关恶意应用程序攻击",
+      "summary": "<p data-vmark=\"0cff\">IT之家 6 月 18 日消息，“国家网络安全通报中心”公众号今天（6 月 18 日）发布博文，<strong>提醒用户防范伪装成“公安一网通办”的恶意 App。</strong>用户一旦安装，攻击者可控制用户终端设备、获取对应访问权限，实施窃密等攻击。</p><p data-vmark=\"997e\">根据通报内容，该恶意 App 下载地址为 <span ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/936.htm",
+      "published": "Thu, 18 Jun 2026 05:00:20 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI安全/对齐"
+      ],
+      "keywords": [
+        "国家网络安全",
+        "通报中心示警",
+        "防范假冒公安",
+        "机关恶意应用",
+        "程序攻击"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2690506516",
+      "title": "七工匠推出联名海鸥相机 35mm F1.7 手动镜头：采用徕卡 M 口，2258 元",
+      "title_cn": "七工匠推出联名海鸥相机 35mm F1.7 手动镜头：采用徕卡 M 口，2258 元",
+      "summary": "<p data-vmark=\"a4ab\">IT之家 6 月 18 日消息，七工匠现已推出一款联名海鸥相机的徕卡 M 卡口 35mm F1.7 相机镜头，定价为 2258 元，赠送专属徽章和 699 元相机包。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/VOpOY6P\" target=\"_blank\" data-wapurl=",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/935.htm",
+      "published": "Thu, 18 Jun 2026 04:58:29 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "七工匠推出联",
+        "名海鸥相机",
+        "手动镜头",
+        "采用徕卡",
+        "dir"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_671798034",
+      "title": "国补继续！国家发展改革委宣布 6 月底前下达第三批 625 亿元消费品以旧换新资金",
+      "title_cn": "国补继续！国家发展改革委宣布 6 月底前下达第三批 625 亿元消费品以旧换新资金",
+      "summary": "<p data-vmark=\"d084\">IT之家 6 月 18 日消息，据央视新闻报道，国家发展改革委今日举行新闻发布会，介绍今年“两新”政策相关情况。新闻发言人表示，今年的“两新”政策在支持范围、补贴标准、实施机制等方面都进行了深入优化。</p><p data-vmark=\"6a0b\">国家发展改革委新闻发言人介绍，<strong>目前国家已分两批下达设备更新资金 1851 亿元</stron",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/934.htm",
+      "published": "Thu, 18 Jun 2026 04:56:28 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "国家发展改革",
+        "国补继续",
+        "委宣布",
+        "月底前下达第",
+        "三批"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_708420233",
+      "title": "限时 11.48 万元起，广汽丰田铂智 3X 骑士版车型上市",
+      "title_cn": "限时 11.48 万元起，广汽丰田铂智 3X 骑士版车型上市",
+      "summary": "<p data-vmark=\"42b3\">IT之家 6 月 18 日消息，广汽丰田宣布旗下铂智 3X 骑士版车型正式上市，该车主要采用黑化设计，限量 2000 辆，建议零售价为 12.98-14.98 万元，<strong>限时权益价 11.48-13.48 万元</strong>。</p><table class=\"editor-table\"><tbody><tr class=\"firstRow",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/933.htm",
+      "published": "Thu, 18 Jun 2026 04:47:24 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "table",
+        "限时",
+        "万元起",
+        "广汽丰田铂智",
+        "骑士版车型上"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2291616451",
+      "title": "虚幻引擎 5.8 发布：Lumen Lite 性能翻倍，Switch 2 上实现 60 fps 全局光照",
+      "title_cn": "虚幻引擎 5.8 发布：Lumen Lite 性能翻倍，Switch 2 上实现 60 fps 全局光照",
+      "summary": "<p data-vmark=\"71a5\">IT之家 6 月 18 日消息，Epic Games 今天（6 月 18 日）宣布推出虚幻引擎 5.8（Unreal Engine 5.8），<strong>在世界构建、角色动画、虚拟制片、数字人类和实时渲染等领域带来重大更新。</strong></p><p data-vmark=\"6662\">作为虚幻引擎 <span class=\"link-text-s",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/932.htm",
+      "published": "Thu, 18 Jun 2026 04:45:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "lumen",
+        "lite",
+        "fps",
+        "虚幻引擎",
+        "性能翻倍"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_184710553",
+      "title": "工信部等五部门组织开展 2026 年新能源汽车下乡活动，首批 155 款车型入选（附车型目录）",
+      "title_cn": "工信部等五部门组织开展 2026 年新能源汽车下乡活动，首批 155 款车型入选（附车型目录）",
+      "summary": "<p data-vmark=\"fbdc\">IT之家 6 月 18 日消息，工业和信息化部、商务部等五部门办公厅（综合司）今日发布关于开展 2026 年新能源汽车下乡活动的通知。</p><p style=\"text-align: center;\" data-vmark=\"02de\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/975",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/931.htm",
+      "published": "Thu, 18 Jun 2026 04:44:15 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "年新能源汽车",
+        "工信部等五部",
+        "门组织开展",
+        "下乡活动",
+        "首批"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3949335962",
+      "title": "阿里开源首个统一科学大模型 LOGOS，仅用 1/56 参数超越微软 NatureLM",
+      "title_cn": "阿里开源首个统一科学大模型 LOGOS，仅用 1/56 参数超越微软 NatureLM",
+      "summary": "<p data-vmark=\"2cdd\">IT之家 6 月 18 日消息，阿里 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院，今日宣布开源首个基于统一“科学语法”的多领域科学生成基础模型 <strong>LOGOS（Language Of Generative Objects in Science）</strong>。</p><p data-vmark=\"d128\">在六大",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/928.htm",
+      "published": "Thu, 18 Jun 2026 04:33:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "NLP"
+      ],
+      "keywords": [
+        "logos",
+        "naturelm",
+        "阿里开源首个",
+        "统一科学大模",
+        "仅用"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2205310026",
+      "title": "快舟十一号遥十三运载火箭成功发射，将微厘空间 05 组卫星送入轨道",
+      "title_cn": "快舟十一号遥十三运载火箭成功发射，将微厘空间 05 组卫星送入轨道",
+      "summary": "<p data-vmark=\"0edf\">IT之家 6 月 18 日消息，据央视新闻报道，北京时间 2026 年 6 月 17 日 11 时 58 分，快舟十一号遥十三运载火箭在酒泉卫星发射中心发射升空，将微厘空间 05 组卫星送入预定轨道，飞行试验任务取得成功。此次任务是快舟十一号运载火箭的<strong>第 6 次飞行</strong>。</p><p data-vmark=\"38f8\" sty",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/924.htm",
+      "published": "Thu, 18 Jun 2026 04:31:56 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "快舟十一号遥",
+        "十三运载火箭",
+        "将微厘空间",
+        "成功发射",
+        "组卫星送入轨"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2324895933",
+      "title": "2027 款保时捷 Taycan 官图放出，E-Shift 带来燃油车级换挡体验",
+      "title_cn": "2027 款保时捷 Taycan 官图放出，E-Shift 带来燃油车级换挡体验",
+      "summary": "<p data-vmark=\"7905\">IT之家 6 月 18 日消息，保时捷（Porsche）昨日（6 月 17 日）发布博文，<strong>公布 2027 款 Taycan 官图，并称为其注入多项重大革新，从动力系统到人机交互均实现跨越式升级。</strong></p><p data-vmark=\"b840\">操控方面，2027 款 Taycan 采用 E-Shift 虚拟换挡选项，系统模",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/917.htm",
+      "published": "Thu, 18 Jun 2026 04:28:17 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "taycan",
+        "shift",
+        "款保时捷",
+        "官图放出",
+        "带来燃油车级"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3519067400",
+      "title": "吉利银河 TT 黑色款官图公布，全新 C 级 AI 纯电轿车",
+      "title_cn": "吉利银河 TT 黑色款官图公布，全新 C 级 AI 纯电轿车",
+      "summary": "<p data-vmark=\"3085\">IT之家 6 月 18 日消息，吉利银河 TT 黑色款官图今日公布，定位“全新 C 级 AI 纯电轿车”，激光雷达、电动尾翼清晰可见。</p><p style=\"text-align: center;\" data-vmark=\"1006\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/1f0",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/909.htm",
+      "published": "Thu, 18 Jun 2026 04:22:24 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "吉利银河",
+        "全新",
+        "纯电轿车",
+        "黑色款官图公",
+        "text"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2358928914",
+      "title": "CounterPoint 报告 2026 年第 20 周全球手机销量：华为涨 23% 同比增幅最大",
+      "title_cn": "CounterPoint 报告 2026 年第 20 周全球手机销量：华为涨 23% 同比增幅最大",
+      "summary": "<p data-vmark=\"9cc9\">IT之家 6 月 18 日消息，市场调研机构 Counterpoint Research 于 6 月 16 日发布博文，<strong>报告称 2026 年第 20 周（5 月 11 日至 17 日）全球智能手机销量同比下降 8%，已连续 9 周负增长。</strong></p><p data-vmark=\"4c8c\">细分到品牌方面，在前 6 名中，仅有",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/897.htm",
+      "published": "Thu, 18 Jun 2026 04:14:13 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "counterpoint",
+        "年第",
+        "报告",
+        "周全球手机销",
+        "华为涨"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2704336758",
+      "title": "Omdia 报告：XR 头戴设备市场预计 2027 年重返增长，行业重心从头显转向眼镜形态",
+      "title_cn": "Omdia 报告：XR 头戴设备市场预计 2027 年重返增长，行业重心从头显转向眼镜形态",
+      "summary": "<p data-vmark=\"d2cc\">IT之家 6 月 18 日消息，Omdia 今日发布最新预测，全球 XR 头戴设备（XR headwear）出货量将在 2026 年下降 12%，降至 620 万台。然而，<strong>市场预计将在 2027 年恢复增长</strong>，达到 650 万台，同比增长 4.8%。此次复苏主要将由 XR 眼镜的快速扩张推动，并抵消 XR 头显出货下滑的影响",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/888.htm",
+      "published": "Thu, 18 Jun 2026 04:10:05 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "omdia",
+        "报告",
+        "头戴设备市场",
+        "预计",
+        "年重返增长"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1261634852",
+      "title": "1699 元起：猫头鹰首款处理器 AIO 液冷散热器 NL-LC1 国行发售",
+      "title_cn": "1699 元起：猫头鹰首款处理器 AIO 液冷散热器 NL-LC1 国行发售",
+      "summary": "<p data-vmark=\"2869\">IT之家 6 月 18 日消息，Noctua（猫头鹰）首款处理器一体式 (AIO) 液冷散热器 NL-LC1 现已上架国内电商平台，定价为 240mm 款 1699 元、360mm 款 1899 元、420mm 款 2099 元，另可选配 NL-ACF1 辅助散热风扇。</p><p data-vmark=\"2455\" style=\"text-align: ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/871.htm",
+      "published": "Thu, 18 Jun 2026 04:01:59 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "aio",
+        "液冷散热器",
+        "元起",
+        "猫头鹰首款处",
+        "理器"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2571841579",
+      "title": "汉王 Clear7C 皓月白电纸书今日现货开售：彩色墨水屏，1949 元",
+      "title_cn": "汉王 Clear7C 皓月白电纸书今日现货开售：彩色墨水屏，1949 元",
+      "summary": "<p data-vmark=\"dbc1\">IT之家 6 月 18 日消息，汉王宣布 Clear7C 皓月白电纸书今日现货开售，京东平台显示售价 1949 元。</p><p data-vmark=\"09e1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/ff9c941a-4aa",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/867.htm",
+      "published": "Thu, 18 Jun 2026 04:00:53 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "皓月白电纸书",
+        "今日现货开售",
+        "汉王",
+        "彩色墨水屏",
+        "text"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1766392201",
+      "title": "刷新系列火箭载荷纪录：阿丽亚娜 6 型火箭成功部署 36 颗亚马逊卫星",
+      "title_cn": "刷新系列火箭载荷纪录：阿丽亚娜 6 型火箭成功部署 36 颗亚马逊卫星",
+      "summary": "<p data-vmark=\"bab2\">IT之家 6 月 18 日消息，阿丽亚娜航天公司（Arianespace）昨日（6 月 17 日）发布公告，宣布其阿丽亚娜 6 型火箭成功发射，<strong>并成功将 36 颗亚马逊低轨星座（Amazon Leo）互联网卫星送入近地轨道。</strong></p><p data-vmark=\"4f52\">阿丽亚娜航天公司（Arianespace）成立于 ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/864.htm",
+      "published": "Thu, 18 Jun 2026 03:58:47 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "arianespace",
+        "刷新系列火箭",
+        "载荷纪录",
+        "阿丽亚娜",
+        "型火箭成功部"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2941161229",
+      "title": "爱立信宣布裴纳闻（Per Narvinger）将接任公司总裁兼首席执行官",
+      "title_cn": "爱立信宣布裴纳闻（Per Narvinger）将接任公司总裁兼首席执行官",
+      "summary": "<p data-vmark=\"d106\">IT之家 6 月 18 日消息，Ericsson（爱立信）当地时间 16 日宣布，现任总裁兼首席执行官 Börje Ekholm（鲍毅康）计划今年下半年从公司退休，董事会已任命 Per Narvinger（裴纳闻）接任这两项职务。</p><p data-vmark=\"b5d4\" style=\"text-align: center;\"><img src=\"h",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/860.htm",
+      "published": "Thu, 18 Jun 2026 03:44:22 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "per",
+        "narvinger",
+        "爱立信宣布裴",
+        "纳闻",
+        "将接任公司总"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3309083175",
+      "title": "鸿蒙智行焕新尚界 H5 推出甄选现车，有望 1-2 周内快速提车",
+      "title_cn": "鸿蒙智行焕新尚界 H5 推出甄选现车，有望 1-2 周内快速提车",
+      "summary": "<p data-vmark=\"e967\">IT之家 6 月 18 日消息，华为终端今日发布尚界 H5 甄选现车快速交付公告：为满足预定客户的快速提车需求，团队甄选了部分热门配置的车型进行预生产。如果订单与甄选现车的配置相符合，<strong>将有机会在尚界 H5 大定发布后 1-2 周内快速提车</strong>。甄选现车的数量有限，先到先得，详细信息可以咨询销售顾问。</p><p style=\"",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/859.htm",
+      "published": "Thu, 18 Jun 2026 03:42:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "周内快速提车",
+        "鸿蒙智行焕新",
+        "尚界",
+        "推出甄选现车",
+        "有望"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1769215981",
+      "title": "蔚来“Cedar S 雪松”智能系统 1.5.0 版本全量推送，辅助驾驶、座舱、NOMI 三大升级",
+      "title_cn": "蔚来“Cedar S 雪松”智能系统 1.5.0 版本全量推送，辅助驾驶、座舱、NOMI 三大升级",
+      "summary": "<p data-vmark=\"0c78\">IT之家 6 月 18 日消息，蔚来今日官宣，<strong>「Cedar S 雪松」智能系统 1.5.0 版本已全量推送</strong>。</p><h2 data-vmark=\"4d46\">ET9、全新 ES8</h2><p data-vmark=\"de65\">本次更新为 ET9、全新 ES8 带来超 80 项功能体验新增与升级优化。</p><p st",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/855.htm",
+      "published": "Thu, 18 Jun 2026 03:28:59 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "cedar",
+        "雪松",
+        "智能系统",
+        "nomi",
+        "蔚来"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1838292209",
+      "title": "BTF 3.0“无线”主机发售：270K Plus + 5070 Ti，17499 元",
+      "title_cn": "BTF 3.0“无线”主机发售：270K Plus + 5070 Ti，17499 元",
+      "summary": "<p data-vmark=\"08a6\">IT之家 6 月 18 日消息，基于七彩虹 iGame Ultra Z 家族系列产品打造的 BTF 3.0“无线”主机现已上架电商平台。其核心是英特尔酷睿 Ultra 7 处理器 270K Plus 和 NVIDIA GeForce RTX 5070 Ti 显卡，价格 17499 元，限量优惠后 16299 元。</p><p data-vmark=\"5c1",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/849.htm",
+      "published": "Thu, 18 Jun 2026 03:27:24 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "btf",
+        "plus",
+        "无线",
+        "主机发售",
+        "igame"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1983813978",
+      "title": "携程联合创始人梁建章官宣：全职男员工陪产假延长至 20 天",
+      "title_cn": "携程联合创始人梁建章官宣：全职男员工陪产假延长至 20 天",
+      "summary": "<p data-vmark=\"86ab\">IT之家 6 月 18 日消息，携程集团联合创始人、董事局主席梁建章今日在个人视频号宣布，子女出生日期在今年 5 月 1 日零时之后的全职男员工，<strong>陪产假延长至 20 天</strong>。</p><p data-vmark=\"a007\">梁建章表示：“爸爸参与育儿很重要。妈妈在孩子出生的前几个月，非常辛苦，但其实爸爸可以分担，企业应该给爸爸",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/848.htm",
+      "published": "Thu, 18 Jun 2026 03:25:27 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "携程联合创始",
+        "人梁建章官宣",
+        "全职男员工陪",
+        "产假延长至",
+        "之家"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2251747244",
+      "title": "银昕 CS240 机箱发售：提供 4× 2.5\" 热插拔盘位、标配 3 把 120mm 风扇，1999 元",
+      "title_cn": "银昕 CS240 机箱发售：提供 4× 2.5\" 热插拔盘位、标配 3 把 120mm 风扇，1999 元",
+      "summary": "<p data-vmark=\"aa7f\">IT之家 6 月 18 日消息，SilverStone（银欣 / 银昕）旗下面向高性能 NAS 应用的机箱 CS240 现已在京东发售，定价为 1999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/VGBbu3y\" target=\"_blank\" data-wapurl=\"htt",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/844.htm",
+      "published": "Thu, 18 Jun 2026 03:21:02 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "银昕",
+        "机箱发售",
+        "提供",
+        "热插拔盘位",
+        "标配"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4236014729",
+      "title": "vivo X Fold6 折叠屏手机“黑金”配色公布，6 月 26 日发布",
+      "title_cn": "vivo X Fold6 折叠屏手机“黑金”配色公布，6 月 26 日发布",
+      "summary": "<p data-vmark=\"0024\">IT之家 6 月 18 日消息，vivo 今日公布了 vivo X Fold6 折叠屏手机四款配色官图，除了此前亮相的“蓝洞”“盐湖”“极夜”配色，vivo 还带来了“黑金”配色。</p><blockquote><p data-vmark=\"5bfa\">蓝洞，灵感来自“深海大蓝洞”，是“会呼吸的蓝”，独特而神秘。</p><p data-vmark=\"154",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/838.htm",
+      "published": "Thu, 18 Jun 2026 03:15:34 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "vivo",
+        "黑金",
+        "折叠屏手机",
+        "配色公布",
+        "日发布"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1124561812",
+      "title": "应对高深宽比 3D 器件制造挑战：应用材料推出氮化硅 ALD 与钼蚀刻设备",
+      "title_cn": "应对高深宽比 3D 器件制造挑战：应用材料推出氮化硅 ALD 与钼蚀刻设备",
+      "summary": "<p data-vmark=\"849f\">IT之家 6 月 18 日消息，无论是逻辑还是存储，当今半导体先进制程的一大趋势是从第三维度挖掘性能，而随着工艺升级，尺寸微缩的同时芯片 3D 结构的深宽比正逐渐提升。如何实现材料均匀分布从而提升器件性能正成为半导体制造领域的一大课题。</p><p data-vmark=\"e4f1\">在此背景下，Applied Materials（应用材料）美国当地时间 ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/833.htm",
+      "published": "Thu, 18 Jun 2026 03:10:18 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "ald",
+        "应对高深宽比",
+        "器件制造挑战",
+        "应用材料推出",
+        "氮化硅"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1913135040",
+      "title": "七彩虹赤兔 MAG-60 马年限定磁轴键盘发布：全球限量 300 台，首发价 2199 元",
+      "title_cn": "七彩虹赤兔 MAG-60 马年限定磁轴键盘发布：全球限量 300 台，首发价 2199 元",
+      "summary": "<p data-vmark=\"3cb6\">IT之家 6 月 18 日消息，七彩虹今日推出旗下首款限量磁轴键盘：<strong>赤兔 MAG-60 马年限定磁轴键盘</strong>。</p><p data-vmark=\"755e\">这款外设融合了“汉代工艺美学”与“超跑级别用料”，采用 TTC 马年限定“白马”磁轴，<strong>全球限量 300 台、一机一码独家编号</strong>，今日（6",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/832.htm",
+      "published": "Thu, 18 Jun 2026 03:09:45 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "mag",
+        "马年限定磁轴",
+        "全球限量",
+        "七彩虹赤兔",
+        "键盘发布"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1314750334",
+      "title": "三星 Galaxy S26 FE 手机壁纸曝光，有望采用京东方 OLED 面板",
+      "title_cn": "三星 Galaxy S26 FE 手机壁纸曝光，有望采用京东方 OLED 面板",
+      "summary": "<p data-vmark=\"49c4\">IT之家 6 月 18 日消息，科技媒体 Android Headline 昨日（6 月 17 日）发布博文，分享了<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/03/03/145cd156-9595-430b-80ee-f727aef5486d.png?x",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/830.htm",
+      "published": "Thu, 18 Jun 2026 03:07:27 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "galaxy",
+        "oled",
+        "三星",
+        "手机壁纸曝光",
+        "有望采用京东"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2536201154",
+      "title": "华为昇腾 0 Day 支持智谱 GLM-5.2 模型，提供全面推理优化",
+      "title_cn": "华为昇腾 0 Day 支持智谱 GLM-5.2 模型，提供全面推理优化",
+      "summary": "<p data-vmark=\"7e29\">IT之家 6 月 18 日消息，“昇腾 AI 开发者”公众号 6 月 17 日宣布，<span class=\"js_title_inner\">昇腾 0 Day 支持 GLM-5.2，为编程与长程任务提供全面推理优化。</span><span class=\"rich_media_meta rich_media_meta_nickname\" id=\"profi",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/829.htm",
+      "published": "Thu, 18 Jun 2026 03:06:19 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "NLP",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "day",
+        "glm",
+        "华为昇腾",
+        "支持智谱",
+        "模型"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1422842891",
+      "title": "飞傲雪漫天 BEATBOX 多功能便携 CD 音箱一体机发售，可换电池设计、支持 LDAC 蓝牙，469 元起",
+      "title_cn": "飞傲雪漫天 BEATBOX 多功能便携 CD 音箱一体机发售，可换电池设计、支持 LDAC 蓝牙，469 元起",
+      "summary": "<p data-vmark=\"453c\">IT之家 6 月 18 日消息，飞傲旗下雪漫天多功能便携 CD 音箱一体机 BEATBOX 现已在京东发售，<strong>标准版定价 469 元，“少数派”联名版本定价 499 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/VaB6BXi\" target=\"_b",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/828.htm",
+      "published": "Thu, 18 Jun 2026 03:06:15 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "beatbox",
+        "ldac",
+        "飞傲雪漫天",
+        "多功能便携",
+        "音箱一体机发"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2912105466",
+      "title": "教育部发布全国高校最新名单：共计 3196 所，含本科学校 1412 所",
+      "title_cn": "教育部发布全国高校最新名单：共计 3196 所，含本科学校 1412 所",
+      "summary": "<p data-vmark=\"a9d4\">IT之家 6 月 18 日消息，教育部今日发布全国高等学校名单，截至 2026 年 6 月 17 日，<strong>全国高等学校共计 3196 所</strong>，其中：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9c18\">普通高等学校 2952 所，含本科学校 1412 所、高职（专",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/826.htm",
+      "published": "Thu, 18 Jun 2026 03:00:14 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI应用"
+      ],
+      "keywords": [
+        "共计",
+        "含本科学校",
+        "教育部发布全",
+        "国高校最新名",
+        "list"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4229806339",
+      "title": "小米之家开启 2026 端午节活动，到店体验 Xiaomi 17T 找彩蛋可领粽子手机支架",
+      "title_cn": "小米之家开启 2026 端午节活动，到店体验 Xiaomi 17T 找彩蛋可领粽子手机支架",
+      "summary": "<p data-vmark=\"71be\">IT之家 6 月 18 日消息，据卢伟冰微博，小米之家将于 2026 端午节假期开启门店活动，6 月 19 日至 6 月 21 日，前往小米之家体验小米 17T 系列 5X 长焦功能，找到并拍出 3 个以上的粽子彩蛋，即可领取 1 份粽子手机支架。</p><p style=\"text-align: center;\" data-vmark=\"5263\"><i",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/825.htm",
+      "published": "Thu, 18 Jun 2026 02:59:01 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "小米之家开启",
+        "端午节活动",
+        "到店体验",
+        "找彩蛋可领粽",
+        "子手机支架"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2554777156",
+      "title": "史上第二大数据泄露事件被曝光：涉 240 亿条记录、8.3TB 容量",
+      "title_cn": "史上第二大数据泄露事件被曝光：涉 240 亿条记录、8.3TB 容量",
+      "summary": "<p data-vmark=\"9199\">IT之家 6 月 18 日消息，科技媒体 cybernews 昨日（6 月 17 日）发布博文，<strong>发现史上第二大数据泄露事件，涉及 240 亿条记录、超过 8.3TB 容量。</strong></p><p data-vmark=\"51ad\">IT之家援引博文介绍，本次事件仅次于 2024 年的“泄露之母”（MOAB）事件，当时泄露库总体积高达",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/823.htm",
+      "published": "Thu, 18 Jun 2026 02:56:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "亿条记录",
+        "容量",
+        "史上第二大数",
+        "据泄露事件被",
+        "曝光"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2600989545",
+      "title": "小米汽车：6 月 18 日至 21 日锁单 YU7/SU7/SU7 Ultra 现车，提车送 799 元便携充放电枪",
+      "title_cn": "小米汽车：6 月 18 日至 21 日锁单 YU7/SU7/SU7 Ultra 现车，提车送 799 元便携充放电枪",
+      "summary": "<p data-vmark=\"0225\">IT之家 6 月 18 日消息，小米汽车今日公布端午节限时活动：6 月 18 日至 21 日，锁单小米 YU7/SU7/SU7 Ultra 全系现车，提车后可得价值 799 元「车载便携充放电枪」。</p><p style=\"text-align: center;\" data-vmark=\"720d\"><img src=\"https://img.ithom",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/822.htm",
+      "published": "Thu, 18 Jun 2026 02:54:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "日至",
+        "小米汽车",
+        "日锁单",
+        "现车",
+        "提车送"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4199295337",
+      "title": "8.8 英寸 LCD 屏：小米 REDMI K Pad 平板电脑 8+256G 国补后 1663 元",
+      "title_cn": "8.8 英寸 LCD 屏：小米 REDMI K Pad 平板电脑 8+256G 国补后 1663 元",
+      "summary": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"93d9\">REDMI 首款旗舰小平板 K Pad 发售于 2025 年 6 月 26 日，8GB+256GB 定价 2799 元。</p><p data-vmark=\"47dc\">京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1663.6 元：</p><",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/819.htm",
+      "published": "Thu, 18 Jun 2026 02:51:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "redmi",
+        "pad",
+        "lcd",
+        "英寸",
+        "小米"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1602671473",
+      "title": "20000mAh + 150W：酷态科 15 号电能柱京东补贴后 185 元",
+      "title_cn": "20000mAh + 150W：酷态科 15 号电能柱京东补贴后 185 元",
+      "summary": "<p data-vmark=\"6e60\">CUKTECH 酷态科 15 号电能柱发售于 2023 年 8 月份，这是一款 20000mAh 移动电源，官方售价 299 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fbd0\">京东 618 大促期间，活动价 246.9 元：</p></li><li><p data-vmark=\"6",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/818.htm",
+      "published": "Thu, 18 Jun 2026 02:51:06 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "酷态科",
+        "号电能柱京东",
+        "补贴后",
+        "cuktech",
+        "list"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4293345900",
+      "title": "思特威推出面向 AI PC 与平板电脑的 5MP 图像传感器 SC522PC",
+      "title_cn": "思特威推出面向 AI PC 与平板电脑的 5MP 图像传感器 SC522PC",
+      "summary": "<p data-vmark=\"33a3\">IT之家 6 月 18 日消息，CMOS 图像传感器供应商思特威今日宣布，<strong>全新推出面向 AI PC、平板电脑的 500 万像素 CMOS 图像传感器 ——SC522PC</strong>。</p><p data-vmark=\"ad80\" style=\"text-align: center;\"><img src=\"https://img.it",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/814.htm",
+      "published": "Thu, 18 Jun 2026 02:46:16 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "图像传感器",
+        "cmos",
+        "思特威推出面",
+        "与平板电脑的",
+        "text"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1551744205",
+      "title": "iQOO Z11i 手机开启预约：水滴屏设计、下月初发售",
+      "title_cn": "iQOO Z11i 手机开启预约：水滴屏设计、下月初发售",
+      "summary": "<p data-vmark=\"ec24\">IT之家 6 月 18 日消息，据 iQOO 手机官方微博，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/03/31/704d36fa-6ee3-4281-a3c7-43c6db925229.png?x-bce-process=image/format,f_",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/811.htm",
+      "published": "Thu, 18 Jun 2026 02:45:14 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "iqoo",
+        "手机开启预约",
+        "水滴屏设计",
+        "下月初发售",
+        "hot"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_928629044",
+      "title": "三星晶圆代工公布 2027 年 MPW 服务计划：首次纳入 2nm 节点",
+      "title_cn": "三星晶圆代工公布 2027 年 MPW 服务计划：首次纳入 2nm 节点",
+      "summary": "<p data-vmark=\"95c5\">IT之家 6 月 18 日消息，据韩媒 ZDNET Korea 报道，三星电子高管在韩国当地时间 15 日的一次活动上公布了三星晶圆代工的 2027 年 MPW（IT之家注：多项目晶圆）服务计划，<strong>首次将 2nm 节点纳入到 MPW 中</strong>。</p><table align=\"center\"><tbody><tr class=\"",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/805.htm",
+      "published": "Thu, 18 Jun 2026 02:42:16 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "mpw",
+        "服务计划",
+        "三星晶圆代工",
+        "公布",
+        "首次纳入"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2726340075",
+      "title": "消息称携程宣布给所有男性员工保底 20 天带薪陪产假",
+      "title_cn": "消息称携程宣布给所有男性员工保底 20 天带薪陪产假",
+      "summary": "<p data-vmark=\"2d51\">IT之家 6 月 18 日消息，据“大厂日爆”今日爆料，携程宣布升级员工生育福利，<strong>所有男性员工可享受保底 20 天带薪陪产假</strong>。</p><p data-vmark=\"ccde\">具体来讲，男性员工可以在配偶预产期前 5 天，至生产后的六个月内使用；<strong>若工作地陪产假多于 20 天，则以工作地为准</strong>",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/803.htm",
+      "published": "Thu, 18 Jun 2026 02:41:48 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "天带薪陪产假",
+        "消息称携程宣",
+        "布给所有男性",
+        "员工保底",
+        "ccde"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_610877065",
+      "title": "安卓最强 2nm 芯片：高通测试 6 款骁龙 8 Elite Gen 6 Pro 样品，主打灵活内存 / 性能差异",
+      "title_cn": "安卓最强 2nm 芯片：高通测试 6 款骁龙 8 Elite Gen 6 Pro 样品，主打灵活内存 / 性能差异",
+      "summary": "<p data-vmark=\"c8de\">IT之家 6 月 18 日消息，消息源 @Reptalicant 昨日（6 月 17 日）在 X 平台发布推文，爆料称高通正测试至少 6 款骁龙 8 Elite Gen 6 Pro 芯片样品，<strong>采用 2nm 工艺。</strong></p><p data-vmark=\"ac30\">消息称骁龙 8 Elite Gen 6 Pro 芯片是安卓最强",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/802.htm",
+      "published": "Thu, 18 Jun 2026 02:40:29 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "elite",
+        "gen",
+        "pro",
+        "款骁龙",
+        "安卓最强"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3859178102",
+      "title": "教育部：2026 年高考“云咨询周”6 月 22 日启动，提供文字与视频直播咨询",
+      "title_cn": "教育部：2026 年高考“云咨询周”6 月 22 日启动，提供文字与视频直播咨询",
+      "summary": "<p data-vmark=\"c8c5\">IT之家 6 月 18 日消息，根据教育部“2026 高考护航行动”有关部署，结合全国各省（区、市）高考志愿填报时间安排，2026 年高考“云咨询周”活动将于 6 月 22 日至 28 日在教育部“阳光高考”信息平台举行。</p><p data-vmark=\"84a7\">IT之家从公告中获悉，活动期间，平台将提供<strong>文字问答和视频直播</str",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/792.htm",
+      "published": "Thu, 18 Jun 2026 02:35:01 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉",
+        "AI应用"
+      ],
+      "keywords": [
+        "年高考",
+        "云咨询周",
+        "教育部",
+        "日启动",
+        "提供文字与视"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_255447466",
+      "title": "国补后 2199 → 1065 元：森海塞尔 MOMENTUM 4 代 TWS 耳机 5 折新低",
+      "title_cn": "国补后 2199 → 1065 元：森海塞尔 MOMENTUM 4 代 TWS 耳机 5 折新低",
+      "summary": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d231\">森海塞尔 MOMENTUM 4 代 TWS 耳机开售于 2024 年 2 月，主打“蓝牙 5.4+7mm 动圈”，售 2199 元。</p><p data-vmark=\"da56\">京东 618 大促期间，按下方步骤下单，政府补贴后仅需 1065.6 元：</p>",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/790.htm",
+      "published": "Thu, 18 Jun 2026 02:34:24 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "momentum",
+        "tws",
+        "森海塞尔",
+        "国补后",
+        "耳机"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2490396476",
+      "title": "魅族 Flyme AIOS 发布 6 月体验优化更新：升级 Carlink 服务，图库新增多款限时水印",
+      "title_cn": "魅族 Flyme AIOS 发布 6 月体验优化更新：升级 Carlink 服务，图库新增多款限时水印",
+      "summary": "<p data-vmark=\"4182\">IT之家 6 月 18 日消息，魅族 Flyme AIOS 今日发布 <strong>6 月体验优化公告</strong>，版本号为 Flyme 12.6.0.0A，带来多项功能升级：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"04db\"><strong>升级 Carlink 服务</str",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/787.htm",
+      "published": "Thu, 18 Jun 2026 02:33:53 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "flyme",
+        "升级",
+        "aios",
+        "carlink",
+        "魅族"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3170460333",
+      "title": "20000mAh+210W：酷态科 15 号 Ultra 电能柱 399 → 279 元近期新低",
+      "title_cn": "20000mAh+210W：酷态科 15 号 Ultra 电能柱 399 → 279 元近期新低",
+      "summary": "<p data-vmark=\"1d0f\">酷态科 15 号超级电能柱 Ultra 充电宝开售于 2024 年 &nbsp;8 月 20 日，20000mAh、多口至高输出 210W，发售价为 399 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ed32\">今日京东 618 活动价 392.2 元：</p></li><li><p ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/781.htm",
+      "published": "Thu, 18 Jun 2026 02:31:12 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "酷态科",
+        "电能柱",
+        "元近期新低",
+        "nbsp",
+        "list"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4076230161",
+      "title": "零跑汽车全球累计交付达 150 万台，8 个月卖出 50 万台",
+      "title_cn": "零跑汽车全球累计交付达 150 万台，8 个月卖出 50 万台",
+      "summary": "<p data-vmark=\"76ce\">IT之家 6 月 18 日消息，零跑汽车今日宣布全球累计交付达 150 万台，从 100 万到 150 万，仅用 8 个月。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c304\">2019 年 6 月 —— 第 1 台</p></li><li><p data-vmark=\"8f4b\">202",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/780.htm",
+      "published": "Thu, 18 Jun 2026 02:26:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "万台",
+        "零跑汽车全球",
+        "累计交付达",
+        "个月卖出",
+        "list"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2924250076",
+      "title": "Pixel 10 等手机升级谷歌安卓 17 后反馈遇到 Wi-Fi 断网故障",
+      "title_cn": "Pixel 10 等手机升级谷歌安卓 17 后反馈遇到 Wi-Fi 断网故障",
+      "summary": "<p data-vmark=\"2a00\">IT之家 6 月 18 日消息，科技媒体 Android Authority 昨日（6 月 17 日）发布博文，报道称 Pixel 10 等手机用户反馈，<strong>升级到安卓 17 系统后，遭遇怪异 Wi-Fi 故障。</strong></p><p data-vmark=\"52e0\">影响机型方面，根据 Reddit 社区、X 社交平台用户反馈，影响",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/779.htm",
+      "published": "Thu, 18 Jun 2026 02:25:04 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "pixel",
+        "等手机升级谷",
+        "歌安卓",
+        "后反馈遇到",
+        "断网故障"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1402420905",
+      "title": "摩尔线程 MTT AICUBE“家庭 AI 中枢”预售：搭自研 SoC“长江”算力达 50 TOPS，9999 元起",
+      "title_cn": "摩尔线程 MTT AICUBE“家庭 AI 中枢”预售：搭自研 SoC“长江”算力达 50 TOPS，9999 元起",
+      "summary": "<p data-vmark=\"c7d5\">IT之家 6 月 18 日消息，摩尔线程旗下 MTT AICUBE“家庭 AI 中枢”智能硬件现已在京东开启预售，<strong>16GB RAM 定价 9999 元，32GB RAM 定价为 10999 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/V609mO",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/965/778.htm",
+      "published": "Thu, 18 Jun 2026 02:24:31 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "mtt",
+        "aicube",
+        "家庭",
+        "中枢",
+        "soc"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "update_time": "2026-06-18 14:25:28"
+}

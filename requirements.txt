@@ -1,0 +1,4 @@
+# AI 热点追踪 - Python 依赖
+requests==2.31.0      # HTTP 请求库，用于调用 API 和抓取网页
+beautifulsoup4==4.12.2  # HTML 解析库，用于新闻抓取
+lxml==4.9.3           # XML 解析引擎，用于 arXiv 数据解析

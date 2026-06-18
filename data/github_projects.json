@@ -1,0 +1,352 @@
+{
+  "items": [
+    {
+      "id": 1268356440,
+      "name": "amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
+      "title": "amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
+      "title_cn": "amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
+      "description": "暂无描述",
+      "description_cn": "暂无描述",
+      "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
+      "stars": 19,
+      "forks": 0,
+      "language": "Unknown",
+      "topics": [
+        "ai",
+        "ai-voice",
+        "artificial-intelligence",
+        "audio-processing",
+        "audio-software"
+      ],
+      "primary_category": "ai",
+      "owner": "amplitudesoldierheed",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/291352278?v=4",
+      "created_at": "2026-06-13T12:39:52Z",
+      "updated_at": "2026-06-15T11:00:57Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "语音技术"
+      ],
+      "keywords": [
+        "amplitudesoldierheed",
+        "voice",
+        "changer",
+        "real",
+        "time"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1271639578,
+      "name": "lucidrains/poly-attention",
+      "title": "lucidrains/poly-attention",
+      "title_cn": "lucidrains/poly-attention",
+      "description": "Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et al. of Columbia",
+      "description_cn": "Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et al. of Columbia",
+      "url": "https://github.com/lucidrains/poly-attention",
+      "stars": 19,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning",
+        "higher-order-attention"
+      ],
+      "primary_category": "artificial-intelligence",
+      "owner": "lucidrains",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "created_at": "2026-06-16T21:42:46Z",
+      "updated_at": "2026-06-18T02:10:00Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "NLP"
+      ],
+      "keywords": [
+        "lucidrains",
+        "poly",
+        "attention"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1267150356,
+      "name": "memoriqme/memoriq",
+      "title": "memoriqme/memoriq",
+      "title_cn": "memoriqme/memoriq",
+      "description": "Encrypted AI memory vault for saving and searching AI conversations",
+      "description_cn": "Encrypted AI memory vault for saving and searching AI conversations",
+      "url": "https://github.com/memoriqme/memoriq",
+      "stars": 14,
+      "forks": 2,
+      "language": "Vue",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude",
+        "e2ee"
+      ],
+      "primary_category": "ai",
+      "owner": "memoriqme",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/291779481?v=4",
+      "created_at": "2026-06-12T09:12:10Z",
+      "updated_at": "2026-06-17T17:00:33Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "memoriqme",
+        "memoriq"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1269200759,
+      "name": "mrreviewai/ai-tools-for-solopreneurs",
+      "title": "mrreviewai/ai-tools-for-solopreneurs",
+      "title_cn": "mrreviewai/ai-tools-for-solopreneurs",
+      "description": "The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs",
+      "description_cn": "The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs",
+      "url": "https://github.com/mrreviewai/ai-tools-for-solopreneurs",
+      "stars": 9,
+      "forks": 1,
+      "language": "Unknown",
+      "topics": [
+        "ai-tools",
+        "artificial-intelligence",
+        "indie-hacker",
+        "one-person-business",
+        "productivity"
+      ],
+      "primary_category": "ai-tools",
+      "owner": "mrreviewai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/217027717?v=4",
+      "created_at": "2026-06-14T12:28:56Z",
+      "updated_at": "2026-06-15T16:13:59Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "mrreviewai",
+        "tools",
+        "solopreneurs"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1269549372,
+      "name": "holasoymalva/guia-de-programacion-con-ai",
+      "title": "holasoymalva/guia-de-programacion-con-ai",
+      "title_cn": "holasoymalva/guia-de-programacion-con-ai",
+      "description": "Guia de desarrollo y programacion con herramientas de Inteligencia Artificial y LLMS",
+      "description_cn": "Guia de desarrollo y programacion con herramientas de Inteligencia Artificial y LLMS",
+      "url": "https://github.com/holasoymalva/guia-de-programacion-con-ai",
+      "stars": 8,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "artificial-intelligence",
+        "guide"
+      ],
+      "primary_category": "ai",
+      "owner": "holasoymalva",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/13058234?v=4",
+      "created_at": "2026-06-14T21:11:04Z",
+      "updated_at": "2026-06-18T01:04:51Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "holasoymalva",
+        "guia",
+        "programacion",
+        "con"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1269141612,
+      "name": "BansheeTech/Borderline",
+      "title": "BansheeTech/Borderline",
+      "title_cn": "BansheeTech/Borderline",
+      "description": "Claude Code plugin that delegates boring, low-risk tasks (bulk i18n, trivial style tweaks) to the Gemini CLI — a transparent Claude ⇄ Gemini pipeline.",
+      "description_cn": "Claude Code plugin that delegates boring, low-risk tasks (bulk i18n, trivial style tweaks) to the Gemini CLI — a transparent Claude ⇄ Gemini pipeline.",
+      "url": "https://github.com/BansheeTech/Borderline",
+      "stars": 6,
+      "forks": 1,
+      "language": "Shell",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "artificial-intelligence",
+        "claude",
+        "claude-ai"
+      ],
+      "primary_category": "agentic-ai",
+      "owner": "BansheeTech",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/164439782?v=4",
+      "created_at": "2026-06-14T11:00:20Z",
+      "updated_at": "2026-06-15T10:12:07Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "bansheetech",
+        "borderline"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1271965633,
+      "name": "likithamadala/ai-pm-learning-fleet",
+      "title": "likithamadala/ai-pm-learning-fleet",
+      "title_cn": "likithamadala/ai-pm-learning-fleet",
+      "description": "A self-running fleet of AI agents that teaches its owner to think like an AI product manager - and maintains itself daily with no babysitting. Built on Claude Code.",
+      "description_cn": "A self-running fleet of AI agents that teaches its owner to think like an AI product manager - and maintains itself daily with no babysitting. Built on Claude Code.",
+      "url": "https://github.com/likithamadala/ai-pm-learning-fleet",
+      "stars": 4,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "agentic-workflows",
+        "ai",
+        "ai-agents",
+        "ai-product-management",
+        "artificial-intelligence"
+      ],
+      "primary_category": "agentic-workflows",
+      "owner": "likithamadala",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/283457417?v=4",
+      "created_at": "2026-06-17T07:00:31Z",
+      "updated_at": "2026-06-17T11:15:05Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "likithamadala",
+        "learning",
+        "fleet"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1271454466,
+      "name": "Noshkoto/Noshy",
+      "title": "Noshkoto/Noshy",
+      "title_cn": "Noshkoto/Noshy",
+      "description": "Your agent has amnesia. Noshy fixes that. Persistent memory for AI agents — LLM extraction, hybrid search, zero deps.",
+      "description_cn": "Your agent has amnesia. Noshy fixes that. Persistent memory for AI agents — LLM extraction, hybrid search, zero deps.",
+      "url": "https://github.com/Noshkoto/Noshy",
+      "stars": 4,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "artificial-intelligence",
+        "hermes",
+        "hermes-agent"
+      ],
+      "primary_category": "agent-skills",
+      "owner": "Noshkoto",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/263514864?v=4",
+      "created_at": "2026-06-16T17:17:40Z",
+      "updated_at": "2026-06-17T18:05:41Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "noshkoto",
+        "noshy"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1270252337,
+      "name": "thedevroom/lexai",
+      "title": "thedevroom/lexai",
+      "title_cn": "thedevroom/lexai",
+      "description": "LexAI v2 — Digital legal AI office. Next.js + Fastify + tRPC + Prisma.",
+      "description_cn": "LexAI v2 — Digital legal AI office. Next.js + Fastify + tRPC + Prisma.",
+      "url": "https://github.com/thedevroom/lexai",
+      "stars": 3,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "artificial-intelligence",
+        "english",
+        "law",
+        "legaltech",
+        "monorepo"
+      ],
+      "primary_category": "artificial-intelligence",
+      "owner": "thedevroom",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/293877671?v=4",
+      "created_at": "2026-06-15T14:29:43Z",
+      "updated_at": "2026-06-17T21:00:31Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "thedevroom",
+        "lexai"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1267406348,
+      "name": "rajfazulhussain2008/markindex-mcp",
+      "title": "rajfazulhussain2008/markindex-mcp",
+      "title_cn": "rajfazulhussain2008/markindex-mcp",
+      "description": "暂无描述",
+      "description_cn": "暂无描述",
+      "url": "https://github.com/rajfazulhussain2008/markindex-mcp",
+      "stars": 3,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "claude",
+        "llm",
+        "mcp",
+        "mcp-server"
+      ],
+      "primary_category": "artificial-intelligence",
+      "owner": "rajfazulhussain2008",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/129962380?v=4",
+      "created_at": "2026-06-12T14:07:20Z",
+      "updated_at": "2026-06-16T13:44:47Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "markindex",
+        "mcp"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "update_time": "2026-06-18 11:22:45"
+}

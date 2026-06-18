@@ -1,0 +1,245 @@
+{
+  "tags": [
+    {
+      "name": "AI综合",
+      "count": 72,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "大模型/LLM",
+      "count": 25,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "强化学习",
+      "count": 20,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "模型动态/AI编程",
+      "count": 18,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV/计算机视觉",
+      "count": 11,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "机器学习",
+      "count": 10,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "NLP/大模型",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "AI应用",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "机器人",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "AI",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "模型压缩/部署",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "模型训练/优化",
+      "count": 5,
+      "weight": 50,
+      "type": "tag"
+    },
+    {
+      "name": "多模态",
+      "count": 4,
+      "weight": 40,
+      "type": "tag"
+    },
+    {
+      "name": "数据集/评估",
+      "count": 4,
+      "weight": 40,
+      "type": "tag"
+    },
+    {
+      "name": "AI安全/对齐",
+      "count": 3,
+      "weight": 30,
+      "type": "tag"
+    },
+    {
+      "name": "text",
+      "count": 5,
+      "weight": 25,
+      "type": "keyword"
+    },
+    {
+      "name": "list",
+      "count": 5,
+      "weight": 25,
+      "type": "keyword"
+    },
+    {
+      "name": "语音技术",
+      "count": 2,
+      "weight": 20,
+      "type": "tag"
+    },
+    {
+      "name": "claude",
+      "count": 4,
+      "weight": 20,
+      "type": "keyword"
+    },
+    {
+      "name": "learning",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "language",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "openai",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "agent",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "neural",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "knowledge",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "升级",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "copilot",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "微软",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "grok",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "智能体",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "报告",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "酷态科",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "understanding",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "native",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "omni",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "modal",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    },
+    {
+      "name": "multimodal",
+      "count": 1,
+      "weight": 5,
+      "type": "keyword"
+    }
+  ],
+  "update_time": "2026-06-18 14:25:28"
+}
