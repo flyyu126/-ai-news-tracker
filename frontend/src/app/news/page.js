@@ -13,6 +13,7 @@ import NewsItem from '@/components/NewsItem';
 import SearchBar from '@/components/SearchBar';
 import FilterBar from '@/components/FilterBar';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
+import { dataUrl } from '@/lib/dataPath';
 
 export default function NewsPage() {
   const [news, setNews] = useState([]);
@@ -29,7 +30,7 @@ export default function NewsPage() {
 
         let newsData;
         try {
-          const res = await fetch('/data/news.json');
+          const res = await fetch(dataUrl('/data/news.json'));
           if (res.ok) {
             const data = await res.json();
             newsData = data.items || [];
@@ -39,7 +40,7 @@ export default function NewsPage() {
         } catch {
           // 从 all_data.json 提取
           try {
-            const res = await fetch('/data/all_data.json');
+            const res = await fetch(dataUrl('/data/all_data.json'));
             if (res.ok) {
               const data = await res.json();
               newsData = data.news || data.hot_ranking?.filter(p => p.type === 'news') || [];

@@ -15,6 +15,7 @@ import EventCard from '@/components/EventCard';
 import SearchBar from '@/components/SearchBar';
 import FilterBar from '@/components/FilterBar';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
+import { dataUrl } from '@/lib/dataPath';
 
 export default function HomePage() {
   const [data, setData] = useState(null);
@@ -32,7 +33,7 @@ export default function HomePage() {
         // 尝试加载合并数据，失败则分别加载
         let allData;
         try {
-          const res = await fetch('/data/all_data.json');
+          const res = await fetch(dataUrl('/data/all_data.json'));
           if (res.ok) {
             allData = await res.json();
           } else {
@@ -41,11 +42,11 @@ export default function HomePage() {
         } catch {
           // 分别加载各类型数据
           const [hotRes, tagRes, papersRes, newsRes, githubRes] = await Promise.all([
-            fetch('/data/hot_ranking.json').catch(() => null),
-            fetch('/data/tag_cloud.json').catch(() => null),
-            fetch('/data/papers.json').catch(() => null),
-            fetch('/data/news.json').catch(() => null),
-            fetch('/data/github_projects.json').catch(() => null),
+            fetch(dataUrl('/data/hot_ranking.json')).catch(() => null),
+            fetch(dataUrl('/data/tag_cloud.json')).catch(() => null),
+            fetch(dataUrl('/data/papers.json')).catch(() => null),
+            fetch(dataUrl('/data/news.json')).catch(() => null),
+            fetch(dataUrl('/data/github_projects.json')).catch(() => null),
           ]);
 
           const hotItems = hotRes?.ok ? (await hotRes.json()).items || [] : [];

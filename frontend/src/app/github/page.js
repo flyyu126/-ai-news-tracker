@@ -14,6 +14,7 @@ import GithubCard from '@/components/GithubCard';
 import SearchBar from '@/components/SearchBar';
 import FilterBar from '@/components/FilterBar';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
+import { dataUrl } from '@/lib/dataPath';
 
 export default function GithubPage() {
   const [projects, setProjects] = useState([]);
@@ -30,7 +31,7 @@ export default function GithubPage() {
 
         let projectsData;
         try {
-          const res = await fetch('/data/github_projects.json');
+          const res = await fetch(dataUrl('/data/github_projects.json'));
           if (res.ok) {
             const data = await res.json();
             projectsData = data.items || [];
@@ -40,7 +41,7 @@ export default function GithubPage() {
         } catch {
           // 从 all_data.json 提取
           try {
-            const res = await fetch('/data/all_data.json');
+            const res = await fetch(dataUrl('/data/all_data.json'));
             if (res.ok) {
               const data = await res.json();
               projectsData = data.github_projects || data.hot_ranking?.filter(p => p.type === 'project' || p.source === 'GitHub') || [];

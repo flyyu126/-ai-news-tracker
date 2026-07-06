@@ -14,6 +14,7 @@ import PaperCard from '@/components/PaperCard';
 import SearchBar from '@/components/SearchBar';
 import FilterBar from '@/components/FilterBar';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
+import { dataUrl } from '@/lib/dataPath';
 
 // 领域标签定义
 const DOMAIN_LABELS = [
@@ -58,7 +59,7 @@ export default function PapersPage() {
         // 先尝试从单独的文件加载
         let papersData;
         try {
-          const res = await fetch('/data/papers.json');
+          const res = await fetch(dataUrl('/data/papers.json'));
           if (res.ok) {
             const data = await res.json();
             papersData = data.items || [];
@@ -68,7 +69,7 @@ export default function PapersPage() {
         } catch {
           // 从 all_data.json 中提取
           try {
-            const res = await fetch('/data/all_data.json');
+            const res = await fetch(dataUrl('/data/all_data.json'));
             if (res.ok) {
               const data = await res.json();
               papersData = data.papers || data.hot_ranking?.filter(p => p.type === 'paper' || p.source === 'arXiv') || [];
