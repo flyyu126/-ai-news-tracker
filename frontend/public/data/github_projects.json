@@ -8,8 +8,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "description_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 217431,
-      "forks": 33375,
+      "stars": 226460,
+      "forks": 34634,
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -22,7 +22,7 @@
       "owner": "affaan-m",
       "owner_avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
       "created_at": "2026-01-18T00:51:51Z",
-      "updated_at": "2026-06-18T06:25:18Z",
+      "updated_at": "2026-07-06T09:16:26Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -42,8 +42,8 @@
       "description": "The agent that grows with you",
       "description_cn": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 196394,
-      "forks": 34594,
+      "stars": 209968,
+      "forks": 38411,
       "language": "Python",
       "topics": [
         "ai",
@@ -56,7 +56,7 @@
       "owner": "NousResearch",
       "owner_avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "created_at": "2025-07-22T22:22:28Z",
-      "updated_at": "2026-06-18T06:24:16Z",
+      "updated_at": "2026-07-06T09:16:02Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -77,8 +77,8 @@
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "description_cn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 185008,
-      "forks": 46133,
+      "stars": 185398,
+      "forks": 46123,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -91,7 +91,7 @@
       "owner": "Significant-Gravitas",
       "owner_avatar": "https://avatars.githubusercontent.com/u/130738209?v=4",
       "created_at": "2023-03-16T09:21:07Z",
-      "updated_at": "2026-06-18T06:16:19Z",
+      "updated_at": "2026-07-06T08:37:43Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -113,8 +113,8 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "description_cn": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "url": "https://github.com/ollama/ollama",
-      "stars": 174431,
-      "forks": 16669,
+      "stars": 175569,
+      "forks": 16857,
       "language": "Go",
       "topics": [
         "deepseek",
@@ -127,7 +127,7 @@
       "owner": "ollama",
       "owner_avatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
       "created_at": "2023-06-26T19:39:32Z",
-      "updated_at": "2026-06-18T06:23:21Z",
+      "updated_at": "2026-07-06T09:01:22Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -147,8 +147,8 @@
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "description_cn": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
-      "stars": 163872,
-      "forks": 21249,
+      "stars": 164839,
+      "forks": 21336,
       "language": "HTML",
       "topics": [
         "ai",
@@ -161,7 +161,7 @@
       "owner": "f",
       "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
       "created_at": "2022-12-05T13:54:13Z",
-      "updated_at": "2026-06-18T05:56:11Z",
+      "updated_at": "2026-07-06T09:09:37Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -181,8 +181,8 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "description_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "url": "https://github.com/huggingface/transformers",
-      "stars": 161684,
-      "forks": 33538,
+      "stars": 162290,
+      "forks": 33785,
       "language": "Python",
       "topics": [
         "audio",
@@ -195,7 +195,7 @@
       "owner": "huggingface",
       "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
       "created_at": "2018-10-29T13:56:00Z",
-      "updated_at": "2026-06-18T06:19:19Z",
+      "updated_at": "2026-07-06T09:00:44Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -215,8 +215,8 @@
       "description": "Production-ready platform for agentic workflow development.",
       "description_cn": "Production-ready platform for agentic workflow development.",
       "url": "https://github.com/langgenius/dify",
-      "stars": 145667,
-      "forks": 22906,
+      "stars": 147867,
+      "forks": 23287,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -229,7 +229,7 @@
       "owner": "langgenius",
       "owner_avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
       "created_at": "2023-04-12T07:40:24Z",
-      "updated_at": "2026-06-18T06:22:06Z",
+      "updated_at": "2026-07-06T09:16:25Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -242,6 +242,39 @@
       "hot_score": 100
     },
     {
+      "id": 787076358,
+      "name": "firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "title_cn": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "description_cn": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 145456,
+      "forks": 8374,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search"
+      ],
+      "primary_category": "ai",
+      "owner": "firecrawl",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "created_at": "2024-04-15T21:02:29Z",
+      "updated_at": "2026-07-06T09:15:49Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "firecrawl"
+      ],
+      "hot_score": 100
+    },
+    {
       "id": 701547123,
       "name": "open-webui/open-webui",
       "title": "open-webui/open-webui",
@@ -249,8 +282,8 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "description_cn": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
-      "stars": 142084,
-      "forks": 20420,
+      "stars": 144380,
+      "forks": 20866,
       "language": "Python",
       "topics": [
         "ai",
@@ -263,7 +296,7 @@
       "owner": "open-webui",
       "owner_avatar": "https://avatars.githubusercontent.com/u/158137808?v=4",
       "created_at": "2023-10-06T22:08:27Z",
-      "updated_at": "2026-06-18T06:24:01Z",
+      "updated_at": "2026-07-06T09:14:08Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -283,8 +316,8 @@
       "description": "The agent engineering platform.",
       "description_cn": "The agent engineering platform.",
       "url": "https://github.com/langchain-ai/langchain",
-      "stars": 139603,
-      "forks": 23133,
+      "stars": 141070,
+      "forks": 23442,
       "language": "Python",
       "topics": [
         "agents",
@@ -297,7 +330,7 @@
       "owner": "langchain-ai",
       "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "created_at": "2022-10-17T02:58:36Z",
-      "updated_at": "2026-06-18T06:12:49Z",
+      "updated_at": "2026-07-06T09:14:32Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -309,39 +342,6 @@
       "hot_score": 100
     },
     {
-      "id": 787076358,
-      "name": "firecrawl/firecrawl",
-      "title": "firecrawl/firecrawl",
-      "title_cn": "firecrawl/firecrawl",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "description_cn": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 134270,
-      "forks": 7846,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search"
-      ],
-      "primary_category": "ai",
-      "owner": "firecrawl",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "created_at": "2024-04-15T21:02:29Z",
-      "updated_at": "2026-06-18T06:19:39Z",
-      "source": "GitHub",
-      "type": "project",
-      "tags": [
-        "AI综合"
-      ],
-      "keywords": [
-        "firecrawl"
-      ],
-      "hot_score": 100
-    },
-    {
       "id": 881458615,
       "name": "browser-use/browser-use",
       "title": "browser-use/browser-use",
@@ -349,8 +349,8 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "description_cn": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 99375,
-      "forks": 11093,
+      "stars": 103026,
+      "forks": 11414,
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -363,7 +363,7 @@
       "owner": "browser-use",
       "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "created_at": "2024-10-31T16:00:56Z",
-      "updated_at": "2026-06-18T06:21:21Z",
+      "updated_at": "2026-07-06T09:13:55Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -383,8 +383,8 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "description_cn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "stars": 97327,
-      "forks": 14897,
+      "stars": 98618,
+      "forks": 15125,
       "language": "Jupyter Notebook",
       "topics": [
         "ai",
@@ -397,7 +397,7 @@
       "owner": "rasbt",
       "owner_avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
       "created_at": "2023-07-23T18:15:57Z",
-      "updated_at": "2026-06-18T06:23:41Z",
+      "updated_at": "2026-07-06T08:46:59Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -418,8 +418,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "description_cn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 87032,
-      "forks": 16814,
+      "stars": 91194,
+      "forks": 17629,
       "language": "Python",
       "topics": [
         "agent",
@@ -432,7 +432,7 @@
       "owner": "TauricResearch",
       "owner_avatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
       "created_at": "2024-12-28T03:31:08Z",
-      "updated_at": "2026-06-18T06:24:37Z",
+      "updated_at": "2026-07-06T09:14:45Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -452,8 +452,8 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "description_cn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "url": "https://github.com/vllm-project/vllm",
-      "stars": 83217,
-      "forks": 18174,
+      "stars": 85458,
+      "forks": 19007,
       "language": "Python",
       "topics": [
         "amd",
@@ -466,7 +466,7 @@
       "owner": "vllm-project",
       "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
       "created_at": "2023-02-09T11:23:20Z",
-      "updated_at": "2026-06-18T06:21:22Z",
+      "updated_at": "2026-07-06T09:15:58Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
@@ -479,40 +479,39 @@
       "hot_score": 100
     },
     {
-      "id": 655099582,
-      "name": "mlabonne/llm-course",
-      "title": "mlabonne/llm-course",
-      "title_cn": "mlabonne/llm-course",
-      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-      "description_cn": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-      "url": "https://github.com/mlabonne/llm-course",
-      "stars": 80217,
-      "forks": 9347,
-      "language": "Unknown",
+      "id": 1201173969,
+      "name": "JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "title_cn": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "description_cn": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 85286,
+      "forks": 4742,
+      "language": "JavaScript",
       "topics": [
-        "course",
-        "large-language-models",
-        "llm",
-        "machine-learning",
-        "roadmap"
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
       ],
-      "primary_category": "course",
-      "owner": "mlabonne",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/81252890?v=4",
-      "created_at": "2023-06-17T22:16:25Z",
-      "updated_at": "2026-06-18T05:30:29Z",
+      "primary_category": "ai",
+      "owner": "JuliusBrussee",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
+      "created_at": "2026-04-04T10:03:00Z",
+      "updated_at": "2026-07-06T09:17:10Z",
       "source": "GitHub",
       "type": "project",
       "tags": [
-        "大模型/LLM"
+        "AI综合"
       ],
       "keywords": [
-        "mlabonne",
-        "llm",
-        "course"
+        "juliusbrussee",
+        "caveman"
       ],
       "hot_score": 100
     }
   ],
-  "update_time": "2026-06-18 14:25:28"
+  "update_time": "2026-07-06 17:17:20"
 }
