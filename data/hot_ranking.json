@@ -1,0 +1,689 @@
+{
+  "items": [
+    {
+      "id": "ith_2249108136",
+      "title": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "title_cn": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/060.htm",
+      "published": "2026-07-06T14:37:45",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "从洗发水到饼",
+        "消费品迎来",
+        "焕新"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_1022398548",
+      "title": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "title_cn": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/890.htm",
+      "published": "2026-07-06T08:57:09",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "三星电子",
+        "营业利润预计",
+        "同比暴涨",
+        "存储芯片需求",
+        "持续引爆业绩"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_86998040",
+      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "title_cn": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/872.htm",
+      "published": "2026-07-06T07:22:04",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "hbm",
+        "gpu",
+        "之父金正浩",
+        "的本质是内存",
+        "真正工作的时"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "qbt_4162628664",
+      "title": "字节Seedance，正在占领好莱坞",
+      "title_cn": "字节Seedance，正在占领好莱坞",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443665.html",
+      "published": "2026-07-06 16:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "字节",
+        "正在占领好莱"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_896248380",
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "title_cn": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443559.html",
+      "published": "2026-07-06 13:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "preview",
+        "多模型集成登",
+        "双榜",
+        "对比名单中出",
+        "现最新旗舰"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_4089290299",
+      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "title_cn": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443522.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "世界模型激辩",
+        "答案不在",
+        "或世界模型"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_15358728",
+      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "title_cn": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "模型与智能体",
+        "时代范式重构",
+        "迈入智能体生"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_3729584653",
+      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "title_cn": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442224.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "蔚来李斌北大",
+        "毕业",
+        "年演讲热搜",
+        "不灌鸡汤讲失",
+        "向内求索"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1408659609",
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "title_cn": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "找出",
+        "种全新超导体",
+        "只用",
+        "人类此前完全",
+        "未知"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_755169531",
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "title_cn": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442447.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "与百度智能云",
+        "达成战略合作",
+        "文心",
+        "系列登陆"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_3664239609",
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "title_cn": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "黄仁勋说的",
+        "被这家中国跨",
+        "界选手带进了",
+        "生命科学实验"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_2215903533",
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "title_cn": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "基石筑底",
+        "算力",
+        "超节点与光互",
+        "能否绕过单芯"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_928905411",
+      "title": "世界模型的新用途：不做选手，去当裁判",
+      "title_cn": "世界模型的新用途：不做选手，去当裁判",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "世界模型的新",
+        "用途",
+        "不做选手",
+        "去当裁判"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2793955903",
+      "title": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "title_cn": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "summary": "<p data-vmark=\"0aff\">IT之家 7 月 6 日消息，据雷峰网今日报道，本月将要上市的新一代理想 L6 可能会迎来涨价。</p><p data-vmark=\"881c\"><span class=\"wx_text_underline\">报道援引知情人士消息，今年以来，受存储芯片与</span><span>碳酸锂价格</span><span class=\"wx_text_underl",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/205.htm",
+      "published": "Mon, 06 Jul 2026 09:10:28 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "受存储芯片与",
+        "碳酸锂价格上",
+        "涨影响",
+        "消息称新一代",
+        "理想"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3351879292",
+      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "title_cn": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "summary": "<p data-vmark=\"d97d\">IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A，<strong>售价 2199 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"78bc\">6GB+128GB：2199 元</p></",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/204.htm",
+      "published": "Mon, 06 Jul 2026 09:06:48 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "vivo",
+        "元起",
+        "手机上架官网",
+        "第二代骁龙",
+        "支持系统深度"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2898484347",
+      "title": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "title_cn": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "summary": "<p data-vmark=\"51db\">IT之家 7 月 6 日消息，今日，奇瑞汽车执行副总裁李学用发文称：我们给大家带来了年轻人的新 X 系 —— 环游者，275 千瓦的动力，激情操控体验，方正美学，大空间，2.5 米大床房，搭载猎鹰 500 辅助驾驶，XWD 全自动智能四驱，据悉，<strong>新车将于今年四季度上市</strong>。</p><p style=\"text-align: c",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/203.htm",
+      "published": "Mon, 06 Jul 2026 09:01:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "辅助驾驶",
+        "四季度上市",
+        "suv",
+        "奇瑞捷途环游",
+        "者方盒子"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1987714190",
+      "title": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "title_cn": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "summary": "<p data-vmark=\"0f00\">IT之家 7 月 6 日消息，“哔哩漫游（BiliRoaming）”是一个解除B站客户端番剧区域限制的热门 Xposed 模块，还提供一些其他小功能，在 GitHub 上获得了超 11.4K 星标。</p><p data-vmark=\"6a57\">今日，<strong>“哔哩漫游”的 GitHub 项目页面删除了全部代码</strong>，README 页",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/202.htm",
+      "published": "Mon, 06 Jul 2026 08:57:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "github",
+        "哔哩漫游",
+        "付费番剧解限",
+        "制工具",
+        "收到"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3586867459",
+      "title": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "title_cn": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "summary": "<p data-vmark=\"9894\">IT之家 7 月 6 日消息，此前专注于键鼠赛道的 Keychron（渴创）近日推出了其<strong>首款扩展坞</strong>。该设备支持雷电 5 规范，<strong>采用 14 合 1 设计</strong>，售价 349.99 美元（IT之家注：现汇率约合 2375 元人民币）。</p><p data-vmark=\"eee4\" style=\"t",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/201.htm",
+      "published": "Mon, 06 Jul 2026 08:57:22 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "keychron",
+        "涉足非键鼠外",
+        "推出",
+        "雷电",
+        "扩展坞"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4056577685",
+      "title": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "title_cn": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "summary": "<p data-vmark=\"dd87\">IT之家 7 月 6 日消息，据韩联社消息，三星电子内部以 DX（设备体验）部门员工为主体的工会即将举行集会。</p><p data-vmark=\"1ae0\">该部门主要负责家电、电视及智能手机等业务，工会此举旨在要求管理层针对“2026 年薪酬谈判”结果制定相应的对策。</p><p data-vmark=\"4ee8\">报道称，2026 年非芯片部门的员工",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/194.htm",
+      "published": "Mon, 06 Jul 2026 08:48:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "不同部门奖金",
+        "差距高达百倍",
+        "三星非芯片部",
+        "门员工拟集会",
+        "抗议"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_720962097",
+      "title": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "title_cn": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "summary": "<p data-vmark=\"4d86\">IT之家 7 月 6 日消息，高德今日宣布 AI 专车功能升级，用户只需用自己的话完整表达出行需求，其搭载的“<span>AI 专车管家</span>”即可从语句中<strong>自动识别关键信息</strong>，并匹配一辆符合个性化要求的专车。</p><p data-vmark=\"1b90\">IT之家从官方介绍获悉，<span>高德 AI 专车</sp",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/193.htm",
+      "published": "Mon, 06 Jul 2026 08:44:44 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "高德",
+        "专车升级",
+        "一句话叫来个",
+        "性化专车",
+        "首批上线北京"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2253852038",
+      "title": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "title_cn": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "summary": "<p data-vmark=\"0b7e\">IT之家 7 月 6 日消息，腾讯今日发布混元 Hy3 模型，元宝也迎来再次升级。打开元宝深度思考或快速思考，选择 Hy3 模型就能立即体验，全部能力免费开放。</p><p data-vmark=\"4625\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfil",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/192.htm",
+      "published": "Mon, 06 Jul 2026 08:37:08 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "混元",
+        "模型",
+        "腾讯元宝接入",
+        "支持免费做文",
+        "align"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2977715320",
+      "title": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "title_cn": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "summary": "<p data-vmark=\"9064\">IT之家 7 月 6 日消息，德国无人机企业 Quantum Systems 当地时间 5 日宣布，其一款名为 Apex Recordhunter 的技术验证电池电动飞行器在内部直线平飞测试中<strong>实现了 699km/h 的最高速度</strong>。</p><p data-vmark=\"d137\"><strong>这一速度优于同类飞行器此前的最",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/190.htm",
+      "published": "Mon, 06 Jul 2026 08:31:40 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "quantum",
+        "systems",
+        "德国",
+        "达成电池电动",
+        "飞行器最快速"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1634990853",
+      "title": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "title_cn": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "summary": "<p data-vmark=\"f2d8\">IT之家 7 月 6 日消息，KTC 宣布联合京东推出一款 58 英寸无广告 4K 电视（T58A2），该机搭载京东 OS，定价为 1900 元，<strong>首发价 1780 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XrcBzdm\" target=\"_b",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/181.htm",
+      "published": "Mon, 06 Jul 2026 08:28:51 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "ktc",
+        "电视",
+        "首发价",
+        "推出京东联名",
+        "英寸"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1084312318",
+      "title": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "title_cn": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "summary": "<p data-vmark=\"04c3\">IT之家 7 月 6 日消息，今天，外交部发言人毛宁主持例行记者会。有记者就中国生产的空调、风扇、多功能防晒伞等防暑降温产品受到欧洲民众追捧提问。</p><p data-vmark=\"3af2\">发言人毛宁表示，契合需求、物美价优的商品自然会受到欢迎。中欧贸易结构是市场需求驱动、基于优势互补的自然结果。<strong><span class=\"color-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/167.htm",
+      "published": "Mon, 06 Jul 2026 08:19:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "中国空调",
+        "风扇受欧洲民",
+        "众追捧",
+        "外交部回应",
+        "color"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_547117924",
+      "title": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "title_cn": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "summary": "<p data-vmark=\"0c9a\">IT之家 7 月 6 日消息，Razer（雷蛇）当地时间本月 3 日宣布，其此前仅限于 Windows 桌面平台的 <strong>Axon（雷幻）壁纸引擎将登陆移动端</strong>。该应用将于 7 月 15 日上线 Google Play，现已开放预注册。</p><p data-vmark=\"499b\" style=\"text-align: cent",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/165.htm",
+      "published": "Mon, 06 Jul 2026 08:17:20 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "axon",
+        "google",
+        "play",
+        "雷蛇",
+        "壁纸引擎将登"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_549474484",
+      "title": "央视全新《西游记》动画备案：第一季共 26 集",
+      "title_cn": "央视全新《西游记》动画备案：第一季共 26 集",
+      "summary": "<p data-vmark=\"ef84\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，央视全新《西游记》动画在列。</p><p data-vmark=\"d728\">备案信息显示，全新《西游记》动画报备机构为央视动漫集团有限公司，第一季分为上下两部，每部分别有 13 集，<strong>第一季共 26 集</strong",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/160.htm",
+      "published": "Mon, 06 Jul 2026 08:14:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "西游记",
+        "央视全新",
+        "第一季共",
+        "动画备案",
+        "之家"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1534297720",
+      "title": "经典动画《神兵小将》第三季回归，共 104 集",
+      "title_cn": "经典动画《神兵小将》第三季回归，共 104 集",
+      "summary": "<p data-vmark=\"131a\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，<strong>《神兵小将》第三季通过备案</strong>，分为上下两部分，共 104 集，每集 22 分钟。</p><p data-vmark=\"dfc0\" style=\"text-align: center;\"><img src",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/157.htm",
+      "published": "Mon, 06 Jul 2026 08:13:50 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "神兵小将",
+        "经典动画",
+        "第三季回归",
+        "align",
+        "center"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2426742730",
+      "title": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "title_cn": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "summary": "<p data-vmark=\"9dfa\">IT之家 7 月 6 日消息，据日媒 TBS 报道，日本一名 15 岁少年因入侵万代南梦宫旗下动画流媒体平台“万代频道（バンダイチャンネル）”服务器、注销数万名用户账号，近日被警方逮捕。</p><p data-vmark=\"6a38\">IT之家参考报道获悉，涉案人为居住在埼玉县所泽市的一名 15 岁高中一年级学生。其在 2025 年 11 月利用他人会员账",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/151.htm",
+      "published": "Mon, 06 Jul 2026 08:09:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "chatgpt",
+        "日本",
+        "岁少年侵入万",
+        "代南梦宫流媒",
+        "体平台"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1515799504",
+      "title": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "title_cn": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "summary": "<p data-vmark=\"ff8d\">IT之家 7 月 6 日消息，微软发文，宣布为 Microsoft Teams 会议应用推出全新的 AI 机器人管理策略，当第三方 AI 机器人尝试加入会议时，必须先获得会议组织者批准后才能进入。</p><p data-vmark=\"ae63\">据介绍，目前微软已在 Teams 管理中心新增“Manage external bots and their a",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/146.htm",
+      "published": "Mon, 06 Jul 2026 08:02:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "机器人"
+      ],
+      "keywords": [
+        "teams",
+        "微软",
+        "加强第三方",
+        "智能体权限管",
+        "需会议组织者"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3456148945",
+      "title": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "title_cn": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "summary": "<p data-vmark=\"b7ed\">IT之家 7 月 6 日消息，据《卫报》昨天报道，英国外交大臣伊薇特 · 库珀警告称 AI 或将成为未来 10 年最大安全挑战，如果各国政府不能就人工智能发展制定国际准则，那么 AI 对人类的威胁堪比美国当年核爆日本广岛、长崎。</p><p style=\"text-align: center;\" data-vmark=\"1661\"><img src=\"ht",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/140.htm",
+      "published": "Mon, 06 Jul 2026 07:59:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI安全/对齐"
+      ],
+      "keywords": [
+        "英国外交大臣",
+        "年最大安全挑",
+        "库珀警告",
+        "或成未来",
+        "世界各国必须"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "update_time": "2026-07-06 17:17:20"
+}

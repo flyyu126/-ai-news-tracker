@@ -1,0 +1,4827 @@
+{
+  "date": "2026-07-06",
+  "update_time": "2026-07-06 17:17:20",
+  "total_items": 142,
+  "papers_count": 28,
+  "news_count": 99,
+  "github_count": 15,
+  "hot_ranking": [
+    {
+      "id": "ith_2249108136",
+      "title": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "title_cn": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/060.htm",
+      "published": "2026-07-06T14:37:45",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "从洗发水到饼",
+        "消费品迎来",
+        "焕新"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_1022398548",
+      "title": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "title_cn": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/890.htm",
+      "published": "2026-07-06T08:57:09",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "三星电子",
+        "营业利润预计",
+        "同比暴涨",
+        "存储芯片需求",
+        "持续引爆业绩"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_86998040",
+      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "title_cn": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/872.htm",
+      "published": "2026-07-06T07:22:04",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "hbm",
+        "gpu",
+        "之父金正浩",
+        "的本质是内存",
+        "真正工作的时"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "qbt_4162628664",
+      "title": "字节Seedance，正在占领好莱坞",
+      "title_cn": "字节Seedance，正在占领好莱坞",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443665.html",
+      "published": "2026-07-06 16:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "字节",
+        "正在占领好莱"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_896248380",
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "title_cn": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443559.html",
+      "published": "2026-07-06 13:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "preview",
+        "多模型集成登",
+        "双榜",
+        "对比名单中出",
+        "现最新旗舰"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_4089290299",
+      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "title_cn": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443522.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "世界模型激辩",
+        "答案不在",
+        "或世界模型"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_15358728",
+      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "title_cn": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "模型与智能体",
+        "时代范式重构",
+        "迈入智能体生"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_3729584653",
+      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "title_cn": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442224.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "蔚来李斌北大",
+        "毕业",
+        "年演讲热搜",
+        "不灌鸡汤讲失",
+        "向内求索"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1408659609",
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "title_cn": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "找出",
+        "种全新超导体",
+        "只用",
+        "人类此前完全",
+        "未知"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_755169531",
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "title_cn": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442447.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "与百度智能云",
+        "达成战略合作",
+        "文心",
+        "系列登陆"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_3664239609",
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "title_cn": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "黄仁勋说的",
+        "被这家中国跨",
+        "界选手带进了",
+        "生命科学实验"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_2215903533",
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "title_cn": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "基石筑底",
+        "算力",
+        "超节点与光互",
+        "能否绕过单芯"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_928905411",
+      "title": "世界模型的新用途：不做选手，去当裁判",
+      "title_cn": "世界模型的新用途：不做选手，去当裁判",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "世界模型的新",
+        "用途",
+        "不做选手",
+        "去当裁判"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2793955903",
+      "title": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "title_cn": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "summary": "<p data-vmark=\"0aff\">IT之家 7 月 6 日消息，据雷峰网今日报道，本月将要上市的新一代理想 L6 可能会迎来涨价。</p><p data-vmark=\"881c\"><span class=\"wx_text_underline\">报道援引知情人士消息，今年以来，受存储芯片与</span><span>碳酸锂价格</span><span class=\"wx_text_underl",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/205.htm",
+      "published": "Mon, 06 Jul 2026 09:10:28 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "受存储芯片与",
+        "碳酸锂价格上",
+        "涨影响",
+        "消息称新一代",
+        "理想"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3351879292",
+      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "title_cn": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "summary": "<p data-vmark=\"d97d\">IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A，<strong>售价 2199 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"78bc\">6GB+128GB：2199 元</p></",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/204.htm",
+      "published": "Mon, 06 Jul 2026 09:06:48 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "vivo",
+        "元起",
+        "手机上架官网",
+        "第二代骁龙",
+        "支持系统深度"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2898484347",
+      "title": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "title_cn": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "summary": "<p data-vmark=\"51db\">IT之家 7 月 6 日消息，今日，奇瑞汽车执行副总裁李学用发文称：我们给大家带来了年轻人的新 X 系 —— 环游者，275 千瓦的动力，激情操控体验，方正美学，大空间，2.5 米大床房，搭载猎鹰 500 辅助驾驶，XWD 全自动智能四驱，据悉，<strong>新车将于今年四季度上市</strong>。</p><p style=\"text-align: c",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/203.htm",
+      "published": "Mon, 06 Jul 2026 09:01:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "辅助驾驶",
+        "四季度上市",
+        "suv",
+        "奇瑞捷途环游",
+        "者方盒子"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1987714190",
+      "title": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "title_cn": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "summary": "<p data-vmark=\"0f00\">IT之家 7 月 6 日消息，“哔哩漫游（BiliRoaming）”是一个解除B站客户端番剧区域限制的热门 Xposed 模块，还提供一些其他小功能，在 GitHub 上获得了超 11.4K 星标。</p><p data-vmark=\"6a57\">今日，<strong>“哔哩漫游”的 GitHub 项目页面删除了全部代码</strong>，README 页",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/202.htm",
+      "published": "Mon, 06 Jul 2026 08:57:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "github",
+        "哔哩漫游",
+        "付费番剧解限",
+        "制工具",
+        "收到"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3586867459",
+      "title": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "title_cn": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "summary": "<p data-vmark=\"9894\">IT之家 7 月 6 日消息，此前专注于键鼠赛道的 Keychron（渴创）近日推出了其<strong>首款扩展坞</strong>。该设备支持雷电 5 规范，<strong>采用 14 合 1 设计</strong>，售价 349.99 美元（IT之家注：现汇率约合 2375 元人民币）。</p><p data-vmark=\"eee4\" style=\"t",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/201.htm",
+      "published": "Mon, 06 Jul 2026 08:57:22 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "keychron",
+        "涉足非键鼠外",
+        "推出",
+        "雷电",
+        "扩展坞"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4056577685",
+      "title": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "title_cn": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "summary": "<p data-vmark=\"dd87\">IT之家 7 月 6 日消息，据韩联社消息，三星电子内部以 DX（设备体验）部门员工为主体的工会即将举行集会。</p><p data-vmark=\"1ae0\">该部门主要负责家电、电视及智能手机等业务，工会此举旨在要求管理层针对“2026 年薪酬谈判”结果制定相应的对策。</p><p data-vmark=\"4ee8\">报道称，2026 年非芯片部门的员工",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/194.htm",
+      "published": "Mon, 06 Jul 2026 08:48:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "不同部门奖金",
+        "差距高达百倍",
+        "三星非芯片部",
+        "门员工拟集会",
+        "抗议"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_720962097",
+      "title": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "title_cn": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "summary": "<p data-vmark=\"4d86\">IT之家 7 月 6 日消息，高德今日宣布 AI 专车功能升级，用户只需用自己的话完整表达出行需求，其搭载的“<span>AI 专车管家</span>”即可从语句中<strong>自动识别关键信息</strong>，并匹配一辆符合个性化要求的专车。</p><p data-vmark=\"1b90\">IT之家从官方介绍获悉，<span>高德 AI 专车</sp",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/193.htm",
+      "published": "Mon, 06 Jul 2026 08:44:44 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "高德",
+        "专车升级",
+        "一句话叫来个",
+        "性化专车",
+        "首批上线北京"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2253852038",
+      "title": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "title_cn": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "summary": "<p data-vmark=\"0b7e\">IT之家 7 月 6 日消息，腾讯今日发布混元 Hy3 模型，元宝也迎来再次升级。打开元宝深度思考或快速思考，选择 Hy3 模型就能立即体验，全部能力免费开放。</p><p data-vmark=\"4625\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfil",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/192.htm",
+      "published": "Mon, 06 Jul 2026 08:37:08 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "混元",
+        "模型",
+        "腾讯元宝接入",
+        "支持免费做文",
+        "align"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2977715320",
+      "title": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "title_cn": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "summary": "<p data-vmark=\"9064\">IT之家 7 月 6 日消息，德国无人机企业 Quantum Systems 当地时间 5 日宣布，其一款名为 Apex Recordhunter 的技术验证电池电动飞行器在内部直线平飞测试中<strong>实现了 699km/h 的最高速度</strong>。</p><p data-vmark=\"d137\"><strong>这一速度优于同类飞行器此前的最",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/190.htm",
+      "published": "Mon, 06 Jul 2026 08:31:40 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "quantum",
+        "systems",
+        "德国",
+        "达成电池电动",
+        "飞行器最快速"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1634990853",
+      "title": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "title_cn": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "summary": "<p data-vmark=\"f2d8\">IT之家 7 月 6 日消息，KTC 宣布联合京东推出一款 58 英寸无广告 4K 电视（T58A2），该机搭载京东 OS，定价为 1900 元，<strong>首发价 1780 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XrcBzdm\" target=\"_b",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/181.htm",
+      "published": "Mon, 06 Jul 2026 08:28:51 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "ktc",
+        "电视",
+        "首发价",
+        "推出京东联名",
+        "英寸"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1084312318",
+      "title": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "title_cn": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "summary": "<p data-vmark=\"04c3\">IT之家 7 月 6 日消息，今天，外交部发言人毛宁主持例行记者会。有记者就中国生产的空调、风扇、多功能防晒伞等防暑降温产品受到欧洲民众追捧提问。</p><p data-vmark=\"3af2\">发言人毛宁表示，契合需求、物美价优的商品自然会受到欢迎。中欧贸易结构是市场需求驱动、基于优势互补的自然结果。<strong><span class=\"color-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/167.htm",
+      "published": "Mon, 06 Jul 2026 08:19:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "中国空调",
+        "风扇受欧洲民",
+        "众追捧",
+        "外交部回应",
+        "color"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_547117924",
+      "title": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "title_cn": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "summary": "<p data-vmark=\"0c9a\">IT之家 7 月 6 日消息，Razer（雷蛇）当地时间本月 3 日宣布，其此前仅限于 Windows 桌面平台的 <strong>Axon（雷幻）壁纸引擎将登陆移动端</strong>。该应用将于 7 月 15 日上线 Google Play，现已开放预注册。</p><p data-vmark=\"499b\" style=\"text-align: cent",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/165.htm",
+      "published": "Mon, 06 Jul 2026 08:17:20 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "axon",
+        "google",
+        "play",
+        "雷蛇",
+        "壁纸引擎将登"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_549474484",
+      "title": "央视全新《西游记》动画备案：第一季共 26 集",
+      "title_cn": "央视全新《西游记》动画备案：第一季共 26 集",
+      "summary": "<p data-vmark=\"ef84\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，央视全新《西游记》动画在列。</p><p data-vmark=\"d728\">备案信息显示，全新《西游记》动画报备机构为央视动漫集团有限公司，第一季分为上下两部，每部分别有 13 集，<strong>第一季共 26 集</strong",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/160.htm",
+      "published": "Mon, 06 Jul 2026 08:14:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "西游记",
+        "央视全新",
+        "第一季共",
+        "动画备案",
+        "之家"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1534297720",
+      "title": "经典动画《神兵小将》第三季回归，共 104 集",
+      "title_cn": "经典动画《神兵小将》第三季回归，共 104 集",
+      "summary": "<p data-vmark=\"131a\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，<strong>《神兵小将》第三季通过备案</strong>，分为上下两部分，共 104 集，每集 22 分钟。</p><p data-vmark=\"dfc0\" style=\"text-align: center;\"><img src",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/157.htm",
+      "published": "Mon, 06 Jul 2026 08:13:50 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "神兵小将",
+        "经典动画",
+        "第三季回归",
+        "align",
+        "center"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2426742730",
+      "title": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "title_cn": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "summary": "<p data-vmark=\"9dfa\">IT之家 7 月 6 日消息，据日媒 TBS 报道，日本一名 15 岁少年因入侵万代南梦宫旗下动画流媒体平台“万代频道（バンダイチャンネル）”服务器、注销数万名用户账号，近日被警方逮捕。</p><p data-vmark=\"6a38\">IT之家参考报道获悉，涉案人为居住在埼玉县所泽市的一名 15 岁高中一年级学生。其在 2025 年 11 月利用他人会员账",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/151.htm",
+      "published": "Mon, 06 Jul 2026 08:09:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "chatgpt",
+        "日本",
+        "岁少年侵入万",
+        "代南梦宫流媒",
+        "体平台"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1515799504",
+      "title": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "title_cn": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "summary": "<p data-vmark=\"ff8d\">IT之家 7 月 6 日消息，微软发文，宣布为 Microsoft Teams 会议应用推出全新的 AI 机器人管理策略，当第三方 AI 机器人尝试加入会议时，必须先获得会议组织者批准后才能进入。</p><p data-vmark=\"ae63\">据介绍，目前微软已在 Teams 管理中心新增“Manage external bots and their a",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/146.htm",
+      "published": "Mon, 06 Jul 2026 08:02:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "机器人"
+      ],
+      "keywords": [
+        "teams",
+        "微软",
+        "加强第三方",
+        "智能体权限管",
+        "需会议组织者"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3456148945",
+      "title": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "title_cn": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "summary": "<p data-vmark=\"b7ed\">IT之家 7 月 6 日消息，据《卫报》昨天报道，英国外交大臣伊薇特 · 库珀警告称 AI 或将成为未来 10 年最大安全挑战，如果各国政府不能就人工智能发展制定国际准则，那么 AI 对人类的威胁堪比美国当年核爆日本广岛、长崎。</p><p style=\"text-align: center;\" data-vmark=\"1661\"><img src=\"ht",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/140.htm",
+      "published": "Mon, 06 Jul 2026 07:59:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI安全/对齐"
+      ],
+      "keywords": [
+        "英国外交大臣",
+        "年最大安全挑",
+        "库珀警告",
+        "或成未来",
+        "世界各国必须"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "tag_cloud": [
+    {
+      "name": "AI综合",
+      "count": 76,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "大模型/LLM",
+      "count": 34,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "强化学习",
+      "count": 18,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP",
+      "count": 17,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV/计算机视觉",
+      "count": 17,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "模型动态/AI编程",
+      "count": 16,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "AI",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "模型训练/优化",
+      "count": 12,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP/大模型",
+      "count": 10,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "机器学习",
+      "count": 10,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "数据集/评估",
+      "count": 8,
+      "weight": 80,
+      "type": "tag"
+    },
+    {
+      "name": "AI安全/对齐",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "多模态",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "模型压缩/部署",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "机器人",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "语音技术",
+      "count": 3,
+      "weight": 30,
+      "type": "tag"
+    },
+    {
+      "name": "self",
+      "count": 4,
+      "weight": 20,
+      "type": "keyword"
+    },
+    {
+      "name": "language",
+      "count": 4,
+      "weight": 20,
+      "type": "keyword"
+    },
+    {
+      "name": "diffusion",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "llms",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "models",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "token",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "claude",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "fable",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "模型",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "waic",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "align",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "AI应用",
+      "count": 1,
+      "weight": 10,
+      "type": "tag"
+    },
+    {
+      "name": "controllable",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "alignment",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "distributed",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "long",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "agents",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "social",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "active",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "panoramic",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "agent",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "free",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.02517",
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "title_cn": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "summary": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain mot...",
+      "summary_cn": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain mot...",
+      "authors": [
+        "Hanlin Wang",
+        "Hao Ouyang",
+        "Qiuyu Wang",
+        "Wen Wang",
+        "Qingyan Bai"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:59Z",
+      "updated": "2026-07-02T17:59:59Z",
+      "link": "http://arxiv.org/abs/2607.02517v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02517v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "world",
+        "worlddirector",
+        "controllable",
+        "persistent",
+        "dynamic"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02516",
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "title_cn": "Alignment Is All You Need For X-to-4D Generation",
+      "summary": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existin...",
+      "summary_cn": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existin...",
+      "authors": [
+        "Qiaowei Miao",
+        "Kehan Li",
+        "Yawei Luo",
+        "Yi Yang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:57Z",
+      "updated": "2026-07-02T17:59:57Z",
+      "link": "http://arxiv.org/abs/2607.02516v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02516v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态",
+        "AI安全/对齐",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "generation",
+        "high",
+        "video",
+        "alignment",
+        "you"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02514",
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "title_cn": "Distributed Attacks in Persistent-State AI Control",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi...",
+      "summary_cn": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi...",
+      "authors": [
+        "Josh Hills",
+        "Ida Caspary",
+        "Asa Cooper Stickland"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:56Z",
+      "updated": "2026-07-02T17:59:56Z",
+      "link": "http://arxiv.org/abs/2607.02514v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02514v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "大模型/LLM",
+        "强化学习",
+        "AI应用",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "attacks",
+        "control",
+        "across",
+        "study",
+        "distributed"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02515",
+      "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "title_cn": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "summary": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulati...",
+      "summary_cn": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulati...",
+      "authors": [
+        "Haofei Xu",
+        "Rundi Wu",
+        "Philipp Henzler",
+        "Nikolai Kalischek",
+        "Michael Oechsle"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:56Z",
+      "updated": "2026-07-02T17:59:56Z",
+      "link": "http://arxiv.org/abs/2607.02515v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02515v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "diffusion",
+        "pixel",
+        "space",
+        "geometry",
+        "loss"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02513",
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "title_cn": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th...",
+      "summary_cn": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th...",
+      "authors": [
+        "Matteo Boglioni",
+        "Thibault Rousset",
+        "Siva Reddy",
+        "Marius Mosbach",
+        "Verna Dankers"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:59:52Z",
+      "updated": "2026-07-02T17:59:52Z",
+      "link": "http://arxiv.org/abs/2607.02513v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02513v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "AI",
+        "机器学习",
+        "大模型/LLM",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "unlearning",
+        "methods",
+        "lacuna",
+        "testbed",
+        "evaluating"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02512",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "title_cn": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose...",
+      "summary_cn": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose...",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:59:50Z",
+      "updated": "2026-07-02T17:59:50Z",
+      "link": "http://arxiv.org/abs/2607.02512v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02512v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "NLP/大模型",
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "programming",
+        "program",
+        "weights",
+        "paradigm",
+        "fuzzy"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02510",
+      "title": "Online Safety Monitoring for LLMs",
+      "title_cn": "Online Safety Monitoring for LLMs",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an al...",
+      "summary_cn": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an al...",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans",
+        "Christian Naesseth",
+        "Maja Waldron"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "stat.AP",
+        "stat.ML"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:43Z",
+      "updated": "2026-07-02T17:59:43Z",
+      "link": "http://arxiv.org/abs/2607.02510v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02510v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP/大模型",
+        "机器学习",
+        "大模型/LLM",
+        "NLP",
+        "强化学习",
+        "AI安全/对齐",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "online",
+        "safety",
+        "monitoring",
+        "llms",
+        "outputs"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02509",
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "title_cn": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a...",
+      "summary_cn": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a...",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei",
+        "Yuanchen Bei",
+        "Zhining Liu"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:26Z",
+      "updated": "2026-07-02T17:59:26Z",
+      "link": "http://arxiv.org/abs/2607.02509v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02509v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "大模型/LLM",
+        "模型训练/优化",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "context",
+        "long",
+        "evidence",
+        "reasoning",
+        "recontext"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02508",
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "title_cn": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "summary": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion mod...",
+      "summary_cn": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion mod...",
+      "authors": [
+        "Dengyang Jiang",
+        "Mengmeng Wang",
+        "Harry Yang",
+        "Jingdong Wang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:25Z",
+      "updated": "2026-07-02T17:59:25Z",
+      "link": "http://arxiv.org/abs/2607.02508v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02508v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "AI安全/对齐",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "self",
+        "flow",
+        "sra",
+        "alignment",
+        "diffusion"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02507",
+      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "title_cn": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an...",
+      "summary_cn": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an...",
+      "authors": [
+        "Arman Ghaffarizadeh",
+        "Danyal Mohaddes",
+        "Aliakbar Izadkhah",
+        "Shahriar Noroozizadeh"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:23Z",
+      "updated": "2026-07-02T17:59:23Z",
+      "link": "http://arxiv.org/abs/2607.02507v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02507v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP/大模型",
+        "机器学习",
+        "大模型/LLM",
+        "强化学习"
+      ],
+      "keywords": [
+        "agents",
+        "llm",
+        "say",
+        "social",
+        "structure"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02504",
+      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "title_cn": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field throu...",
+      "summary_cn": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field throu...",
+      "authors": [
+        "Yuxuan Li",
+        "Lingxi Xie",
+        "Xinyue Huo",
+        "Jihao Qiu",
+        "Jiacheng Shao"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:58:52Z",
+      "updated": "2026-07-02T17:58:52Z",
+      "link": "http://arxiv.org/abs/2607.02504v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02504v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "AI",
+        "CV",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "语音技术",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "speaker",
+        "recognition",
+        "long",
+        "form",
+        "dramas"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02502",
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "title_cn": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level...",
+      "summary_cn": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level...",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu",
+        "Mengzhe Ruan",
+        "Hanxu Hou"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:58:29Z",
+      "updated": "2026-07-02T17:58:29Z",
+      "link": "http://arxiv.org/abs/2607.02502v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02502v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "policy",
+        "self",
+        "distillation",
+        "teacher",
+        "information"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02501",
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "title_cn": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "summary": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, and robot-side glue code, especially on heterogeneous edge devices. Existing inference runtimes are de...",
+      "summary_cn": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, and robot-side glue code, especially on heterogeneous edge devices. Existing inference runtimes are de...",
+      "authors": [
+        "Ling Xu",
+        "Chuyu Han",
+        "Borui Li",
+        "Hao Wu",
+        "Shiqi Jiang"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.OS"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2026-07-02T17:58:28Z",
+      "updated": "2026-07-02T17:58:28Z",
+      "link": "http://arxiv.org/abs/2607.02501v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02501v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器人",
+        "CV",
+        "强化学习",
+        "多模态"
+      ],
+      "keywords": [
+        "embodied",
+        "models",
+        "inference",
+        "runtime",
+        "heterogeneous"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02499",
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "title_cn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and i...",
+      "summary_cn": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and i...",
+      "authors": [
+        "Gil Harari",
+        "Yoel Zimmermann",
+        "Ola Tangen Kulseng",
+        "Laura Zichi",
+        "Chuin Wei Tan"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.chem-ph",
+        "physics.comp-ph"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:57:31Z",
+      "updated": "2026-07-02T17:57:31Z",
+      "link": "http://arxiv.org/abs/2607.02499v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02499v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "soap",
+        "muon",
+        "training",
+        "adam",
+        "machine"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02497",
+      "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+      "title_cn": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+      "summary": "Existing referring segmentation models passively process static images captured from fixed perspectives, limiting their applicability in Embodied AI, where agents must perform active perception in the continuous 360$^\\circ$ environments. To bridge this gap, we introduce a novel task: Active Panorami...",
+      "summary_cn": "Existing referring segmentation models passively process static images captured from fixed perspectives, limiting their applicability in Embodied AI, where agents must perform active perception in the continuous 360$^\\circ$ environments. To bridge this gap, we introduce a novel task: Active Panorami...",
+      "authors": [
+        "Song Tang",
+        "Shuming Hu",
+        "Xincheng Shuai",
+        "Henghui Ding",
+        "Yu-Gang Jiang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:56:49Z",
+      "updated": "2026-07-02T17:56:49Z",
+      "link": "http://arxiv.org/abs/2607.02497v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02497v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "CV/计算机视觉",
+        "机器人"
+      ],
+      "keywords": [
+        "active",
+        "referring",
+        "segmentation",
+        "perception",
+        "panoramic"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02496",
+      "title": "Controllable Sim Agents with Behavior Latents",
+      "title_cn": "Controllable Sim Agents with Behavior Latents",
+      "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neura...",
+      "summary_cn": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neura...",
+      "authors": [
+        "Juanwu Lu",
+        "Junyu Zhu",
+        "Ziran Wang"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2026-07-02T17:55:39Z",
+      "updated": "2026-07-02T17:55:39Z",
+      "link": "http://arxiv.org/abs/2607.02496v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02496v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器人",
+        "机器学习",
+        "强化学习"
+      ],
+      "keywords": [
+        "controllable",
+        "agents",
+        "behavior",
+        "agent",
+        "per"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02494",
+      "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+      "title_cn": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+      "summary": "Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images c...",
+      "summary_cn": "Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images c...",
+      "authors": [
+        "Bohan Liu",
+        "Wenqian Ye",
+        "Guangzhi Xiong",
+        "Zhenghao He",
+        "Sanchit Sinha"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.CL"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:55:24Z",
+      "updated": "2026-07-02T17:55:24Z",
+      "link": "http://arxiv.org/abs/2607.02494v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02494v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP/大模型",
+        "NLP",
+        "CV/计算机视觉",
+        "多模态",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "models",
+        "robustness",
+        "typographic",
+        "attack",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02491",
+      "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "title_cn": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "summary": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfa...",
+      "summary_cn": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfa...",
+      "authors": [
+        "Timo Bertram",
+        "Sidhant Bhavnani",
+        "Richard Freinschlag",
+        "Erich Kobler",
+        "Andreas Mayr"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:53:31Z",
+      "updated": "2026-07-02T17:53:31Z",
+      "link": "http://arxiv.org/abs/2607.02491v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02491v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP"
+      ],
+      "keywords": [
+        "symbolic",
+        "solvers",
+        "rrms",
+        "rrm",
+        "guiding"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02490",
+      "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "title_cn": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "summary": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual i...",
+      "summary_cn": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual i...",
+      "authors": [
+        "Liyan Tang",
+        "Fangcong Yin",
+        "Greg Durrett"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:53:15Z",
+      "updated": "2026-07-02T17:53:15Z",
+      "link": "http://arxiv.org/abs/2607.02490v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02490v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态"
+      ],
+      "keywords": [
+        "reflection",
+        "grounded",
+        "self",
+        "vision",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02486",
+      "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "title_cn": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "summary": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. W...",
+      "summary_cn": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. W...",
+      "authors": [
+        "Yejun Zhang",
+        "Xinjue Wang",
+        "Zihan Wang",
+        "Esa Rahtu",
+        "Juho Kannala"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:52:41Z",
+      "updated": "2026-07-02T17:52:41Z",
+      "link": "http://arxiv.org/abs/2607.02486v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02486v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "CV/计算机视觉",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "descriptor",
+        "free",
+        "visual",
+        "localization",
+        "global"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02484",
+      "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+      "title_cn": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+      "summary": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: th...",
+      "summary_cn": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: th...",
+      "authors": [
+        "Xuehui Wang",
+        "Xuankun Yang",
+        "Wei Shen"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:50:57Z",
+      "updated": "2026-07-02T17:50:57Z",
+      "link": "http://arxiv.org/abs/2607.02484v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02484v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "AI",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态",
+        "模型压缩/部署",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "dense",
+        "token",
+        "textual",
+        "noise",
+        "entropy"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02479",
+      "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+      "title_cn": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+      "summary": "While Multimodal Large Language Models (MLLMs) have demonstrated exceptional capabilities in standard visual understanding, adapting them for active visual search in 360$^\\circ$ panoramic environments exposes fundamental limitations. Specifically, standard MLLMs struggle to effectively model inheren...",
+      "summary_cn": "While Multimodal Large Language Models (MLLMs) have demonstrated exceptional capabilities in standard visual understanding, adapting them for active visual search in 360$^\\circ$ panoramic environments exposes fundamental limitations. Specifically, standard MLLMs struggle to effectively model inheren...",
+      "authors": [
+        "Jingtao Xu",
+        "Zizhuo Lin",
+        "Jianwen Sun",
+        "Yi Yang",
+        "Yawei Luo"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:47:27Z",
+      "updated": "2026-07-02T17:47:27Z",
+      "link": "http://arxiv.org/abs/2607.02479v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02479v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "多模态",
+        "机器人"
+      ],
+      "keywords": [
+        "panoramic",
+        "active",
+        "circ",
+        "mllms",
+        "standard"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02473",
+      "title": "Audio-Based Understanding of Audiobook Narration Appeal",
+      "title_cn": "Audio-Based Understanding of Audiobook Narration Appeal",
+      "summary": "Narration is central to the audiobook listening experience, shaping how listeners engage with and understand the content. This work explores how narration qualities shape an audiobook's appeal, noting that their effects can vary by genre, title, and audience. We extract vocal and acoustic features (...",
+      "summary_cn": "Narration is central to the audiobook listening experience, shaping how listeners engage with and understand the content. This work explores how narration qualities shape an audiobook's appeal, noting that their effects can vary by genre, title, and audience. We extract vocal and acoustic features (...",
+      "authors": [
+        "Shahar Elisha",
+        "Mariano Beguerisse-Díaz",
+        "Emmanouil Benetos"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.SD",
+        "eess.AS"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:43:05Z",
+      "updated": "2026-07-02T17:43:05Z",
+      "link": "http://arxiv.org/abs/2607.02473v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02473v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "NLP",
+        "语音技术"
+      ],
+      "keywords": [
+        "audiobook",
+        "narration",
+        "audio",
+        "appeal",
+        "genre"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02464",
+      "title": "Will Scaling Improve Social Simulation with LLMs?",
+      "title_cn": "Will Scaling Improve Social Simulation with LLMs?",
+      "summary": "Large Language Model (LLM) social simulations are a promising research method, but they are not yet faithful enough to be adopted widely. In this work, we investigate whether the current scaling paradigm in language modeling is likely to close these gaps, or whether simulation fidelity is orthogonal...",
+      "summary_cn": "Large Language Model (LLM) social simulations are a promising research method, but they are not yet faithful enough to be adopted widely. In this work, we investigate whether the current scaling paradigm in language modeling is likely to close these gaps, or whether simulation fidelity is orthogonal...",
+      "authors": [
+        "Caleb Ziems",
+        "William Held",
+        "Su Doga Karaca",
+        "David Grusky",
+        "Tatsunori Hashimoto"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:30:38Z",
+      "updated": "2026-07-02T17:30:38Z",
+      "link": "http://arxiv.org/abs/2607.02464v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02464v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "大模型/LLM",
+        "NLP",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "scaling",
+        "social",
+        "simulation",
+        "llms",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02461",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "title_cn": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "summary": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, f...",
+      "summary_cn": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, f...",
+      "authors": [
+        "Donghyun Lee",
+        "Jitesh Chavan",
+        "Duy Nguyen",
+        "Sam Huang",
+        "Liming Jiang"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:27:34Z",
+      "updated": "2026-07-02T17:27:34Z",
+      "link": "http://arxiv.org/abs/2607.02461v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02461v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "AI",
+        "机器学习",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "模型训练/优化",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "orbitquant",
+        "agnostic",
+        "quantization",
+        "video",
+        "diffusion"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02460",
+      "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+      "title_cn": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+      "summary": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ...",
+      "summary_cn": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ...",
+      "authors": [
+        "Zhuowei Chen",
+        "Xiang Lorraine Li"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:27:24Z",
+      "updated": "2026-07-02T17:27:24Z",
+      "link": "http://arxiv.org/abs/2607.02460v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02460v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "强化学习",
+        "模型压缩/部署",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "annotation",
+        "free",
+        "self",
+        "supervision",
+        "neuron"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02459",
+      "title": "Language Models as Measurement Apparatus for Culture",
+      "title_cn": "Language Models as Measurement Apparatus for Culture",
+      "summary": "Language models are increasingly used to quantify cultural phenomena, but what makes such measurement distinctively cultural? This paper argues that NLP work on culture is a material-discursive practice: the apparatus -- model, data, annotation, evaluation -- participates in constituting the cultura...",
+      "summary_cn": "Language models are increasingly used to quantify cultural phenomena, but what makes such measurement distinctively cultural? This paper argues that NLP work on culture is a material-discursive practice: the apparatus -- model, data, annotation, evaluation -- participates in constituting the cultura...",
+      "authors": [
+        "Kent K. Chang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:25:55Z",
+      "updated": "2026-07-02T17:25:55Z",
+      "link": "http://arxiv.org/abs/2607.02459v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02459v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "NLP",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "cultural",
+        "language",
+        "models",
+        "measurement",
+        "apparatus"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02447",
+      "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+      "title_cn": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+      "summary": "Recent research has introduced distributed self-supervised learning (D-SSL) approaches to leverage vast amounts of unlabeled decentralized data. However, D-SSL faces the critical challenge of data heterogeneity, and there is limited theoretical understanding of how different D-SSL frameworks respond...",
+      "summary_cn": "Recent research has introduced distributed self-supervised learning (D-SSL) approaches to leverage vast amounts of unlabeled decentralized data. However, D-SSL faces the critical challenge of data heterogeneity, and there is limited theoretical understanding of how different D-SSL frameworks respond...",
+      "authors": [
+        "Xuanyu Chen",
+        "Nan Yang",
+        "Shuai Wang",
+        "Dong Yuan"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:17:05Z",
+      "updated": "2026-07-02T17:17:05Z",
+      "link": "http://arxiv.org/abs/2607.02447v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02447v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "ssl",
+        "distributed",
+        "frameworks",
+        "non",
+        "understanding"
+      ],
+      "hot_score": 88.0
+    }
+  ],
+  "news": [
+    {
+      "id": "ith_2249108136",
+      "title": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "title_cn": "从洗发水到饼干，消费品迎来 AI 焕新",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/060.htm",
+      "published": "2026-07-06T14:37:45",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "从洗发水到饼",
+        "消费品迎来",
+        "焕新"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_1022398548",
+      "title": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "title_cn": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/890.htm",
+      "published": "2026-07-06T08:57:09",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "三星电子",
+        "营业利润预计",
+        "同比暴涨",
+        "存储芯片需求",
+        "持续引爆业绩"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_86998040",
+      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "title_cn": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/872.htm",
+      "published": "2026-07-06T07:22:04",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "hbm",
+        "gpu",
+        "之父金正浩",
+        "的本质是内存",
+        "真正工作的时"
+      ],
+      "hot_score": 100.0
+    },
+    {
+      "id": "ith_4067370014",
+      "title": "成立不到 3 年，“Token 工厂”硅基流动递表港交所",
+      "title_cn": "成立不到 3 年，“Token 工厂”硅基流动递表港交所",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/866.htm",
+      "published": "2026-07-05T23:51:24",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "token",
+        "成立不到",
+        "硅基流动递表",
+        "港交所"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_1432449245",
+      "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+      "title_cn": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/809.htm",
+      "published": "2026-07-05T17:42:03",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "复旦大学一课",
+        "程考试改为",
+        "人考",
+        "名大学生出题"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_4150244158",
+      "title": "哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大",
+      "title_cn": "哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/807.htm",
+      "published": "2026-07-05T17:25:56",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "哈佛大学研究",
+        "原生初创企业",
+        "减少入门级岗",
+        "位招聘",
+        "对专家级人才"
+      ],
+      "hot_score": 95.0
+    },
+    {
+      "id": "ith_1011345002",
+      "title": "曝微软重构 Copilot AI：精简 Podcasts 等冗余功能、新增 AutoPilot 智能体",
+      "title_cn": "曝微软重构 Copilot AI：精简 Podcasts 等冗余功能、新增 AutoPilot 智能体",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/542.htm",
+      "published": "2026-07-04T14:06:23",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "copilot",
+        "podcasts",
+        "autopilot",
+        "曝微软重构",
+        "精简"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_2864992983",
+      "title": "Anthropic 最强抓虫 AI 助推，Epoch 称 6 月报告高危漏洞数是此前纪录 3.5 倍",
+      "title_cn": "Anthropic 最强抓虫 AI 助推，Epoch 称 6 月报告高危漏洞数是此前纪录 3.5 倍",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/536.htm",
+      "published": "2026-07-04T13:53:27",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "anthropic",
+        "epoch",
+        "最强抓虫",
+        "助推",
+        "月报告高危漏"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_678321052",
+      "title": "美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片",
+      "title_cn": "美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/531.htm",
+      "published": "2026-07-04T13:36:38",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "美光扩建日本",
+        "广岛半导体工",
+        "投资",
+        "万亿日元",
+        "为英伟达等供"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_897679774",
+      "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
+      "title_cn": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/477.htm",
+      "published": "2026-07-04T07:57:11",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "claude",
+        "fable",
+        "opus",
+        "网友反馈",
+        "重上架版"
+      ],
+      "hot_score": 90.0
+    },
+    {
+      "id": "ith_1137914660",
+      "title": "AI 小说洞察：角色刻画较单调、故事多以圆满结局未留悬念",
+      "title_cn": "AI 小说洞察：角色刻画较单调、故事多以圆满结局未留悬念",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/313.htm",
+      "published": "2026-07-03T15:56:06",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "小说洞察",
+        "角色刻画较单",
+        "故事多以圆满",
+        "结局未留悬念"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_2321722657",
+      "title": "威胁平面设计等远程工作者：AI 自动化 16.1% 项目已被攻克",
+      "title_cn": "威胁平面设计等远程工作者：AI 自动化 16.1% 项目已被攻克",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/242.htm",
+      "published": "2026-07-03T14:06:28",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "威胁平面设计",
+        "等远程工作者",
+        "自动化",
+        "项目已被攻克"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_1617322859",
+      "title": "AI 交互革命：Claude Code 系统提示词精简 80%，示例约束反而遏制表现",
+      "title_cn": "AI 交互革命：Claude Code 系统提示词精简 80%，示例约束反而遏制表现",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/176.htm",
+      "published": "2026-07-03T13:43:53",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "claude",
+        "code",
+        "交互革命",
+        "系统提示词精",
+        "示例约束反而"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_3980533569",
+      "title": "英伟达开源 TwoTower AI 模型：保留 98.7% 质量，Token 生成提速 2.42 倍",
+      "title_cn": "英伟达开源 TwoTower AI 模型：保留 98.7% 质量，Token 生成提速 2.42 倍",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/162.htm",
+      "published": "2026-07-03T13:21:52",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "twotower",
+        "token",
+        "英伟达开源",
+        "模型",
+        "保留"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_1652448016",
+      "title": "Anthropic 收紧 Claude Fable 5 最强模型，7 月 7 日从订阅中移除改为 AI 用量计费",
+      "title_cn": "Anthropic 收紧 Claude Fable 5 最强模型，7 月 7 日从订阅中移除改为 AI 用量计费",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/110.htm",
+      "published": "2026-07-03T12:09:45",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "anthropic",
+        "claude",
+        "fable",
+        "收紧",
+        "最强模型"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_4044766587",
+      "title": "亚马逊回应 Alexa AI 从 1 数到 40 出现“恐怖片音效”：正部署修复",
+      "title_cn": "亚马逊回应 Alexa AI 从 1 数到 40 出现“恐怖片音效”：正部署修复",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/094.htm",
+      "published": "2026-07-03T11:48:58",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "alexa",
+        "亚马逊回应",
+        "数到",
+        "出现",
+        "恐怖片音效"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_3073849444",
+      "title": "Palantir CEO 卡普抨击 OpenAI 等 AI 公司“双重收费”，要钱还窃取数据",
+      "title_cn": "Palantir CEO 卡普抨击 OpenAI 等 AI 公司“双重收费”，要钱还窃取数据",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/079.htm",
+      "published": "2026-07-03T11:19:54",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "palantir",
+        "ceo",
+        "openai",
+        "卡普抨击",
+        "公司"
+      ],
+      "hot_score": 85.0
+    },
+    {
+      "id": "ith_2086078253",
+      "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+      "title_cn": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "published": "2026-07-02T22:22:49",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "adobe",
+        "企业",
+        "成本失控",
+        "消息称花旗",
+        "等纷纷限制员"
+      ],
+      "hot_score": 80.0
+    },
+    {
+      "id": "ith_1792363843",
+      "title": "微软宣布斥资 25 亿美元成立新公司，助力企业落地人工智能技术",
+      "title_cn": "微软宣布斥资 25 亿美元成立新公司，助力企业落地人工智能技术",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/971/911.htm",
+      "published": "2026-07-02T21:29:00",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "微软宣布斥资",
+        "亿美元成立新",
+        "公司",
+        "助力企业落地",
+        "人工智能技术"
+      ],
+      "hot_score": 80.0
+    },
+    {
+      "id": "ith_3276459328",
+      "title": "核能供电 AI：Valar 成功用先进反应堆为英伟达 Blackwell 芯片供电",
+      "title_cn": "核能供电 AI：Valar 成功用先进反应堆为英伟达 Blackwell 芯片供电",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/971/834.htm",
+      "published": "2026-07-02T17:54:10",
+      "source": "IT之家",
+      "source_url": "https://www.ithome.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "valar",
+        "blackwell",
+        "核能供电",
+        "成功用先进反",
+        "应堆为英伟达"
+      ],
+      "hot_score": 80.0
+    },
+    {
+      "id": "qbt_4162628664",
+      "title": "字节Seedance，正在占领好莱坞",
+      "title_cn": "字节Seedance，正在占领好莱坞",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443665.html",
+      "published": "2026-07-06 16:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "字节",
+        "正在占领好莱"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_896248380",
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "title_cn": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443559.html",
+      "published": "2026-07-06 13:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "preview",
+        "多模型集成登",
+        "双榜",
+        "对比名单中出",
+        "现最新旗舰"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_4089290299",
+      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "title_cn": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443522.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "世界模型激辩",
+        "答案不在",
+        "或世界模型"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_15358728",
+      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "title_cn": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "published": "2026-07-06 10:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "waic",
+        "征程赶超",
+        "模型与智能体",
+        "时代范式重构",
+        "迈入智能体生"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1310475057",
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "title_cn": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "published": "2026-06-22 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "李飞飞署名具",
+        "身新论文",
+        "烧不起",
+        "量大管饱"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_3145469612",
+      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+      "title_cn": "刚刚，LeCun团队让世界模型学会持续学习！",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442964.html",
+      "published": "2026-06-22 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "团队让世界模",
+        "型学会持续学"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_2002683728",
+      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "title_cn": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/443241.html",
+      "published": "2026-06-25 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "别争了",
+        "香农老婆",
+        "才是世界上第",
+        "一个大语言模"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_379003937",
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "title_cn": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "published": "2026-06-23 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "光象科技累计",
+        "完成数亿元天",
+        "使轮融资",
+        "布局物理原生",
+        "基座模型"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_553539318",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "title_cn": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "published": "2026-06-14 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "中国团队正在",
+        "世界模型",
+        "搬进细胞内部"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_415175056",
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "title_cn": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442567.html",
+      "published": "2026-06-16 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "fable",
+        "回归",
+        "小时差评如潮",
+        "跑分大降",
+        "拒答问题"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_1143435048",
+      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "title_cn": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442531.html",
+      "published": "2026-06-18 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "奕境携手华为",
+        "乾崑全球实测",
+        "央视",
+        "超凡一步",
+        "见证中国汽车"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_395526157",
+      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "title_cn": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442517.html",
+      "published": "2026-06-18 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "比亚迪",
+        "月销量超",
+        "年内销量记录",
+        "再度刷新"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_1787286796",
+      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "title_cn": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442503.html",
+      "published": "2026-06-18 17:17:18",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "比亚迪集中公",
+        "布多起名誉维",
+        "权胜诉案件",
+        "重拳打击",
+        "黑公关"
+      ],
+      "hot_score": 60.0
+    },
+    {
+      "id": "qbt_3729584653",
+      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "title_cn": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442224.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "蔚来李斌北大",
+        "毕业",
+        "年演讲热搜",
+        "不灌鸡汤讲失",
+        "向内求索"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_1408659609",
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "title_cn": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "找出",
+        "种全新超导体",
+        "只用",
+        "人类此前完全",
+        "未知"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_755169531",
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "title_cn": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442447.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "与百度智能云",
+        "达成战略合作",
+        "文心",
+        "系列登陆"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_3664239609",
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "title_cn": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "黄仁勋说的",
+        "被这家中国跨",
+        "界选手带进了",
+        "生命科学实验"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_2215903533",
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "title_cn": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "waic",
+        "基石筑底",
+        "算力",
+        "超节点与光互",
+        "能否绕过单芯"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_928905411",
+      "title": "世界模型的新用途：不做选手，去当裁判",
+      "title_cn": "世界模型的新用途：不做选手，去当裁判",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "published": "2026-07-03 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "世界模型的新",
+        "用途",
+        "不做选手",
+        "去当裁判"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "qbt_233941700",
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "title_cn": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "summary": "",
+      "summary_cn": "",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "published": "2026-07-02 00:00:00",
+      "source": "量子位",
+      "source_url": "https://www.qbitai.com",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "areal",
+        "越用越强",
+        "开源",
+        "打造面向自演",
+        "进智能体的"
+      ],
+      "hot_score": 96.0
+    },
+    {
+      "id": "rss_2793955903",
+      "title": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "title_cn": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
+      "summary": "<p data-vmark=\"0aff\">IT之家 7 月 6 日消息，据雷峰网今日报道，本月将要上市的新一代理想 L6 可能会迎来涨价。</p><p data-vmark=\"881c\"><span class=\"wx_text_underline\">报道援引知情人士消息，今年以来，受存储芯片与</span><span>碳酸锂价格</span><span class=\"wx_text_underl",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/205.htm",
+      "published": "Mon, 06 Jul 2026 09:10:28 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "受存储芯片与",
+        "碳酸锂价格上",
+        "涨影响",
+        "消息称新一代",
+        "理想"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3351879292",
+      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "title_cn": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "summary": "<p data-vmark=\"d97d\">IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A，<strong>售价 2199 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"78bc\">6GB+128GB：2199 元</p></",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/204.htm",
+      "published": "Mon, 06 Jul 2026 09:06:48 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "vivo",
+        "元起",
+        "手机上架官网",
+        "第二代骁龙",
+        "支持系统深度"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2898484347",
+      "title": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "title_cn": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
+      "summary": "<p data-vmark=\"51db\">IT之家 7 月 6 日消息，今日，奇瑞汽车执行副总裁李学用发文称：我们给大家带来了年轻人的新 X 系 —— 环游者，275 千瓦的动力，激情操控体验，方正美学，大空间，2.5 米大床房，搭载猎鹰 500 辅助驾驶，XWD 全自动智能四驱，据悉，<strong>新车将于今年四季度上市</strong>。</p><p style=\"text-align: c",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/203.htm",
+      "published": "Mon, 06 Jul 2026 09:01:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "辅助驾驶",
+        "四季度上市",
+        "suv",
+        "奇瑞捷途环游",
+        "者方盒子"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1987714190",
+      "title": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "title_cn": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "summary": "<p data-vmark=\"0f00\">IT之家 7 月 6 日消息，“哔哩漫游（BiliRoaming）”是一个解除B站客户端番剧区域限制的热门 Xposed 模块，还提供一些其他小功能，在 GitHub 上获得了超 11.4K 星标。</p><p data-vmark=\"6a57\">今日，<strong>“哔哩漫游”的 GitHub 项目页面删除了全部代码</strong>，README 页",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/202.htm",
+      "published": "Mon, 06 Jul 2026 08:57:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "github",
+        "哔哩漫游",
+        "付费番剧解限",
+        "制工具",
+        "收到"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3586867459",
+      "title": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "title_cn": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
+      "summary": "<p data-vmark=\"9894\">IT之家 7 月 6 日消息，此前专注于键鼠赛道的 Keychron（渴创）近日推出了其<strong>首款扩展坞</strong>。该设备支持雷电 5 规范，<strong>采用 14 合 1 设计</strong>，售价 349.99 美元（IT之家注：现汇率约合 2375 元人民币）。</p><p data-vmark=\"eee4\" style=\"t",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/201.htm",
+      "published": "Mon, 06 Jul 2026 08:57:22 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "keychron",
+        "涉足非键鼠外",
+        "推出",
+        "雷电",
+        "扩展坞"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_4056577685",
+      "title": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "title_cn": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
+      "summary": "<p data-vmark=\"dd87\">IT之家 7 月 6 日消息，据韩联社消息，三星电子内部以 DX（设备体验）部门员工为主体的工会即将举行集会。</p><p data-vmark=\"1ae0\">该部门主要负责家电、电视及智能手机等业务，工会此举旨在要求管理层针对“2026 年薪酬谈判”结果制定相应的对策。</p><p data-vmark=\"4ee8\">报道称，2026 年非芯片部门的员工",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/194.htm",
+      "published": "Mon, 06 Jul 2026 08:48:33 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "不同部门奖金",
+        "差距高达百倍",
+        "三星非芯片部",
+        "门员工拟集会",
+        "抗议"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_720962097",
+      "title": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "title_cn": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
+      "summary": "<p data-vmark=\"4d86\">IT之家 7 月 6 日消息，高德今日宣布 AI 专车功能升级，用户只需用自己的话完整表达出行需求，其搭载的“<span>AI 专车管家</span>”即可从语句中<strong>自动识别关键信息</strong>，并匹配一辆符合个性化要求的专车。</p><p data-vmark=\"1b90\">IT之家从官方介绍获悉，<span>高德 AI 专车</sp",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/193.htm",
+      "published": "Mon, 06 Jul 2026 08:44:44 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "高德",
+        "专车升级",
+        "一句话叫来个",
+        "性化专车",
+        "首批上线北京"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2253852038",
+      "title": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "title_cn": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+      "summary": "<p data-vmark=\"0b7e\">IT之家 7 月 6 日消息，腾讯今日发布混元 Hy3 模型，元宝也迎来再次升级。打开元宝深度思考或快速思考，选择 Hy3 模型就能立即体验，全部能力免费开放。</p><p data-vmark=\"4625\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfil",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/192.htm",
+      "published": "Mon, 06 Jul 2026 08:37:08 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "混元",
+        "模型",
+        "腾讯元宝接入",
+        "支持免费做文",
+        "align"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2977715320",
+      "title": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "title_cn": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
+      "summary": "<p data-vmark=\"9064\">IT之家 7 月 6 日消息，德国无人机企业 Quantum Systems 当地时间 5 日宣布，其一款名为 Apex Recordhunter 的技术验证电池电动飞行器在内部直线平飞测试中<strong>实现了 699km/h 的最高速度</strong>。</p><p data-vmark=\"d137\"><strong>这一速度优于同类飞行器此前的最",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/190.htm",
+      "published": "Mon, 06 Jul 2026 08:31:40 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "quantum",
+        "systems",
+        "德国",
+        "达成电池电动",
+        "飞行器最快速"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1634990853",
+      "title": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "title_cn": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
+      "summary": "<p data-vmark=\"f2d8\">IT之家 7 月 6 日消息，KTC 宣布联合京东推出一款 58 英寸无广告 4K 电视（T58A2），该机搭载京东 OS，定价为 1900 元，<strong>首发价 1780 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XrcBzdm\" target=\"_b",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/181.htm",
+      "published": "Mon, 06 Jul 2026 08:28:51 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "ktc",
+        "电视",
+        "首发价",
+        "推出京东联名",
+        "英寸"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1084312318",
+      "title": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "title_cn": "中国空调、风扇受欧洲民众追捧，外交部回应",
+      "summary": "<p data-vmark=\"04c3\">IT之家 7 月 6 日消息，今天，外交部发言人毛宁主持例行记者会。有记者就中国生产的空调、风扇、多功能防晒伞等防暑降温产品受到欧洲民众追捧提问。</p><p data-vmark=\"3af2\">发言人毛宁表示，契合需求、物美价优的商品自然会受到欢迎。中欧贸易结构是市场需求驱动、基于优势互补的自然结果。<strong><span class=\"color-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/167.htm",
+      "published": "Mon, 06 Jul 2026 08:19:30 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "中国空调",
+        "风扇受欧洲民",
+        "众追捧",
+        "外交部回应",
+        "color"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_547117924",
+      "title": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "title_cn": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
+      "summary": "<p data-vmark=\"0c9a\">IT之家 7 月 6 日消息，Razer（雷蛇）当地时间本月 3 日宣布，其此前仅限于 Windows 桌面平台的 <strong>Axon（雷幻）壁纸引擎将登陆移动端</strong>。该应用将于 7 月 15 日上线 Google Play，现已开放预注册。</p><p data-vmark=\"499b\" style=\"text-align: cent",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/165.htm",
+      "published": "Mon, 06 Jul 2026 08:17:20 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "axon",
+        "google",
+        "play",
+        "雷蛇",
+        "壁纸引擎将登"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_549474484",
+      "title": "央视全新《西游记》动画备案：第一季共 26 集",
+      "title_cn": "央视全新《西游记》动画备案：第一季共 26 集",
+      "summary": "<p data-vmark=\"ef84\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，央视全新《西游记》动画在列。</p><p data-vmark=\"d728\">备案信息显示，全新《西游记》动画报备机构为央视动漫集团有限公司，第一季分为上下两部，每部分别有 13 集，<strong>第一季共 26 集</strong",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/160.htm",
+      "published": "Mon, 06 Jul 2026 08:14:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "西游记",
+        "央视全新",
+        "第一季共",
+        "动画备案",
+        "之家"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1534297720",
+      "title": "经典动画《神兵小将》第三季回归，共 104 集",
+      "title_cn": "经典动画《神兵小将》第三季回归，共 104 集",
+      "summary": "<p data-vmark=\"131a\">IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，<strong>《神兵小将》第三季通过备案</strong>，分为上下两部分，共 104 集，每集 22 分钟。</p><p data-vmark=\"dfc0\" style=\"text-align: center;\"><img src",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/157.htm",
+      "published": "Mon, 06 Jul 2026 08:13:50 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "神兵小将",
+        "经典动画",
+        "第三季回归",
+        "align",
+        "center"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2426742730",
+      "title": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "title_cn": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
+      "summary": "<p data-vmark=\"9dfa\">IT之家 7 月 6 日消息，据日媒 TBS 报道，日本一名 15 岁少年因入侵万代南梦宫旗下动画流媒体平台“万代频道（バンダイチャンネル）”服务器、注销数万名用户账号，近日被警方逮捕。</p><p data-vmark=\"6a38\">IT之家参考报道获悉，涉案人为居住在埼玉县所泽市的一名 15 岁高中一年级学生。其在 2025 年 11 月利用他人会员账",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/151.htm",
+      "published": "Mon, 06 Jul 2026 08:09:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "chatgpt",
+        "日本",
+        "岁少年侵入万",
+        "代南梦宫流媒",
+        "体平台"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1515799504",
+      "title": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "title_cn": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
+      "summary": "<p data-vmark=\"ff8d\">IT之家 7 月 6 日消息，微软发文，宣布为 Microsoft Teams 会议应用推出全新的 AI 机器人管理策略，当第三方 AI 机器人尝试加入会议时，必须先获得会议组织者批准后才能进入。</p><p data-vmark=\"ae63\">据介绍，目前微软已在 Teams 管理中心新增“Manage external bots and their a",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/146.htm",
+      "published": "Mon, 06 Jul 2026 08:02:11 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习",
+        "机器人"
+      ],
+      "keywords": [
+        "teams",
+        "微软",
+        "加强第三方",
+        "智能体权限管",
+        "需会议组织者"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3456148945",
+      "title": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "title_cn": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+      "summary": "<p data-vmark=\"b7ed\">IT之家 7 月 6 日消息，据《卫报》昨天报道，英国外交大臣伊薇特 · 库珀警告称 AI 或将成为未来 10 年最大安全挑战，如果各国政府不能就人工智能发展制定国际准则，那么 AI 对人类的威胁堪比美国当年核爆日本广岛、长崎。</p><p style=\"text-align: center;\" data-vmark=\"1661\"><img src=\"ht",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/140.htm",
+      "published": "Mon, 06 Jul 2026 07:59:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI安全/对齐"
+      ],
+      "keywords": [
+        "英国外交大臣",
+        "年最大安全挑",
+        "库珀警告",
+        "或成未来",
+        "世界各国必须"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3221142888",
+      "title": "面向数学形式化证明：Mistral AI 发布 Leanstral 1.5 低使用成本开源模型",
+      "title_cn": "面向数学形式化证明：Mistral AI 发布 Leanstral 1.5 低使用成本开源模型",
+      "summary": "<p data-vmark=\"8f63\">IT之家 7 月 6 日消息，欧洲人工智能企业 Mistral AI 当地时间本月 2 日宣布推出<strong>面向数学形式化证明程序语言 Lean 4 的 Leanstral 1.5 模型</strong>。该模型总共拥有 119B 参数，激活 6B 参数，以 Apache-2.0 许可开源。</p><p data-vmark=\"eb85\" style",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/135.htm",
+      "published": "Mon, 06 Jul 2026 07:54:25 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "mistral",
+        "leanstral",
+        "面向数学形式",
+        "化证明",
+        "低使用成本开"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_181404529",
+      "title": "蔚来副总裁马麟：蔚来品牌 6 月平均成交价为 44.3 万元",
+      "title_cn": "蔚来副总裁马麟：蔚来品牌 6 月平均成交价为 44.3 万元",
+      "summary": "<p data-vmark=\"81a8\">IT之家 7 月 6 日消息，上海蔚来汽车有限公司副总裁马麟今日透露，<strong>蔚来品牌 6 月平均成交价为 44.3 万元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"1d2a\"><img src=\"https://img.ithome.com/newsuploadfiles/20",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/134.htm",
+      "published": "Mon, 06 Jul 2026 07:53:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "蔚来品牌",
+        "月平均成交价",
+        "万元",
+        "蔚来副总裁马",
+        "align"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_525021416",
+      "title": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
+      "title_cn": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
+      "summary": "<p data-vmark=\"8ead\">IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。</p><p data-vmark=\"94fd\">据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估<strong>微云台结构</strong>，光学防抖",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/131.htm",
+      "published": "Mon, 06 Jul 2026 07:51:55 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "oppo",
+        "find",
+        "微云台结构",
+        "预计为",
+        "消息称某厂"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3266785252",
+      "title": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
+      "title_cn": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
+      "summary": "<p data-vmark=\"7b84\">IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部，<strong>出任总经理一职</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ec26\"><img src=\"https://img.itho",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/126.htm",
+      "published": "Mon, 06 Jul 2026 07:46:42 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "消息称小米完",
+        "成关键人事任",
+        "原深圳区域总",
+        "部总经理葛维",
+        "严接掌手机相"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3955381569",
+      "title": "小米推出米家桌面照片打印机 2：升级 4 色热升华、使用蓝牙 5.2 连接，699 元",
+      "title_cn": "小米推出米家桌面照片打印机 2：升级 4 色热升华、使用蓝牙 5.2 连接，699 元",
+      "summary": "<p data-vmark=\"4cfe\">IT之家 7 月 6 日消息，小米现已在有品上架米家桌面照片打印机 2（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetai",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/121.htm",
+      "published": "Mon, 06 Jul 2026 07:42:54 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "amp",
+        "小米推出米家",
+        "桌面照片打印",
+        "升级",
+        "色热升华"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1825873268",
+      "title": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
+      "title_cn": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
+      "summary": "<p data-vmark=\"44f8\">IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时，<strong>用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验</strong>。</p><p data-vmark=\"5f83\">据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/120.htm",
+      "published": "Mon, 06 Jul 2026 07:42:37 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "预防电信诈骗",
+        "韩国实施手机",
+        "入网新规",
+        "进行人脸识别",
+        "等多重身份核"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_937372051",
+      "title": "首届全球人工智能治理对话在日内瓦举行，联合国秘书长古特雷斯发表讲话",
+      "title_cn": "首届全球人工智能治理对话在日内瓦举行，联合国秘书长古特雷斯发表讲话",
+      "summary": "<p data-vmark=\"a2e9\">IT之家 7 月 6 日消息，据央视新闻今日报道，当地时间 7 月 6 日，首届全球人工智能治理对话在瑞士日内瓦举行，<strong>约 1500 名来自世界各地的代表</strong>将在为期两天的会议期间就人工智能治理进行交流。</p><p data-vmark=\"2211\">联合国秘书长古特雷斯在开幕式上表示，人工智能正以惊人的速度发展。问题在于，<",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/118.htm",
+      "published": "Mon, 06 Jul 2026 07:41:27 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "首届全球人工",
+        "智能治理对话",
+        "联合国秘书长",
+        "在日内瓦举行",
+        "古特雷斯发表"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3091180812",
+      "title": "微软 Win11 效率神器 PowerToys 将改进“唤醒”功能，可自定义时长、绑定特定程序",
+      "title_cn": "微软 Win11 效率神器 PowerToys 将改进“唤醒”功能，可自定义时长、绑定特定程序",
+      "summary": "<p data-vmark=\"278a\">IT之家 7 月 6 日消息，微软 Win11 效率神器 PowerToys 有一个名为“<strong>唤醒</strong>”的工具，可以临时覆盖系统的睡眠机制，而无需更改操作系统电源计划。</p><p data-vmark=\"f253\" style=\"text-align: center;\"><img src=\"https://img.ithome.",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/112.htm",
+      "published": "Mon, 06 Jul 2026 07:34:12 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "powertoys",
+        "微软",
+        "效率神器",
+        "唤醒",
+        "将改进"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_370320908",
+      "title": "iQOO Z11 Pro 手机现身 Geekbench，搭载天玑 7500 芯片",
+      "title_cn": "iQOO Z11 Pro 手机现身 Geekbench，搭载天玑 7500 芯片",
+      "summary": "<p data-vmark=\"0573\">IT之家 7 月 6 日消息，一款型号为 vivo I2514 的新机近日现身 Geekbench AI 跑分库，量化 AI 得分达 2926 分，搭载联发科 MT6881 芯片。<strong>科技媒体 GizChina 认为该机是 iQOO Z11 Pro</strong>，<strong>预计将在近期亮相</strong>。</p><p style=",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/110.htm",
+      "published": "Mon, 06 Jul 2026 07:31:56 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "模型压缩/部署"
+      ],
+      "keywords": [
+        "iqoo",
+        "pro",
+        "geekbench",
+        "芯片",
+        "手机现身"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_807267877",
+      "title": "两部门重点处置 7 类涉志愿服务违规信息账号：将营利性活动包装成志愿服务、误导学生和家长等",
+      "title_cn": "两部门重点处置 7 类涉志愿服务违规信息账号：将营利性活动包装成志愿服务、误导学生和家长等",
+      "summary": "<p data-vmark=\"6414\">IT之家 7 月 6 日消息，网信办今日发布《<span class=\"js_title_inner\">关于开展网络平台涉志愿服务违规信息专项整治的通知</span>》，为进一步加强志愿服务监督管理，深入排查清理网上涉志愿服务违规信息，中央网信办、中央社会工作部决定自<strong> 2026 年 6 月下旬至 8 月下旬</strong>，集中开展为期 ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/109.htm",
+      "published": "Mon, 06 Jul 2026 07:28:15 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "NLP"
+      ],
+      "keywords": [
+        "两部门重点处",
+        "类涉志愿服务",
+        "违规信息账号",
+        "将营利性活动",
+        "包装成志愿服"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3371442235",
+      "title": "长安启源 Q06 中大型 SUV 官图公布：搭载长安天枢领航辅助驾驶系统、9 月上市",
+      "title_cn": "长安启源 Q06 中大型 SUV 官图公布：搭载长安天枢领航辅助驾驶系统、9 月上市",
+      "summary": "<p data-vmark=\"1805\">IT之家 7 月 6 日消息，长安启源现已发布旗下中大型 SUV 长安启源 Q06 车型官图，该车基于长安 SDA 天枢架构打造，采用纯电驱动，搭载最大功率 245 千瓦电机，将于 9 月上市。</p><p data-vmark=\"d095\" style=\"text-align: center;\"><img src=\"https://img.ithome.",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/108.htm",
+      "published": "Mon, 06 Jul 2026 07:27:35 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "suv",
+        "长安启源",
+        "月上市",
+        "中大型",
+        "官图公布"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3667287415",
+      "title": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
+      "title_cn": "腾讯发布并开源混元 Hy3 模型，宣称效果比肩国内外更大尺寸旗舰模型",
+      "summary": "<p data-vmark=\"e6df\">IT之家 7 月 6 日消息，腾讯混元官方今日宣布，继 4 月底发布 Hy3 preview 后，通过反馈修复了各种体验问题，进一步提升了后训练的质量和规模。<strong>今日正式发布并开源 Hy3 模型</strong>。</p><p data-vmark=\"3c70\" style=\"text-align: center;\"><img src=\"htt",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/106.htm",
+      "published": "Mon, 06 Jul 2026 07:25:43 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "模型",
+        "腾讯发布并开",
+        "源混元",
+        "宣称效果比肩",
+        "国内外更大尺"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_938049069",
+      "title": "2026 款联想 ThinkPad T14p 笔记本新增“酷睿 Ultra X9 388H + 64G + 1T”版本，19999 元",
+      "title_cn": "2026 款联想 ThinkPad T14p 笔记本新增“酷睿 Ultra X9 388H + 64G + 1T”版本，19999 元",
+      "summary": "<p data-vmark=\"3b7a\">IT之家 7 月 6 日消息，联想现已为旗下 2026 款 ThinkPad T14p 笔记本新增“酷睿 Ultra X9 388H + 64GB RAM + 1TB SSD”版本，<strong>定价为 19999 元</strong>，7 月 15 日首销。</p><dir><a contenteditable=\"false\" href=\"https:",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/104.htm",
+      "published": "Mon, 06 Jul 2026 07:21:56 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "thinkpad",
+        "笔记本新增",
+        "酷睿",
+        "版本",
+        "款联想"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2405863155",
+      "title": "米哈游精灵养成游戏《崩坏：因缘精灵》「进化测试」内容前瞻发布，7 月 9 日开测",
+      "title_cn": "米哈游精灵养成游戏《崩坏：因缘精灵》「进化测试」内容前瞻发布，7 月 9 日开测",
+      "summary": "<p data-vmark=\"0cfb\">IT之家 7 月 6 日消息，米哈游旗下精灵养成游戏 ——《崩坏：因缘精灵》「进化测试」已官宣定档 7 月 9 日，招募时间为 2026 年 6 月 22 日 12:00 - 2026 年 7 月 3 日 23:59。</p><p data-vmark=\"3288\" style=\"text-align: center;\"><img src=\"https:/",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/103.htm",
+      "published": "Mon, 06 Jul 2026 07:21:32 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "崩坏",
+        "因缘精灵",
+        "进化测试",
+        "米哈游精灵养",
+        "成游戏"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_867605372",
+      "title": "荣耀MagicOS 七月版本升级预告：YOYO 新增支持一语微信，远程协助应用上线",
+      "title_cn": "荣耀MagicOS 七月版本升级预告：YOYO 新增支持一语微信，远程协助应用上线",
+      "summary": "<p data-vmark=\"f457\">IT之家 7 月 6 日消息，荣耀MagicOS 今日发布七月版本升级预告，YOYO 新增支持一语微信功能，远程协助应用也在本月上线。</p><p data-vmark=\"9431\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/fca",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/101.htm",
+      "published": "Mon, 06 Jul 2026 07:20:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "yoyo",
+        "荣耀",
+        "新增支持一语",
+        "远程协助应用",
+        "七月版本升级"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2438436755",
+      "title": "科学家利用 AI 与量子物理发现两种新型超导体，目标 2033 年之前找到室温超导体",
+      "title_cn": "科学家利用 AI 与量子物理发现两种新型超导体，目标 2033 年之前找到室温超导体",
+      "summary": "<p data-vmark=\"e865\">IT之家 7 月 6 日消息，科学家研发出一种高效全新手段，用于搜寻物理学界最重大的科研目标之一：实用型超导体。</p><p style=\"text-align: center;\" data-vmark=\"bf22\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8d81d3b1-e52c-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/099.htm",
+      "published": "Mon, 06 Jul 2026 07:19:04 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "科学家利用",
+        "与量子物理发",
+        "现两种新型超",
+        "导体",
+        "年之前找到室"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2631839152",
+      "title": "投票：索尼 PlayStation 官宣放弃实体光盘，你觉得实体游戏应不应该继续存在？",
+      "title_cn": "投票：索尼 PlayStation 官宣放弃实体光盘，你觉得实体游戏应不应该继续存在？",
+      "summary": "<p data-vmark=\"5978\">IT之家 7 月 6 日特别调查，索尼官方 7 月 1 日宣布，<strong>从 2028 年 1 月起</strong>，<strong>PlayStation 平台新发售的游戏将仅以数字形式发售</strong>，<strong>不再推出实体光碟版本</strong>，引发海内外玩家热议。</p><p data-vmark=\"39b8\">索尼互娱（S",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/096.htm",
+      "published": "Mon, 06 Jul 2026 07:17:08 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "playstation",
+        "投票",
+        "索尼",
+        "官宣放弃实体",
+        "光盘"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2578453570",
+      "title": "LineageOS 明确表态：我们不采用谷歌的 Android 开发者验证方案",
+      "title_cn": "LineageOS 明确表态：我们不采用谷歌的 Android 开发者验证方案",
+      "summary": "<p data-vmark=\"5c93\">IT之家 7 月 6 日消息，据科技媒体 Android Authority 今天报道，谷歌将于今年晚些时候推出 Android 开发者验证计划，要求安卓开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。</p><p style=\"text-align: center;\" data-vmark=\"fdf9\"><img s",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/090.htm",
+      "published": "Mon, 06 Jul 2026 07:10:01 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "android",
+        "lineageos",
+        "明确表态",
+        "我们不采用谷",
+        "歌的"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_777451585",
+      "title": "消息称保时捷考虑在德国再裁员 4000 人",
+      "title_cn": "消息称保时捷考虑在德国再裁员 4000 人",
+      "summary": "<p data-vmark=\"f672\">IT之家 7 月 6 日消息，据德国媒体《商报》消息，知情人士透露，保时捷正考虑在其位于祖文豪森（Zuffenhausen）的工厂<strong>再裁减多达 4000 个岗位</strong>。此前该公司已同意削减 3900 个岗位。</p><p data-vmark=\"cc87\">报道称，管理和行政部门的员工将受到影响。此外，保时捷还可能将其魏斯阿赫（W",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/086.htm",
+      "published": "Mon, 06 Jul 2026 07:05:59 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "消息称保时捷",
+        "考虑在德国再",
+        "裁员",
+        "个岗位",
+        "zuffenhausen"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3510554283",
+      "title": "消息称三星晶圆代工 6 月有望实现三年来首次月度盈利",
+      "title_cn": "消息称三星晶圆代工 6 月有望实现三年来首次月度盈利",
+      "summary": "<p data-vmark=\"d17a\">IT之家 7 月 6 日消息，据韩媒 BLOTER 报道，三星电子设备解决方案 (DS) 部旗下<strong>晶圆代工业务有望在今年 6 月实现三年以来的首次月度盈利</strong>，一改往日颓势。尽管整个 2026Q2 能否盈利尚不明了，但这终究是一个值得注意的积极信号。</p><p style=\"text-align: center;\" data-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/085.htm",
+      "published": "Mon, 06 Jul 2026 07:05:26 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "盈利",
+        "消息称三星晶",
+        "圆代工",
+        "月有望实现三",
+        "年来首次月度"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1485953110",
+      "title": "高德地图升级“AI 专车管家”服务，一句话“定制”个性化网约车服务",
+      "title_cn": "高德地图升级“AI 专车管家”服务，一句话“定制”个性化网约车服务",
+      "summary": "<p data-vmark=\"9f41\">IT之家 7 月 6 日消息，高德地图宣布升级内置的“AI 专车管家”服务，北京、上海、杭州、成都等地用户将 App 更新至最新版本，即可以利用自然语言匹配自己所需要的网约车。</p><p style=\"text-align: center;\" data-vmark=\"d7aa\"><img src=\"https://img.ithome.com/newsu",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/084.htm",
+      "published": "Mon, 06 Jul 2026 07:04:03 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "NLP"
+      ],
+      "keywords": [
+        "服务",
+        "专车管家",
+        "高德地图升级",
+        "一句话",
+        "定制"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1101695378",
+      "title": "《幻兽帕鲁》游戏官方回应 1.0 版本上线具体时间，计划 7 月 10 日上午 11:30 左右发布",
+      "title_cn": "《幻兽帕鲁》游戏官方回应 1.0 版本上线具体时间，计划 7 月 10 日上午 11:30 左右发布",
+      "summary": "<p data-vmark=\"0135\">IT之家 7 月 6 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/0/960/759.htm\">游戏《幻兽帕鲁》1.0 正式版已官宣定档于 7 月 10 日</a>，并在夏日游戏节公开 CG 预告片。</p><p style=\"text-align: center;\" data-vmark=\"cc",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/082.htm",
+      "published": "Mon, 06 Jul 2026 07:01:49 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "幻兽帕鲁",
+        "游戏官方回应",
+        "版本上线具体",
+        "时间",
+        "计划"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3805380264",
+      "title": "《英雄联盟》2026 MSI 淘汰赛 BLG 以 3:0 横扫 LYON 战队，晋级胜者组决赛",
+      "title_cn": "《英雄联盟》2026 MSI 淘汰赛 BLG 以 3:0 横扫 LYON 战队，晋级胜者组决赛",
+      "summary": "<p data-vmark=\"643b\">IT之家 7 月 6 日消息，在刚刚结束的《英雄联盟》2026 MSI 淘汰赛胜者组比赛中，来自 LPL 赛区的 BLG 战队，以 3:0 的比分横扫 LYON 战队，成功晋级胜者组决赛。</p><h3 data-vmark=\"30f4\">具体赛况如下：</h3><p data-vmark=\"9a11\"><strong>BLG 战队 1:0 LYON 战队",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/073.htm",
+      "published": "Mon, 06 Jul 2026 06:51:55 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "战队",
+        "blg",
+        "lyon",
+        "msi",
+        "英雄联盟"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3389292268",
+      "title": "联想 AI 学生手机 L1 发售：纯净无游戏、支持 GPS 定位 / 视频通话，339 元",
+      "title_cn": "联想 AI 学生手机 L1 发售：纯净无游戏、支持 GPS 定位 / 视频通话，339 元",
+      "summary": "<p data-vmark=\"d3be\">IT之家 7 月 6 日消息，联想旗下 AI 学生手机 L1 现已在京东发售，<strong>定价为 339 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/Xrcyri2\" target=\"_blank\" data-wapurl=\"https://u.jd.com",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/072.htm",
+      "published": "Mon, 06 Jul 2026 06:51:54 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉",
+        "强化学习"
+      ],
+      "keywords": [
+        "学生手机",
+        "gps",
+        "联想",
+        "发售",
+        "纯净无游戏"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2462635280",
+      "title": "独立游戏开发者控诉 Steam 退款机制漏洞：玩家通关后申请全额退款",
+      "title_cn": "独立游戏开发者控诉 Steam 退款机制漏洞：玩家通关后申请全额退款",
+      "summary": "<p data-vmark=\"f541\">IT之家 7 月 6 日消息，Steam 完善的退款机制绝对算得上电子游戏行业里最优质的政策之一。平台并没有把玩家单纯视作消费者，而是当作真实用户对待；Valve 公司虽制定了清晰的规则，处理退款申请时却通常会一事一议。但这并不代表没有人钻这套退款机制的空子。</p><p style=\"text-align: center;\" data-vmark=\"fc",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/070.htm",
+      "published": "Mon, 06 Jul 2026 06:50:06 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "steam",
+        "独立游戏开发",
+        "者控诉",
+        "退款机制漏洞",
+        "玩家通关后申"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3438513376",
+      "title": "17999 元：联想 YOGA AI MINI 迷你主机酷睿 Ultra X7 358H 版开启预约，64GB 内存 +1TB SSD",
+      "title_cn": "17999 元：联想 YOGA AI MINI 迷你主机酷睿 Ultra X7 358H 版开启预约，64GB 内存 +1TB SSD",
+      "summary": "<p data-vmark=\"c64c\">IT之家 7 月 6 日消息，联想 YOGA AI MINI 迷你主机新配置现已在京东开启预约，新机搭载英特尔酷睿 Ultra X7 358H 处理器，主打 AI 应用场景，<strong>售价 17999 元</strong>。</p><p data-vmark=\"3191\" style=\"text-align: center;\"><img src=\"h",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/069.htm",
+      "published": "Mon, 06 Jul 2026 06:49:58 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "yoga",
+        "mini",
+        "联想",
+        "ssd",
+        "迷你主机酷睿"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2316466468",
+      "title": "红魔游戏平板 5 PRO 官宣 7 月 8 日启动下一轮发售，国补价 4499 元起",
+      "title_cn": "红魔游戏平板 5 PRO 官宣 7 月 8 日启动下一轮发售，国补价 4499 元起",
+      "summary": "<p data-vmark=\"2f9f\">IT之家 7 月 6 日消息，<a href=\"https://www.ithome.com/0/970/579.htm\" target=\"_blank\">红魔游戏平板 5 PRO 已于 6 月 30 日正式发布</a>，采用透明水冷设计，号称“口袋里的游戏神器”，<strong>首销 4999 元起、国补价 4499 元起</strong>。</p><p",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/066.htm",
+      "published": "Mon, 06 Jul 2026 06:46:03 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "元起",
+        "pro",
+        "红魔游戏平板",
+        "国补价",
+        "官宣"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2214195189",
+      "title": "LG“27U730A”27 英寸显示器发售：4K 60Hz 配双扬，提供 90W USB-C 接口，1599 元",
+      "title_cn": "LG“27U730A”27 英寸显示器发售：4K 60Hz 配双扬，提供 90W USB-C 接口，1599 元",
+      "summary": "<p data-vmark=\"dbe4\">IT之家 7 月 6 日消息，LG 旗下“27U730A”27 英寸显示器目前已在京东发售，该机采用 4K 60Hz 规格，提供了 USB-C 90W 接口，<strong>定价为 1599 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"cbd7\"><img src=\"https://i",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/064.htm",
+      "published": "Mon, 06 Jul 2026 06:44:10 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "usb",
+        "接口",
+        "英寸显示器发",
+        "配双扬",
+        "提供"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1027415257",
+      "title": "单模型支持 30 种语言 + 16 种方言，阿里千问升级 Fun-ASR-Realtime 语音识别模型",
+      "title_cn": "单模型支持 30 种语言 + 16 种方言，阿里千问升级 Fun-ASR-Realtime 语音识别模型",
+      "summary": "<p data-vmark=\"1ebc\">IT之家 7 月 6 日消息，阿里千问今日宣布，升级实时语音识别大模型 Fun-ASR-Realtime，<strong>单模型支持 16 种方言和 30 种语言</strong>，<a target=\"_blank\" href=\"https://help.aliyun.com/zh/model-studio/real-time-speech-recogn",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/062.htm",
+      "published": "Mon, 06 Jul 2026 06:39:48 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "语音技术"
+      ],
+      "keywords": [
+        "fun",
+        "asr",
+        "realtime",
+        "单模型支持",
+        "种语言"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3789111606",
+      "title": "盖世小鸡推出观星者手柄：集成智控交互彩屏，摇杆支持阻尼调节",
+      "title_cn": "盖世小鸡推出观星者手柄：集成智控交互彩屏，摇杆支持阻尼调节",
+      "summary": "<p data-vmark=\"a79c\">IT之家 7 月 6 日消息，盖世小鸡 (GameSir) 今日宣布手柄式控制器新品观星者正式发售。这一型号<strong>与此前推出的启明星 2 采用同等尺寸模具</strong>，同时一系列功能得到了升级，到手价低至 179 元。</p><p data-vmark=\"e7dc\" style=\"text-align: center;\"><img src=",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/059.htm",
+      "published": "Mon, 06 Jul 2026 06:36:47 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "强化学习"
+      ],
+      "keywords": [
+        "盖世小鸡推出",
+        "观星者手柄",
+        "集成智控交互",
+        "彩屏",
+        "摇杆支持阻尼"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1901521460",
+      "title": "岚图追光 S 官宣全车拥有 10 组贯穿式风道、19 个风口，实现 0.24Cd 超低风阻",
+      "title_cn": "岚图追光 S 官宣全车拥有 10 组贯穿式风道、19 个风口，实现 0.24Cd 超低风阻",
+      "summary": "<p data-vmark=\"9ce0\">IT之家 7 月 6 日消息，岚图汽车官方今日发布视频，预热了旗下纯电轿跑 SUV 新车 —— 岚图追光 S。</p><p style=\"text-align: center;\" data-vmark=\"b042\"><a class=\"ithome_super_player\" contenteditable=\"false\" target=\"_blank\" ",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/058.htm",
+      "published": "Mon, 06 Jul 2026 06:36:43 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "岚图追光",
+        "官宣全车拥有",
+        "组贯穿式风道",
+        "个风口",
+        "超低风阻"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2444519612",
+      "title": "微信：WeChat Pay HK 现已支持华为 HarmonyOS 鸿蒙系统，香港地区用户消费更方便",
+      "title_cn": "微信：WeChat Pay HK 现已支持华为 HarmonyOS 鸿蒙系统，香港地区用户消费更方便",
+      "summary": "<p data-vmark=\"c501\">IT之家 7 月 6 日消息，微信发文，宣布 WeChat Pay HK 现已支持华为 HarmonyOS 鸿蒙系统，香港地区用户使用香港手机号注册 WeChat 账号并进行实名认证后，即可在鸿蒙手机上便捷进行跨境汇款、“转数快”转账等操作，同时在商家消费可获 WePoints 积分。</p><p style=\"text-align: center;\" d",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/057.htm",
+      "published": "Mon, 06 Jul 2026 06:32:23 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "wechat",
+        "pay",
+        "harmonyos",
+        "现已支持华为",
+        "鸿蒙系统"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_460457415",
+      "title": "惠普海外更新 HyperX Omen 15 游戏本，搭载英特尔 Arrow Lake HX 处理器",
+      "title_cn": "惠普海外更新 HyperX Omen 15 游戏本，搭载英特尔 Arrow Lake HX 处理器",
+      "summary": "<p data-vmark=\"9fbf\">IT之家 7 月 6 日消息，惠普现已在海外市场为 HyperX Omen 15 笔记本更新英特尔 Arrow Lake HX 配置，<strong>新品最高可选酷睿 Ultra 9 290HX Plus 处理器</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ed99\"><img src=\"",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/056.htm",
+      "published": "Mon, 06 Jul 2026 06:25:29 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "hyperx",
+        "omen",
+        "arrow",
+        "lake",
+        "处理器"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_3405503398",
+      "title": "99 万机器人伴侣续航撑不过一晚？优必选回应称行业普遍续航 2-4 小时",
+      "title_cn": "99 万机器人伴侣续航撑不过一晚？优必选回应称行业普遍续航 2-4 小时",
+      "summary": "<p data-vmark=\"87de\">IT之家 7 月 6 日消息，近日，“99 万机器人伴侣续航撑不过一晚”相关话题登上热搜榜单。据新浪科技报道，对此人形机器人企业优必选作出回应，就产品续航、市场定位及科技伦理等核心问题进行了说明。</p><p style=\"text-align: center;\" data-vmark=\"4ace\"><img src=\"https://img.ithome",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/051.htm",
+      "published": "Mon, 06 Jul 2026 06:17:53 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "机器人"
+      ],
+      "keywords": [
+        "万机器人伴侣",
+        "续航撑不过一",
+        "优必选回应称",
+        "行业普遍续航",
+        "小时"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2952358148",
+      "title": "（更新：首支预告片公布）周星驰导演电影《功夫女足》定档 7 月 11 日上映",
+      "title_cn": "（更新：首支预告片公布）周星驰导演电影《功夫女足》定档 7 月 11 日上映",
+      "summary": "<p data-vmark=\"bdbd\"><strong>14:17 更新：</strong>首支预告公布。</p><p style=\"text-align: center;\" data-vmark=\"6750\"><a class=\"ithome_super_player\" contenteditable=\"false\" target=\"_blank\" href=\"https://weibo.co",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/972/996.htm",
+      "published": "Mon, 06 Jul 2026 04:07:56 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "更新",
+        "首支预告片公",
+        "周星驰导演电",
+        "功夫女足",
+        "定档"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_897446350",
+      "title": "消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片",
+      "title_cn": "消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片",
+      "summary": "<p data-vmark=\"d46d\">IT之家 7 月 6 日消息，据科创板日报从知情人士处获悉，将于今年秋季发布的华为 Mate 90 系列手机，<strong>计划搭载基于韬定律的新麒麟芯片</strong>。</p><p data-vmark=\"79c7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsu",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/049.htm",
+      "published": "Mon, 06 Jul 2026 06:14:21 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "mate",
+        "消息称华为",
+        "系列手机有望",
+        "搭载基于韬定",
+        "律的新麒麟芯"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1454339064",
+      "title": "一年净利有望超此前 40 年历史总和：消息称三星半导体高管内部宣布强劲预期",
+      "title_cn": "一年净利有望超此前 40 年历史总和：消息称三星半导体高管内部宣布强劲预期",
+      "summary": "<p data-vmark=\"6190\">IT之家 7 月 6 日消息，据韩媒《中央日报》消息，三星电子半导体领域（DS 部）业务战略总裁김용관在当地时间本月 3 日举行的半导体部门管理层会议上表示，<strong>设备解决方案部今年的净利润有望超过三星电子进入半导体领域 40 年来的总和</strong>。</p><p data-vmark=\"07bd\">김용관表示，三星电子今年的营业利润将符合",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/047.htm",
+      "published": "Mon, 06 Jul 2026 06:04:36 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "一年净利有望",
+        "超此前",
+        "年历史总和",
+        "消息称三星半",
+        "导体高管内部"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_2287587118",
+      "title": "因制造工艺问题，英伟达 Kyber 机架平台可能延期至 2028 年推出",
+      "title_cn": "因制造工艺问题，英伟达 Kyber 机架平台可能延期至 2028 年推出",
+      "summary": "<p data-vmark=\"2e01\">IT之家 7 月 6 日消息，据科技媒体 CNBC 昨天报道，研究机构 SemiAnalysis 数据显示，由于制造工艺问题，英伟达下一代 AI 机架系统 Kyber 可能推迟至 2028 年推出。</p><p style=\"text-align: center;\" data-vmark=\"050b\"><img src=\"https://img.ithom",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/046.htm",
+      "published": "Mon, 06 Jul 2026 05:59:06 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "kyber",
+        "年推出",
+        "因制造工艺问",
+        "英伟达",
+        "机架平台可能"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_926562387",
+      "title": "七彩虹推出 MoDT 主板 ECO HM770-K V20：集成 13900HX，支持 DDR4",
+      "title_cn": "七彩虹推出 MoDT 主板 ECO HM770-K V20：集成 13900HX，支持 DDR4",
+      "summary": "<p data-vmark=\"580c\">IT之家 7 月 6 日消息，七彩虹 (Colorful) 上月推出了 ECO HM770-K V20 主板。这是一款 MoDT 型号，<strong>板载集成英特尔酷睿 i9-13900HX 处理器</strong>，提供 2 条 DDR4 UDIMM 内存插槽。</p><p data-vmark=\"e7a5\" style=\"text-align: ce",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/041.htm",
+      "published": "Mon, 06 Jul 2026 05:46:09 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "modt",
+        "eco",
+        "主板",
+        "七彩虹推出",
+        "集成"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_270545851",
+      "title": "吉利银河 TT 纯电运动轿车内饰公开：三幅圆形方向盘 + 胶囊型仪表屏，今晚首秀",
+      "title_cn": "吉利银河 TT 纯电运动轿车内饰公开：三幅圆形方向盘 + 胶囊型仪表屏，今晚首秀",
+      "summary": "<p data-vmark=\"899a\">IT之家 7 月 6 日消息，吉利银河官方微博今日公开了旗下 TT 纯电运动轿车的内饰，主打“沉浸式质感座舱”。</p><p style=\"text-align: center;\" data-vmark=\"d47f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/fb91086b-09c6-",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/040.htm",
+      "published": "Mon, 06 Jul 2026 05:38:26 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "纯电运动轿车",
+        "吉利银河",
+        "内饰公开",
+        "三幅圆形方向",
+        "胶囊型仪表屏"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1048092839",
+      "title": "英特尔确认 CPU 涨价：基于不断变化的市场动态定期对供应链以及与之相关成本的持续监控",
+      "title_cn": "英特尔确认 CPU 涨价：基于不断变化的市场动态定期对供应链以及与之相关成本的持续监控",
+      "summary": "<p data-vmark=\"813d\">IT之家 7 月 6 日消息，据第一财经今日报道，继 DRAM、NAND Flash 等存储器价格持续上涨之后，CPU 成为最新加入涨价阵营的核心零部件。</p><p data-vmark=\"dfba\">7 月 6 日，英特尔对该媒体确认了涨价信息。英特尔表示，<strong>价格调整是基于不断变化的市场动态定期对供应链以及与之相关成本的持续监控</str",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/039.htm",
+      "published": "Mon, 06 Jul 2026 05:36:46 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "cpu",
+        "英特尔确认",
+        "涨价",
+        "基于不断变化",
+        "的市场动态定"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": "rss_1584718629",
+      "title": "影石 Insta360 X6 全景相机通过美国 FCC 认证，有望 8 月下旬-9 月发布",
+      "title_cn": "影石 Insta360 X6 全景相机通过美国 FCC 认证，有望 8 月下旬-9 月发布",
+      "summary": "<p data-vmark=\"fed3\">IT之家 7 月 6 日消息，据科技媒体 THE NEW CAMERA 昨天报道，影石下一代旗舰级全景相机 Insta360 X6 即将现身。目前，该机已通过美国 FCC 认证。</p><p style=\"text-align: center;\" data-vmark=\"a43e\"><img src=\"https://img.ithome.com/news",
+      "summary_cn": "",
+      "url": "https://www.ithome.com/0/973/038.htm",
+      "published": "Mon, 06 Jul 2026 05:30:14 GMT",
+      "source": "IT之家",
+      "source_url": "https://ithome.com/rss",
+      "type": "news",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "fcc",
+        "认证",
+        "影石",
+        "全景相机通过",
+        "美国"
+      ],
+      "hot_score": 100
+    }
+  ],
+  "github_projects": [
+    {
+      "id": 1136590548,
+      "name": "affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "title_cn": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 226460,
+      "forks": 34634,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools"
+      ],
+      "primary_category": "ai-agents",
+      "owner": "affaan-m",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "created_at": "2026-01-18T00:51:51Z",
+      "updated_at": "2026-07-06T09:16:26Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "affaan",
+        "ecc"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1024554267,
+      "name": "NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "title_cn": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_cn": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 209968,
+      "forks": 38411,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "primary_category": "ai",
+      "owner": "NousResearch",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "created_at": "2025-07-22T22:22:28Z",
+      "updated_at": "2026-07-06T09:16:02Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "nousresearch",
+        "hermes",
+        "agent"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 614765452,
+      "name": "Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "title_cn": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "description_cn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 185398,
+      "forks": 46123,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents"
+      ],
+      "primary_category": "agentic-ai",
+      "owner": "Significant-Gravitas",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/130738209?v=4",
+      "created_at": "2023-03-16T09:21:07Z",
+      "updated_at": "2026-07-06T08:37:43Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM",
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "significant",
+        "gravitas",
+        "autogpt"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 658928958,
+      "name": "ollama/ollama",
+      "title": "ollama/ollama",
+      "title_cn": "ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "description_cn": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "stars": 175569,
+      "forks": 16857,
+      "language": "Go",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "gemma3",
+        "glm",
+        "go"
+      ],
+      "primary_category": "deepseek",
+      "owner": "ollama",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
+      "created_at": "2023-06-26T19:39:32Z",
+      "updated_at": "2026-07-06T09:01:22Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "ollama"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 574523116,
+      "name": "f/prompts.chat",
+      "title": "f/prompts.chat",
+      "title_cn": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "description_cn": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "stars": 164839,
+      "forks": 21336,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts"
+      ],
+      "primary_category": "ai",
+      "owner": "f",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
+      "created_at": "2022-12-05T13:54:13Z",
+      "updated_at": "2026-07-06T09:09:37Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "prompts",
+        "chat"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 155220641,
+      "name": "huggingface/transformers",
+      "title": "huggingface/transformers",
+      "title_cn": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "description_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "url": "https://github.com/huggingface/transformers",
+      "stars": 162290,
+      "forks": 33785,
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "primary_category": "audio",
+      "owner": "huggingface",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
+      "created_at": "2018-10-29T13:56:00Z",
+      "updated_at": "2026-07-06T09:00:44Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "NLP"
+      ],
+      "keywords": [
+        "huggingface",
+        "transformers"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 626805178,
+      "name": "langgenius/dify",
+      "title": "langgenius/dify",
+      "title_cn": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "description_cn": "Production-ready platform for agentic workflow development.",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 147867,
+      "forks": 23287,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "primary_category": "agent",
+      "owner": "langgenius",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
+      "created_at": "2023-04-12T07:40:24Z",
+      "updated_at": "2026-07-06T09:16:25Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "langgenius",
+        "dify"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 787076358,
+      "name": "firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "title_cn": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "description_cn": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 145456,
+      "forks": 8374,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search"
+      ],
+      "primary_category": "ai",
+      "owner": "firecrawl",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "created_at": "2024-04-15T21:02:29Z",
+      "updated_at": "2026-07-06T09:15:49Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "firecrawl"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 701547123,
+      "name": "open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "title_cn": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "description_cn": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "url": "https://github.com/open-webui/open-webui",
+      "stars": 144380,
+      "forks": 20866,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms"
+      ],
+      "primary_category": "ai",
+      "owner": "open-webui",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/158137808?v=4",
+      "created_at": "2023-10-06T22:08:27Z",
+      "updated_at": "2026-07-06T09:14:08Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "open",
+        "webui"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 552661142,
+      "name": "langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "title_cn": "langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "description_cn": "The agent engineering platform.",
+      "url": "https://github.com/langchain-ai/langchain",
+      "stars": 141070,
+      "forks": 23442,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "primary_category": "agents",
+      "owner": "langchain-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
+      "created_at": "2022-10-17T02:58:36Z",
+      "updated_at": "2026-07-06T09:14:32Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "langchain"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 881458615,
+      "name": "browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "title_cn": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description_cn": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 103026,
+      "forks": 11414,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "primary_category": "ai-agents",
+      "owner": "browser-use",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "created_at": "2024-10-31T16:00:56Z",
+      "updated_at": "2026-07-06T09:13:55Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "browser",
+        "use"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 669879380,
+      "name": "rasbt/LLMs-from-scratch",
+      "title": "rasbt/LLMs-from-scratch",
+      "title_cn": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "description_cn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "stars": 98618,
+      "forks": 15125,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning",
+        "finetuning"
+      ],
+      "primary_category": "ai",
+      "owner": "rasbt",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
+      "created_at": "2023-07-23T18:15:57Z",
+      "updated_at": "2026-07-06T08:46:59Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "rasbt",
+        "llms",
+        "scratch"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 909213664,
+      "name": "TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "title_cn": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_cn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 91194,
+      "forks": 17629,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "primary_category": "agent",
+      "owner": "TauricResearch",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
+      "created_at": "2024-12-28T03:31:08Z",
+      "updated_at": "2026-07-06T09:14:45Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "tauricresearch",
+        "tradingagents"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 599547518,
+      "name": "vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "title_cn": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "description_cn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "url": "https://github.com/vllm-project/vllm",
+      "stars": 85458,
+      "forks": 19007,
+      "language": "Python",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3"
+      ],
+      "primary_category": "amd",
+      "owner": "vllm-project",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
+      "created_at": "2023-02-09T11:23:20Z",
+      "updated_at": "2026-07-06T09:15:58Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "vllm",
+        "project"
+      ],
+      "hot_score": 100
+    },
+    {
+      "id": 1201173969,
+      "name": "JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "title_cn": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "description_cn": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 85286,
+      "forks": 4742,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
+      ],
+      "primary_category": "ai",
+      "owner": "JuliusBrussee",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
+      "created_at": "2026-04-04T10:03:00Z",
+      "updated_at": "2026-07-06T09:17:10Z",
+      "source": "GitHub",
+      "type": "project",
+      "tags": [
+        "AI综合"
+      ],
+      "keywords": [
+        "juliusbrussee",
+        "caveman"
+      ],
+      "hot_score": 100
+    }
+  ]
+}

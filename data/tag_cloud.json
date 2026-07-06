@@ -1,0 +1,245 @@
+{
+  "tags": [
+    {
+      "name": "AI综合",
+      "count": 76,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "大模型/LLM",
+      "count": 34,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "强化学习",
+      "count": 18,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP",
+      "count": 17,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV/计算机视觉",
+      "count": 17,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "模型动态/AI编程",
+      "count": 16,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "CV",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "AI",
+      "count": 13,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "模型训练/优化",
+      "count": 12,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "NLP/大模型",
+      "count": 10,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "机器学习",
+      "count": 10,
+      "weight": 100,
+      "type": "tag"
+    },
+    {
+      "name": "数据集/评估",
+      "count": 8,
+      "weight": 80,
+      "type": "tag"
+    },
+    {
+      "name": "AI安全/对齐",
+      "count": 7,
+      "weight": 70,
+      "type": "tag"
+    },
+    {
+      "name": "多模态",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "模型压缩/部署",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "机器人",
+      "count": 6,
+      "weight": 60,
+      "type": "tag"
+    },
+    {
+      "name": "语音技术",
+      "count": 3,
+      "weight": 30,
+      "type": "tag"
+    },
+    {
+      "name": "self",
+      "count": 4,
+      "weight": 20,
+      "type": "keyword"
+    },
+    {
+      "name": "language",
+      "count": 4,
+      "weight": 20,
+      "type": "keyword"
+    },
+    {
+      "name": "diffusion",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "llms",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "models",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "token",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "claude",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "fable",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "模型",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "waic",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "align",
+      "count": 3,
+      "weight": 15,
+      "type": "keyword"
+    },
+    {
+      "name": "AI应用",
+      "count": 1,
+      "weight": 10,
+      "type": "tag"
+    },
+    {
+      "name": "controllable",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "alignment",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "distributed",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "long",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "agents",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "social",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "active",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "panoramic",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "agent",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    },
+    {
+      "name": "free",
+      "count": 2,
+      "weight": 10,
+      "type": "keyword"
+    }
+  ],
+  "update_time": "2026-07-06 17:17:20"
+}

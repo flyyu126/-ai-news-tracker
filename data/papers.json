@@ -1,0 +1,1111 @@
+{
+  "items": [
+    {
+      "id": "2607.02517",
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "title_cn": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "summary": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain mot...",
+      "summary_cn": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain mot...",
+      "authors": [
+        "Hanlin Wang",
+        "Hao Ouyang",
+        "Qiuyu Wang",
+        "Wen Wang",
+        "Qingyan Bai"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:59Z",
+      "updated": "2026-07-02T17:59:59Z",
+      "link": "http://arxiv.org/abs/2607.02517v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02517v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "world",
+        "worlddirector",
+        "controllable",
+        "persistent",
+        "dynamic"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02516",
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "title_cn": "Alignment Is All You Need For X-to-4D Generation",
+      "summary": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existin...",
+      "summary_cn": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existin...",
+      "authors": [
+        "Qiaowei Miao",
+        "Kehan Li",
+        "Yawei Luo",
+        "Yi Yang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:57Z",
+      "updated": "2026-07-02T17:59:57Z",
+      "link": "http://arxiv.org/abs/2607.02516v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02516v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态",
+        "AI安全/对齐",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "generation",
+        "high",
+        "video",
+        "alignment",
+        "you"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02514",
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "title_cn": "Distributed Attacks in Persistent-State AI Control",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi...",
+      "summary_cn": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi...",
+      "authors": [
+        "Josh Hills",
+        "Ida Caspary",
+        "Asa Cooper Stickland"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:56Z",
+      "updated": "2026-07-02T17:59:56Z",
+      "link": "http://arxiv.org/abs/2607.02514v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02514v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "大模型/LLM",
+        "强化学习",
+        "AI应用",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "attacks",
+        "control",
+        "across",
+        "study",
+        "distributed"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02515",
+      "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "title_cn": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "summary": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulati...",
+      "summary_cn": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulati...",
+      "authors": [
+        "Haofei Xu",
+        "Rundi Wu",
+        "Philipp Henzler",
+        "Nikolai Kalischek",
+        "Michael Oechsle"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:56Z",
+      "updated": "2026-07-02T17:59:56Z",
+      "link": "http://arxiv.org/abs/2607.02515v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02515v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉"
+      ],
+      "keywords": [
+        "diffusion",
+        "pixel",
+        "space",
+        "geometry",
+        "loss"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02513",
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "title_cn": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th...",
+      "summary_cn": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th...",
+      "authors": [
+        "Matteo Boglioni",
+        "Thibault Rousset",
+        "Siva Reddy",
+        "Marius Mosbach",
+        "Verna Dankers"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:59:52Z",
+      "updated": "2026-07-02T17:59:52Z",
+      "link": "http://arxiv.org/abs/2607.02513v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02513v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "AI",
+        "机器学习",
+        "大模型/LLM",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "unlearning",
+        "methods",
+        "lacuna",
+        "testbed",
+        "evaluating"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02512",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "title_cn": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose...",
+      "summary_cn": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose...",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:59:50Z",
+      "updated": "2026-07-02T17:59:50Z",
+      "link": "http://arxiv.org/abs/2607.02512v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02512v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "NLP/大模型",
+        "大模型/LLM"
+      ],
+      "keywords": [
+        "programming",
+        "program",
+        "weights",
+        "paradigm",
+        "fuzzy"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02510",
+      "title": "Online Safety Monitoring for LLMs",
+      "title_cn": "Online Safety Monitoring for LLMs",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an al...",
+      "summary_cn": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an al...",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans",
+        "Christian Naesseth",
+        "Maja Waldron"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "stat.AP",
+        "stat.ML"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:43Z",
+      "updated": "2026-07-02T17:59:43Z",
+      "link": "http://arxiv.org/abs/2607.02510v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02510v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP/大模型",
+        "机器学习",
+        "大模型/LLM",
+        "NLP",
+        "强化学习",
+        "AI安全/对齐",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "online",
+        "safety",
+        "monitoring",
+        "llms",
+        "outputs"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02509",
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "title_cn": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a...",
+      "summary_cn": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a...",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei",
+        "Yuanchen Bei",
+        "Zhining Liu"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:26Z",
+      "updated": "2026-07-02T17:59:26Z",
+      "link": "http://arxiv.org/abs/2607.02509v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02509v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "大模型/LLM",
+        "模型训练/优化",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "context",
+        "long",
+        "evidence",
+        "reasoning",
+        "recontext"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02508",
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "title_cn": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "summary": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion mod...",
+      "summary_cn": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion mod...",
+      "authors": [
+        "Dengyang Jiang",
+        "Mengmeng Wang",
+        "Harry Yang",
+        "Jingdong Wang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:59:25Z",
+      "updated": "2026-07-02T17:59:25Z",
+      "link": "http://arxiv.org/abs/2607.02508v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02508v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "AI安全/对齐",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "self",
+        "flow",
+        "sra",
+        "alignment",
+        "diffusion"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02507",
+      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "title_cn": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an...",
+      "summary_cn": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an...",
+      "authors": [
+        "Arman Ghaffarizadeh",
+        "Danyal Mohaddes",
+        "Aliakbar Izadkhah",
+        "Shahriar Noroozizadeh"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:59:23Z",
+      "updated": "2026-07-02T17:59:23Z",
+      "link": "http://arxiv.org/abs/2607.02507v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02507v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP/大模型",
+        "机器学习",
+        "大模型/LLM",
+        "强化学习"
+      ],
+      "keywords": [
+        "agents",
+        "llm",
+        "say",
+        "social",
+        "structure"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02504",
+      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "title_cn": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field throu...",
+      "summary_cn": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field throu...",
+      "authors": [
+        "Yuxuan Li",
+        "Lingxi Xie",
+        "Xinyue Huo",
+        "Jihao Qiu",
+        "Jiacheng Shao"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:58:52Z",
+      "updated": "2026-07-02T17:58:52Z",
+      "link": "http://arxiv.org/abs/2607.02504v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02504v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "AI",
+        "CV",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "语音技术",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "speaker",
+        "recognition",
+        "long",
+        "form",
+        "dramas"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02502",
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "title_cn": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level...",
+      "summary_cn": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level...",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu",
+        "Mengzhe Ruan",
+        "Hanxu Hou"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:58:29Z",
+      "updated": "2026-07-02T17:58:29Z",
+      "link": "http://arxiv.org/abs/2607.02502v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02502v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "policy",
+        "self",
+        "distillation",
+        "teacher",
+        "information"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02501",
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "title_cn": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "summary": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, and robot-side glue code, especially on heterogeneous edge devices. Existing inference runtimes are de...",
+      "summary_cn": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, and robot-side glue code, especially on heterogeneous edge devices. Existing inference runtimes are de...",
+      "authors": [
+        "Ling Xu",
+        "Chuyu Han",
+        "Borui Li",
+        "Hao Wu",
+        "Shiqi Jiang"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.OS"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2026-07-02T17:58:28Z",
+      "updated": "2026-07-02T17:58:28Z",
+      "link": "http://arxiv.org/abs/2607.02501v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02501v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器人",
+        "CV",
+        "强化学习",
+        "多模态"
+      ],
+      "keywords": [
+        "embodied",
+        "models",
+        "inference",
+        "runtime",
+        "heterogeneous"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02499",
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "title_cn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and i...",
+      "summary_cn": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and i...",
+      "authors": [
+        "Gil Harari",
+        "Yoel Zimmermann",
+        "Ola Tangen Kulseng",
+        "Laura Zichi",
+        "Chuin Wei Tan"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.chem-ph",
+        "physics.comp-ph"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:57:31Z",
+      "updated": "2026-07-02T17:57:31Z",
+      "link": "http://arxiv.org/abs/2607.02499v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02499v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "数据集/评估",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "soap",
+        "muon",
+        "training",
+        "adam",
+        "machine"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02497",
+      "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+      "title_cn": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+      "summary": "Existing referring segmentation models passively process static images captured from fixed perspectives, limiting their applicability in Embodied AI, where agents must perform active perception in the continuous 360$^\\circ$ environments. To bridge this gap, we introduce a novel task: Active Panorami...",
+      "summary_cn": "Existing referring segmentation models passively process static images captured from fixed perspectives, limiting their applicability in Embodied AI, where agents must perform active perception in the continuous 360$^\\circ$ environments. To bridge this gap, we introduce a novel task: Active Panorami...",
+      "authors": [
+        "Song Tang",
+        "Shuming Hu",
+        "Xincheng Shuai",
+        "Henghui Ding",
+        "Yu-Gang Jiang"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:56:49Z",
+      "updated": "2026-07-02T17:56:49Z",
+      "link": "http://arxiv.org/abs/2607.02497v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02497v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "CV/计算机视觉",
+        "机器人"
+      ],
+      "keywords": [
+        "active",
+        "referring",
+        "segmentation",
+        "perception",
+        "panoramic"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02496",
+      "title": "Controllable Sim Agents with Behavior Latents",
+      "title_cn": "Controllable Sim Agents with Behavior Latents",
+      "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neura...",
+      "summary_cn": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neura...",
+      "authors": [
+        "Juanwu Lu",
+        "Junyu Zhu",
+        "Ziran Wang"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2026-07-02T17:55:39Z",
+      "updated": "2026-07-02T17:55:39Z",
+      "link": "http://arxiv.org/abs/2607.02496v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02496v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器人",
+        "机器学习",
+        "强化学习"
+      ],
+      "keywords": [
+        "controllable",
+        "agents",
+        "behavior",
+        "agent",
+        "per"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02494",
+      "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+      "title_cn": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+      "summary": "Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images c...",
+      "summary_cn": "Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images c...",
+      "authors": [
+        "Bohan Liu",
+        "Wenqian Ye",
+        "Guangzhi Xiong",
+        "Zhenghao He",
+        "Sanchit Sinha"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.CL"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:55:24Z",
+      "updated": "2026-07-02T17:55:24Z",
+      "link": "http://arxiv.org/abs/2607.02494v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02494v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "NLP/大模型",
+        "NLP",
+        "CV/计算机视觉",
+        "多模态",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "models",
+        "robustness",
+        "typographic",
+        "attack",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02491",
+      "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "title_cn": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "summary": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfa...",
+      "summary_cn": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfa...",
+      "authors": [
+        "Timo Bertram",
+        "Sidhant Bhavnani",
+        "Richard Freinschlag",
+        "Erich Kobler",
+        "Andreas Mayr"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "published": "2026-07-02T17:53:31Z",
+      "updated": "2026-07-02T17:53:31Z",
+      "link": "http://arxiv.org/abs/2607.02491v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02491v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "AI",
+        "NLP"
+      ],
+      "keywords": [
+        "symbolic",
+        "solvers",
+        "rrms",
+        "rrm",
+        "guiding"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02490",
+      "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "title_cn": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "summary": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual i...",
+      "summary_cn": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual i...",
+      "authors": [
+        "Liyan Tang",
+        "Fangcong Yin",
+        "Greg Durrett"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:53:15Z",
+      "updated": "2026-07-02T17:53:15Z",
+      "link": "http://arxiv.org/abs/2607.02490v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02490v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "CV",
+        "大模型/LLM",
+        "NLP",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态"
+      ],
+      "keywords": [
+        "reflection",
+        "grounded",
+        "self",
+        "vision",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02486",
+      "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "title_cn": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "summary": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. W...",
+      "summary_cn": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. W...",
+      "authors": [
+        "Yejun Zhang",
+        "Xinjue Wang",
+        "Zihan Wang",
+        "Esa Rahtu",
+        "Juho Kannala"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:52:41Z",
+      "updated": "2026-07-02T17:52:41Z",
+      "link": "http://arxiv.org/abs/2607.02486v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02486v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "CV/计算机视觉",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "descriptor",
+        "free",
+        "visual",
+        "localization",
+        "global"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02484",
+      "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+      "title_cn": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+      "summary": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: th...",
+      "summary_cn": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: th...",
+      "authors": [
+        "Xuehui Wang",
+        "Xuankun Yang",
+        "Wei Shen"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:50:57Z",
+      "updated": "2026-07-02T17:50:57Z",
+      "link": "http://arxiv.org/abs/2607.02484v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02484v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "AI",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "强化学习",
+        "多模态",
+        "模型压缩/部署",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "dense",
+        "token",
+        "textual",
+        "noise",
+        "entropy"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02479",
+      "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+      "title_cn": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+      "summary": "While Multimodal Large Language Models (MLLMs) have demonstrated exceptional capabilities in standard visual understanding, adapting them for active visual search in 360$^\\circ$ panoramic environments exposes fundamental limitations. Specifically, standard MLLMs struggle to effectively model inheren...",
+      "summary_cn": "While Multimodal Large Language Models (MLLMs) have demonstrated exceptional capabilities in standard visual understanding, adapting them for active visual search in 360$^\\circ$ panoramic environments exposes fundamental limitations. Specifically, standard MLLMs struggle to effectively model inheren...",
+      "authors": [
+        "Jingtao Xu",
+        "Zizhuo Lin",
+        "Jianwen Sun",
+        "Yi Yang",
+        "Yawei Luo"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:47:27Z",
+      "updated": "2026-07-02T17:47:27Z",
+      "link": "http://arxiv.org/abs/2607.02479v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02479v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "大模型/LLM",
+        "CV/计算机视觉",
+        "多模态",
+        "机器人"
+      ],
+      "keywords": [
+        "panoramic",
+        "active",
+        "circ",
+        "mllms",
+        "standard"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02473",
+      "title": "Audio-Based Understanding of Audiobook Narration Appeal",
+      "title_cn": "Audio-Based Understanding of Audiobook Narration Appeal",
+      "summary": "Narration is central to the audiobook listening experience, shaping how listeners engage with and understand the content. This work explores how narration qualities shape an audiobook's appeal, noting that their effects can vary by genre, title, and audience. We extract vocal and acoustic features (...",
+      "summary_cn": "Narration is central to the audiobook listening experience, shaping how listeners engage with and understand the content. This work explores how narration qualities shape an audiobook's appeal, noting that their effects can vary by genre, title, and audience. We extract vocal and acoustic features (...",
+      "authors": [
+        "Shahar Elisha",
+        "Mariano Beguerisse-Díaz",
+        "Emmanouil Benetos"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.SD",
+        "eess.AS"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:43:05Z",
+      "updated": "2026-07-02T17:43:05Z",
+      "link": "http://arxiv.org/abs/2607.02473v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02473v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "NLP",
+        "语音技术"
+      ],
+      "keywords": [
+        "audiobook",
+        "narration",
+        "audio",
+        "appeal",
+        "genre"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02464",
+      "title": "Will Scaling Improve Social Simulation with LLMs?",
+      "title_cn": "Will Scaling Improve Social Simulation with LLMs?",
+      "summary": "Large Language Model (LLM) social simulations are a promising research method, but they are not yet faithful enough to be adopted widely. In this work, we investigate whether the current scaling paradigm in language modeling is likely to close these gaps, or whether simulation fidelity is orthogonal...",
+      "summary_cn": "Large Language Model (LLM) social simulations are a promising research method, but they are not yet faithful enough to be adopted widely. In this work, we investigate whether the current scaling paradigm in language modeling is likely to close these gaps, or whether simulation fidelity is orthogonal...",
+      "authors": [
+        "Caleb Ziems",
+        "William Held",
+        "Su Doga Karaca",
+        "David Grusky",
+        "Tatsunori Hashimoto"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:30:38Z",
+      "updated": "2026-07-02T17:30:38Z",
+      "link": "http://arxiv.org/abs/2607.02464v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02464v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "大模型/LLM",
+        "NLP",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "scaling",
+        "social",
+        "simulation",
+        "llms",
+        "language"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02461",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "title_cn": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "summary": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, f...",
+      "summary_cn": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, f...",
+      "authors": [
+        "Donghyun Lee",
+        "Jitesh Chavan",
+        "Duy Nguyen",
+        "Sam Huang",
+        "Liming Jiang"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2026-07-02T17:27:34Z",
+      "updated": "2026-07-02T17:27:34Z",
+      "link": "http://arxiv.org/abs/2607.02461v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02461v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "CV",
+        "AI",
+        "机器学习",
+        "大模型/LLM",
+        "NLP",
+        "模型压缩/部署",
+        "模型训练/优化",
+        "模型动态/AI编程"
+      ],
+      "keywords": [
+        "orbitquant",
+        "agnostic",
+        "quantization",
+        "video",
+        "diffusion"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02460",
+      "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+      "title_cn": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+      "summary": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ...",
+      "summary_cn": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ...",
+      "authors": [
+        "Zhuowei Chen",
+        "Xiang Lorraine Li"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:27:24Z",
+      "updated": "2026-07-02T17:27:24Z",
+      "link": "http://arxiv.org/abs/2607.02460v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02460v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI",
+        "大模型/LLM",
+        "强化学习",
+        "模型压缩/部署",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "annotation",
+        "free",
+        "self",
+        "supervision",
+        "neuron"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02459",
+      "title": "Language Models as Measurement Apparatus for Culture",
+      "title_cn": "Language Models as Measurement Apparatus for Culture",
+      "summary": "Language models are increasingly used to quantify cultural phenomena, but what makes such measurement distinctively cultural? This paper argues that NLP work on culture is a material-discursive practice: the apparatus -- model, data, annotation, evaluation -- participates in constituting the cultura...",
+      "summary_cn": "Language models are increasingly used to quantify cultural phenomena, but what makes such measurement distinctively cultural? This paper argues that NLP work on culture is a material-discursive practice: the apparatus -- model, data, annotation, evaluation -- participates in constituting the cultura...",
+      "authors": [
+        "Kent K. Chang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "primary_category": "cs.CL",
+      "published": "2026-07-02T17:25:55Z",
+      "updated": "2026-07-02T17:25:55Z",
+      "link": "http://arxiv.org/abs/2607.02459v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02459v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "NLP/大模型",
+        "NLP",
+        "数据集/评估"
+      ],
+      "keywords": [
+        "cultural",
+        "language",
+        "models",
+        "measurement",
+        "apparatus"
+      ],
+      "hot_score": 88.0
+    },
+    {
+      "id": "2607.02447",
+      "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+      "title_cn": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+      "summary": "Recent research has introduced distributed self-supervised learning (D-SSL) approaches to leverage vast amounts of unlabeled decentralized data. However, D-SSL faces the critical challenge of data heterogeneity, and there is limited theoretical understanding of how different D-SSL frameworks respond...",
+      "summary_cn": "Recent research has introduced distributed self-supervised learning (D-SSL) approaches to leverage vast amounts of unlabeled decentralized data. However, D-SSL faces the critical challenge of data heterogeneity, and there is limited theoretical understanding of how different D-SSL frameworks respond...",
+      "authors": [
+        "Xuanyu Chen",
+        "Nan Yang",
+        "Shuai Wang",
+        "Dong Yuan"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "published": "2026-07-02T17:17:05Z",
+      "updated": "2026-07-02T17:17:05Z",
+      "link": "http://arxiv.org/abs/2607.02447v1",
+      "pdf_link": "https://arxiv.org/pdf/2607.02447v1",
+      "source": "arXiv",
+      "type": "paper",
+      "tags": [
+        "机器学习",
+        "AI安全/对齐",
+        "模型训练/优化"
+      ],
+      "keywords": [
+        "ssl",
+        "distributed",
+        "frameworks",
+        "non",
+        "understanding"
+      ],
+      "hot_score": 88.0
+    }
+  ],
+  "update_time": "2026-07-06 17:17:20"
+}
